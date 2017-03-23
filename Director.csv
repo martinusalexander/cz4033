@@ -1,3 +1,4 @@
+dir id,name ,dob ,gender ,movie id
 Dir_1,James Cameron,7/27/1978,Male,Mov_782
 Dir_2,Gore Verbinski,3/14/1978,Male,Mov_450
 Dir_3,Sam Mendes,12/31/1980,Female,Mov_604
