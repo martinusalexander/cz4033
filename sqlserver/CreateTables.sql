@@ -1,7 +1,7 @@
 CREATE TABLE Address(
 	AddressID varchar(10) NOT NULL,
-	StateName NVARCHAR(255) NOT NULL,
-	Country NVARCHAR(255) NOT NULL,
+	StateName VARCHAR(255) NOT NULL,
+	Country VARCHAR(25) NOT NULL,
 	CONSTRAINT pk_AddressID PRIMARY KEY (AddressID)
 );
 
@@ -15,32 +15,36 @@ CREATE TABLE Cinema (
 CREATE TABLE Movie( 
 	MovieID varchar(10) NOT NULL, 
 	ReleasedDate varchar(10) NOT NULL, 
-	MovieLanguage NVARCHAR(255) NOT NULL, 
+	MovieLanguage VARCHAR(255) NOT NULL, 
 	MovieTotalCost FLOAT NOT NULL, 
-	MovieCountry NVARCHAR(255) NOT NULL, 
-	MovieTitle NVARCHAR(255) NOT NULL, 
-	MovieGenre NVARCHAR(255) NOT NULL, 
+	MovieCountry VARCHAR(255) NOT NULL, 
+	MovieTitle VARCHAR(255) NOT NULL, 
+	MovieGenre VARCHAR(255) NOT NULL, 
 	CONSTRAINT pk_MovieID PRIMARY KEY(MovieID)
 ); 
 CREATE TABLE Person(
 	PersonID varchar(10) NOT NULL,
-	Name NVARCHAR(255) NOT NULL, 
+	Name VARCHAR(255) NOT NULL, 
 	DOB DATE NOT NULL, 
-	Gender CHAR NOT NULL,
+	Gender CHAR(10) NOT NULL,
 	CONSTRAINT pk_PersonID PRIMARY KEY(PersonID)
 );
 
 CREATE TABLE Director(
-	PersonID varchar(10) NOT NULL,
+	DirectorID varchar(10) NOT NULL,
+	Dir_name varchar(255) NOT NULL,
+	Dir_DOB date NOT NULL,
+	Dir_gender char(10) NOT NULL,
 	MovieID varchar(10) NOT NULL,
-	CONSTRAINT fk_PersonID_Director FOREIGN KEY(PersonID) REFERENCES Person(PersonID),
 	CONSTRAINT fk_MovieID_Director FOREIGN KEY(MovieID) REFERENCES Movie(MovieID)
 );
 
 CREATE TABLE Star(
 	PersonID varchar(10) NOT NULL,
+	Act_name varchar(255) NOT NULL,
+	Act_DOB date NOT NULL,
+	Act_gender char(10) NOT NULL,
 	MovieID varchar(10) NOT NULL,
-	CONSTRAINT fk_PersonID_Star FOREIGN KEY(PersonID) REFERENCES Person(PersonID),
 	CONSTRAINT fk_MovieID_Star FOREIGN KEY(MovieID) REFERENCES Movie(MovieID)
 );
 
@@ -50,41 +54,36 @@ CREATE TABLE Customer(
 	CustomerName char(30) NOT NULL, 
 	DOB varchar(10) NOT NULL,
 	Gender char(10) NOT NULL, 
-	---CONSTRAINT pk_CustomerID PRIMARY KEY(CustomerID),
 	CONSTRAINT pk_CustomerID_Customer PRIMARY KEY(CustomerID),
 	CONSTRAINT fk_AddressID_Customer FOREIGN KEY(AddressID) REFERENCES Address(AddressID)
 );
 
 
 CREATE TABLE OnlineTransaction(
-	OnlineTransactionID VARCHAR(10) NOT NULL, 
+	OnlineTransactionID VARCHAR(20) NOT NULL, 
 	System_ID NVARCHAR(255) NOT NULL, 
 	Browser NVARCHAR(255) NOT NULL, 
 	CONSTRAINT pk_OnlineTransactionID Primary KEY(OnlineTransactionID) 
 );  
 
 CREATE TABLE OfflineTransaction(
-	OfflineTransactionID VARCHAR(10) NOT NULL, 
+	OfflineTransactionID VARCHAR(20) NOT NULL, 
 	TransactionDate Date NOT NULL,
 	TransactionTime Time Not NULL,
-	TotalPrice Money NOT NULL,
+	TotalPrice varchar(10) NOT NULL,
 	CONSTRAINT pk_OfflineTransactionID PRIMARY KEY(OfflineTransactionID) 
 ); 
 
 CREATE TABLE Promotion( 
 	PromotionID varchar(10) NOT NULL, 
-	PromoDescription NVARCHAR(255) NOT NULL, 
-	Discount DECIMAL NOT NULL, 
-	--PromotionStartDate DATETIME NOT NULL, 
-	--PromotionEndDate DATETIME NOT NULL, 
+	PromoDescription VARCHAR(255) NOT NULL, 
+	Discount varchar(10) NOT NULL, 
 	CONSTRAINT pk_PromotionID PRIMARY KEY(PromotionID)
 ); 
 
-
-
 CREATE TABLE Ticket(
 	TicketID VARCHAR(10) NOT NULL,
-	SeatingRow NVARCHAR(255) NOT NULL, 
+	SeatingRow VARCHAR(255) NOT NULL, 
 	SeatNumber INT NOT NULL, 
 	TicketPrice FLOAT NOT NULL, 
 	CONSTRAINT pk_TicketID PRIMARY KEY(TicketID)
@@ -99,13 +98,13 @@ CREATE TABLE Showing(
 
 CREATE TABLE Hall(
 	HallID varchar(10) NOT NULL,
-	HallSize INT NOT NULL, 
+	HallSize varchar(10) NOT NULL, 
 	CONSTRAINT pk_HallID  PRIMARY KEY(HallID)
 );
 
 CREATE TABLE TotalSalesFT (
-	OnlineTransactionID VARCHAR(10) NOT NULL, 
-	OfflineTransactionID VARCHAR(10) NOT NULL,
+	OnlineTransactionID VARCHAR(20) NOT NULL, 
+	OfflineTransactionID VARCHAR(20) NOT NULL,
 	CustomerID VARCHAR(20) NOT NULL,
 	MovieID varchar(10) NOT NULL,
 	CinemaID varchar(10) NOT NULL,
@@ -113,6 +112,7 @@ CREATE TABLE TotalSalesFT (
 	ShowingID varchar(10) NOT NULL,
 	HallID varchar(10) NOT NULL,
 	TicketID VARCHAR(10) NOT NULL,
+	constraint fk_PersonID foreign key(PersonID) references Person(PersonID),
 	CONSTRAINT fk_OnlineTransactionID FOREIGN KEY(OnlineTransactionID) REFERENCES OnlineTransaction(OnlineTransactionID),
 	CONSTRAINT fk_OfflineTransactionID FOREIGN KEY(OfflineTransactionID) REFERENCES OfflineTransaction(OfflineTransactionID),
 	CONSTRAINT fk_CustomerID FOREIGN KEY(CustomerID) REFERENCES Customer(CustomerID),
