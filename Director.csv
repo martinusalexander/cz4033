@@ -1,850 +1,500 @@
-DirectorID,MovieID
-Dir_64,1
-Dir_134,2
-Dir_45,3
-Dir_53,4
-Dir_24,5
-Dir_21,6
-Dir_104,7
-Dir_30,8
-Dir_14,9
-Dir_119,10
-Dir_121,11
-Dir_118,12
-Dir_148,13
-Dir_44,14
-Dir_39,15
-Dir_13,16
-Dir_134,17
-Dir_119,18
-Dir_129,19
-Dir_79,20
-Dir_94,21
-Dir_120,22
-Dir_149,23
-Dir_57,24
-Dir_22,25
-Dir_104,26
-Dir_96,27
-Dir_125,28
-Dir_136,29
-Dir_125,30
-Dir_16,31
-Dir_49,32
-Dir_73,33
-Dir_124,34
-Dir_89,35
-Dir_35,36
-Dir_97,37
-Dir_61,38
-Dir_145,39
-Dir_11,40
-Dir_40,41
-Dir_64,42
-Dir_129,43
-Dir_45,44
-Dir_146,45
-Dir_149,46
-Dir_58,47
-Dir_53,48
-Dir_89,49
-Dir_75,50
-Dir_109,51
-Dir_129,52
-Dir_133,53
-Dir_146,54
-Dir_11,55
-Dir_147,56
-Dir_102,57
-Dir_44,58
-Dir_26,59
-Dir_119,60
-Dir_130,61
-Dir_128,62
-Dir_131,63
-Dir_22,64
-Dir_7,65
-Dir_87,66
-Dir_17,67
-Dir_88,68
-Dir_53,69
-Dir_80,70
-Dir_44,71
-Dir_73,72
-Dir_95,73
-Dir_63,74
-Dir_68,75
-Dir_150,76
-Dir_105,77
-Dir_36,78
-Dir_2,79
-Dir_122,80
-Dir_39,81
-Dir_51,82
-Dir_16,83
-Dir_92,84
-Dir_17,85
-Dir_130,86
-Dir_34,87
-Dir_73,88
-Dir_29,89
-Dir_126,90
-Dir_80,91
-Dir_126,92
-Dir_127,93
-Dir_132,94
-Dir_135,95
-Dir_88,96
-Dir_2,97
-Dir_34,98
-Dir_106,99
-Dir_68,100
-Dir_117,101
-Dir_96,102
-Dir_38,103
-Dir_14,104
-Dir_147,105
-Dir_25,106
-Dir_116,107
-Dir_41,108
-Dir_1,109
-Dir_31,110
-Dir_118,111
-Dir_16,112
-Dir_119,113
-Dir_3,114
-Dir_94,115
-Dir_40,116
-Dir_55,117
-Dir_42,118
-Dir_55,119
-Dir_18,120
-Dir_72,121
-Dir_91,122
-Dir_3,123
-Dir_29,124
-Dir_131,125
-Dir_22,126
-Dir_102,127
-Dir_73,128
-Dir_54,129
-Dir_25,130
-Dir_128,131
-Dir_51,132
-Dir_41,133
-Dir_43,134
-Dir_129,135
-Dir_140,136
-Dir_2,137
-Dir_101,138
-Dir_8,139
-Dir_124,140
-Dir_73,141
-Dir_138,142
-Dir_26,143
-Dir_120,144
-Dir_51,145
-Dir_142,146
-Dir_17,147
-Dir_58,148
-Dir_148,149
-Dir_114,150
-Dir_121,151
-Dir_66,152
-Dir_68,153
-Dir_21,154
-Dir_136,155
-Dir_45,156
-Dir_127,157
-Dir_21,158
-Dir_100,159
-Dir_131,160
-Dir_109,161
-Dir_126,162
-Dir_148,163
-Dir_78,164
-Dir_147,165
-Dir_109,166
-Dir_99,167
-Dir_38,168
-Dir_48,169
-Dir_104,170
-Dir_88,171
-Dir_99,172
-Dir_124,173
-Dir_36,174
-Dir_29,175
-Dir_47,176
-Dir_82,177
-Dir_73,178
-Dir_72,179
-Dir_29,180
-Dir_93,181
-Dir_105,182
-Dir_139,183
-Dir_80,184
-Dir_101,185
-Dir_60,186
-Dir_18,187
-Dir_91,188
-Dir_143,189
-Dir_90,190
-Dir_91,191
-Dir_75,192
-Dir_132,193
-Dir_39,194
-Dir_89,195
-Dir_99,196
-Dir_34,197
-Dir_44,198
-Dir_5,199
-Dir_59,200
-Dir_68,201
-Dir_48,202
-Dir_91,203
-Dir_136,204
-Dir_73,205
-Dir_84,206
-Dir_4,207
-Dir_147,208
-Dir_98,209
-Dir_150,210
-Dir_73,211
-Dir_128,212
-Dir_40,213
-Dir_42,214
-Dir_45,215
-Dir_112,216
-Dir_135,217
-Dir_104,218
-Dir_61,219
-Dir_68,220
-Dir_127,221
-Dir_128,222
-Dir_41,223
-Dir_135,224
-Dir_30,225
-Dir_68,226
-Dir_98,227
-Dir_6,228
-Dir_30,229
-Dir_24,230
-Dir_96,231
-Dir_91,232
-Dir_32,233
-Dir_85,234
-Dir_3,235
-Dir_100,236
-Dir_135,237
-Dir_27,238
-Dir_82,239
-Dir_76,240
-Dir_61,241
-Dir_3,242
-Dir_70,243
-Dir_114,244
-Dir_43,245
-Dir_83,246
-Dir_144,247
-Dir_76,248
-Dir_134,249
-Dir_59,250
-Dir_86,251
-Dir_114,252
-Dir_53,253
-Dir_55,254
-Dir_89,255
-Dir_32,256
-Dir_139,257
-Dir_35,258
-Dir_16,259
-Dir_18,260
-Dir_33,261
-Dir_64,262
-Dir_107,263
-Dir_137,264
-Dir_18,265
-Dir_103,266
-Dir_124,267
-Dir_69,268
-Dir_107,269
-Dir_27,270
-Dir_144,271
-Dir_11,272
-Dir_110,273
-Dir_34,274
-Dir_36,275
-Dir_53,276
-Dir_13,277
-Dir_48,278
-Dir_108,279
-Dir_62,280
-Dir_48,281
-Dir_26,282
-Dir_44,283
-Dir_48,284
-Dir_58,285
-Dir_80,286
-Dir_58,287
-Dir_139,288
-Dir_115,289
-Dir_16,290
-Dir_131,291
-Dir_39,292
-Dir_66,293
-Dir_60,294
-Dir_118,295
-Dir_134,296
-Dir_32,297
-Dir_106,298
-Dir_91,299
-Dir_62,300
-Dir_143,301
-Dir_115,302
-Dir_142,303
-Dir_33,304
-Dir_141,305
-Dir_108,306
-Dir_103,307
-Dir_127,308
-Dir_86,309
-Dir_75,310
-Dir_61,311
-Dir_45,312
-Dir_103,313
-Dir_63,314
-Dir_17,315
-Dir_57,316
-Dir_17,317
-Dir_45,318
-Dir_58,319
-Dir_93,320
-Dir_53,321
-Dir_128,322
-Dir_76,323
-Dir_132,324
-Dir_32,325
-Dir_93,326
-Dir_115,327
-Dir_86,328
-Dir_4,329
-Dir_44,330
-Dir_18,331
-Dir_117,332
-Dir_91,333
-Dir_29,334
-Dir_130,335
-Dir_110,336
-Dir_126,337
-Dir_24,338
-Dir_42,339
-Dir_56,340
-Dir_35,341
-Dir_86,342
-Dir_11,343
-Dir_137,344
-Dir_75,345
-Dir_81,346
-Dir_72,347
-Dir_116,348
-Dir_5,349
-Dir_109,350
-Dir_21,351
-Dir_114,352
-Dir_135,353
-Dir_57,354
-Dir_93,355
-Dir_137,356
-Dir_38,357
-Dir_75,358
-Dir_40,359
-Dir_102,360
-Dir_14,361
-Dir_138,362
-Dir_111,363
-Dir_50,364
-Dir_93,365
-Dir_34,366
-Dir_49,367
-Dir_113,368
-Dir_74,369
-Dir_19,370
-Dir_137,371
-Dir_106,372
-Dir_23,373
-Dir_15,374
-Dir_113,375
-Dir_120,376
-Dir_136,377
-Dir_95,378
-Dir_1,379
-Dir_141,380
-Dir_75,381
-Dir_67,382
-Dir_38,383
-Dir_130,384
-Dir_105,385
-Dir_90,386
-Dir_18,387
-Dir_71,388
-Dir_20,389
-Dir_96,390
-Dir_104,391
-Dir_36,392
-Dir_40,393
-Dir_20,394
-Dir_107,395
-Dir_121,396
-Dir_124,397
-Dir_33,398
-Dir_26,399
-Dir_54,400
-Dir_19,401
-Dir_144,402
-Dir_32,403
-Dir_16,404
-Dir_10,405
-Dir_27,406
-Dir_60,407
-Dir_77,408
-Dir_132,409
-Dir_148,410
-Dir_106,411
-Dir_125,412
-Dir_64,413
-Dir_135,414
-Dir_3,415
-Dir_75,416
-Dir_137,417
-Dir_137,418
-Dir_6,419
-Dir_11,420
-Dir_45,421
-Dir_39,422
-Dir_142,423
-Dir_30,424
-Dir_61,425
-Dir_65,426
-Dir_71,427
-Dir_51,428
-Dir_147,429
-Dir_93,430
-Dir_8,431
-Dir_142,432
-Dir_21,433
-Dir_28,434
-Dir_6,435
-Dir_56,436
-Dir_117,437
-Dir_52,438
-Dir_36,439
-Dir_73,440
-Dir_37,441
-Dir_116,442
-Dir_22,443
-Dir_64,444
-Dir_11,445
-Dir_115,446
-Dir_113,447
-Dir_30,448
-Dir_19,449
-Dir_107,450
-Dir_49,451
-Dir_56,452
-Dir_143,453
-Dir_99,454
-Dir_23,455
-Dir_94,456
-Dir_143,457
-Dir_30,458
-Dir_5,459
-Dir_56,460
-Dir_104,461
-Dir_105,462
-Dir_1,463
-Dir_139,464
-Dir_4,465
-Dir_54,466
-Dir_120,467
-Dir_5,468
-Dir_63,469
-Dir_148,470
-Dir_9,471
-Dir_4,472
-Dir_144,473
-Dir_17,474
-Dir_84,475
-Dir_40,476
-Dir_107,477
-Dir_52,478
-Dir_109,479
-Dir_48,480
-Dir_99,481
-Dir_4,482
-Dir_72,483
-Dir_108,484
-Dir_88,485
-Dir_50,486
-Dir_91,487
-Dir_34,488
-Dir_119,489
-Dir_9,490
-Dir_144,491
-Dir_33,492
-Dir_53,493
-Dir_48,494
-Dir_93,495
-Dir_24,496
-Dir_28,497
-Dir_117,498
-Dir_42,499
-Dir_40,500
-Dir_36,501
-Dir_42,502
-Dir_12,503
-Dir_103,504
-Dir_5,505
-Dir_62,506
-Dir_115,507
-Dir_119,508
-Dir_44,509
-Dir_109,510
-Dir_140,511
-Dir_61,512
-Dir_10,513
-Dir_117,514
-Dir_8,515
-Dir_50,516
-Dir_65,517
-Dir_14,518
-Dir_39,519
-Dir_55,520
-Dir_64,521
-Dir_85,522
-Dir_147,523
-Dir_63,524
-Dir_43,525
-Dir_4,526
-Dir_100,527
-Dir_22,528
-Dir_131,529
-Dir_110,530
-Dir_143,531
-Dir_104,532
-Dir_106,533
-Dir_66,534
-Dir_101,535
-Dir_124,536
-Dir_36,537
-Dir_68,538
-Dir_126,539
-Dir_6,540
-Dir_11,541
-Dir_66,542
-Dir_41,543
-Dir_129,544
-Dir_121,545
-Dir_120,546
-Dir_22,547
-Dir_136,548
-Dir_37,549
-Dir_135,550
-Dir_81,551
-Dir_115,552
-Dir_106,553
-Dir_129,554
-Dir_129,555
-Dir_134,556
-Dir_126,557
-Dir_150,558
-Dir_131,559
-Dir_133,560
-Dir_46,561
-Dir_13,562
-Dir_59,563
-Dir_113,564
-Dir_120,565
-Dir_140,566
-Dir_83,567
-Dir_104,568
-Dir_138,569
-Dir_138,570
-Dir_106,571
-Dir_22,572
-Dir_98,573
-Dir_4,574
-Dir_9,575
-Dir_54,576
-Dir_66,577
-Dir_58,578
-Dir_17,579
-Dir_93,580
-Dir_37,581
-Dir_42,582
-Dir_20,583
-Dir_138,584
-Dir_69,585
-Dir_129,586
-Dir_134,587
-Dir_27,588
-Dir_106,589
-Dir_16,590
-Dir_44,591
-Dir_133,592
-Dir_2,593
-Dir_82,594
-Dir_32,595
-Dir_74,596
-Dir_24,597
-Dir_86,598
-Dir_140,599
-Dir_16,600
-Dir_28,601
-Dir_109,602
-Dir_25,603
-Dir_85,604
-Dir_34,605
-Dir_115,606
-Dir_110,607
-Dir_16,608
-Dir_89,609
-Dir_68,610
-Dir_25,611
-Dir_110,612
-Dir_112,613
-Dir_127,614
-Dir_9,615
-Dir_119,616
-Dir_25,617
-Dir_17,618
-Dir_10,619
-Dir_18,620
-Dir_46,621
-Dir_21,622
-Dir_131,623
-Dir_127,624
-Dir_72,625
-Dir_114,626
-Dir_139,627
-Dir_89,628
-Dir_13,629
-Dir_80,630
-Dir_80,631
-Dir_71,632
-Dir_94,633
-Dir_67,634
-Dir_25,635
-Dir_102,636
-Dir_115,637
-Dir_117,638
-Dir_55,639
-Dir_11,640
-Dir_1,641
-Dir_81,642
-Dir_16,643
-Dir_132,644
-Dir_141,645
-Dir_30,646
-Dir_29,647
-Dir_138,648
-Dir_99,649
-Dir_55,650
-Dir_110,651
-Dir_77,652
-Dir_40,653
-Dir_149,654
-Dir_91,655
-Dir_17,656
-Dir_82,657
-Dir_16,658
-Dir_118,659
-Dir_68,660
-Dir_16,661
-Dir_75,662
-Dir_129,663
-Dir_80,664
-Dir_110,665
-Dir_147,666
-Dir_108,667
-Dir_148,668
-Dir_137,669
-Dir_124,670
-Dir_126,671
-Dir_15,672
-Dir_127,673
-Dir_84,674
-Dir_68,675
-Dir_70,676
-Dir_38,677
-Dir_102,678
-Dir_76,679
-Dir_103,680
-Dir_59,681
-Dir_139,682
-Dir_119,683
-Dir_68,684
-Dir_61,685
-Dir_95,686
-Dir_53,687
-Dir_39,688
-Dir_37,689
-Dir_76,690
-Dir_4,691
-Dir_77,692
-Dir_5,693
-Dir_92,694
-Dir_30,695
-Dir_5,696
-Dir_76,697
-Dir_27,698
-Dir_96,699
-Dir_10,700
-Dir_124,701
-Dir_128,702
-Dir_116,703
-Dir_33,704
-Dir_5,705
-Dir_112,706
-Dir_120,707
-Dir_89,708
-Dir_49,709
-Dir_93,710
-Dir_88,711
-Dir_100,712
-Dir_37,713
-Dir_111,714
-Dir_125,715
-Dir_103,716
-Dir_19,717
-Dir_34,718
-Dir_112,719
-Dir_58,720
-Dir_64,721
-Dir_72,722
-Dir_87,723
-Dir_83,724
-Dir_37,725
-Dir_55,726
-Dir_50,727
-Dir_105,728
-Dir_38,729
-Dir_68,730
-Dir_31,731
-Dir_143,732
-Dir_97,733
-Dir_96,734
-Dir_124,735
-Dir_65,736
-Dir_141,737
-Dir_65,738
-Dir_21,739
-Dir_128,740
-Dir_99,741
-Dir_39,742
-Dir_78,743
-Dir_148,744
-Dir_140,745
-Dir_1,746
-Dir_76,747
-Dir_3,748
-Dir_23,749
-Dir_132,750
-Dir_108,751
-Dir_87,752
-Dir_22,753
-Dir_2,754
-Dir_61,755
-Dir_11,756
-Dir_21,757
-Dir_127,758
-Dir_139,759
-Dir_139,760
-Dir_20,761
-Dir_34,762
-Dir_84,763
-Dir_1,764
-Dir_104,765
-Dir_68,766
-Dir_45,767
-Dir_36,768
-Dir_28,769
-Dir_83,770
-Dir_12,771
-Dir_49,772
-Dir_82,773
-Dir_88,774
-Dir_61,775
-Dir_38,776
-Dir_130,777
-Dir_42,778
-Dir_48,779
-Dir_20,780
-Dir_72,781
-Dir_72,782
-Dir_23,783
-Dir_52,784
-Dir_23,785
-Dir_121,786
-Dir_10,787
-Dir_127,788
-Dir_110,789
-Dir_135,790
-Dir_70,791
-Dir_96,792
-Dir_29,793
-Dir_108,794
-Dir_41,795
-Dir_73,796
-Dir_147,797
-Dir_18,798
-Dir_119,799
-Dir_149,800
-Dir_142,801
-Dir_113,802
-Dir_1,803
-Dir_39,804
-Dir_80,805
-Dir_94,806
-Dir_114,807
-Dir_25,808
-Dir_90,809
-Dir_6,810
-Dir_4,811
-Dir_13,812
-Dir_105,813
-Dir_131,814
-Dir_31,815
-Dir_53,816
-Dir_62,817
-Dir_35,818
-Dir_42,819
-Dir_90,820
-Dir_62,821
-Dir_49,822
-Dir_145,823
-Dir_93,824
-Dir_36,825
-Dir_144,826
-Dir_61,827
-Dir_121,828
-Dir_118,829
-Dir_65,830
-Dir_103,831
-Dir_123,832
-Dir_130,833
-Dir_126,834
-Dir_69,835
-Dir_6,836
-Dir_58,837
-Dir_66,838
-Dir_95,839
-Dir_99,840
-Dir_23,841
-Dir_26,842
-Dir_114,843
-Dir_34,844
-Dir_121,845
-Dir_56,846
-Dir_23,847
-Dir_64,848
-Dir_128,849
+Dir_1,James Cameron,7/27/1978,Male,Mov_782
+Dir_2,Gore Verbinski,3/14/1978,Male,Mov_450
+Dir_3,Sam Mendes,12/31/1980,Female,Mov_604
+Dir_4,Christopher Nolan,9/7/1952,Male,Mov_62
+Dir_5,Doug Walker,9/29/1964,Female,Mov_323
+Dir_6,Andrew Stanton,5/18/1985,Male,Mov_795
+Dir_7,Sam Raimi,12/4/1970,Female,Mov_722
+Dir_8,Nathan Greno,12/26/1950,Male,Mov_151
+Dir_9,Joss Whedon,1/12/1960,Female,Mov_905
+Dir_10,David Yates,9/4/1969,Female,Mov_727
+Dir_11,Zack Snyder,4/27/1944,Female,Mov_594
+Dir_12,Bryan Singer,12/22/1954,Female,Mov_985
+Dir_13,Marc Forster,8/12/1971,Male,Mov_691
+Dir_14,Andrew Adamson,10/29/1974,Female,Mov_404
+Dir_15,Rob Marshall,1/31/1942,Female,Mov_398
+Dir_16,Barry Sonnenfeld,9/29/1953,Male,Mov_578
+Dir_17,Peter Jackson,11/19/1949,Male,Mov_382
+Dir_18,Marc Webb,10/27/1988,Male,Mov_56
+Dir_19,Ridley Scott,6/20/1982,Female,Mov_378
+Dir_20,Chris Weitz,1/2/1950,Female,Mov_310
+Dir_21,Anthony Russo,6/24/1989,Female,Mov_763
+Dir_22,Peter Berg,6/27/1962,Female,Mov_207
+Dir_23,Colin Trevorrow,8/6/1944,Male,Mov_279
+Dir_24,Shane Black,10/12/1962,Female,Mov_745
+Dir_25,Tim Burton,8/16/1949,Female,Mov_533
+Dir_26,Brett Ratner,1/16/1972,Female,Mov_155
+Dir_27,Dan Scanlon,3/2/1978,Male,Mov_255
+Dir_28,Michael Bay,10/9/1969,Male,Mov_691
+Dir_29,Joseph Kosinski,11/21/1982,Male,Mov_794
+Dir_30,John Lasseter,1/5/1943,Male,Mov_652
+Dir_31,Martin Campbell,12/23/1940,Male,Mov_390
+Dir_32,Lee Unkrich,6/2/1943,Female,Mov_652
+Dir_33,McG,4/14/1950,Female,Mov_738
+Dir_34,James Wan,10/14/1958,Male,Mov_851
+Dir_35,J.J. Abrams,9/25/1972,Male,Mov_628
+Dir_36,Baz Luhrmann,1/5/1957,Female,Mov_176
+Dir_37,Mike Newell,12/19/1967,Female,Mov_340
+Dir_38,Guillermo del Toro,4/23/1942,Male,Mov_164
+Dir_39,Steven Spielberg,9/10/1952,Female,Mov_629
+Dir_40,Peter Sohn,12/15/1971,Female,Mov_276
+Dir_41,Mark Andrews,4/4/1948,Male,Mov_145
+Dir_42,Justin Lin,3/19/1967,Male,Mov_979
+Dir_43,Roland Emmerich,5/5/1961,Male,Mov_406
+Dir_44,Robert Zemeckis,2/12/1981,Female,Mov_922
+Dir_45,Lana Wachowski,3/18/1977,Male,Mov_450
+Dir_46,Pete Docter,12/13/1941,Male,Mov_40
+Dir_47,Rob Letterman,4/25/1980,Male,Mov_386
+Dir_48,Jon Favreau,11/7/1988,Male,Mov_80
+Dir_49,Martin Scorsese,9/15/1967,Female,Mov_648
+Dir_50,Rob Cohen,12/31/1973,Female,Mov_994
+Dir_51,David Ayer,11/3/1956,Female,Mov_807
+Dir_52,Tom Shadyac,10/18/1940,Male,Mov_693
+Dir_53,Doug Liman,5/13/1963,Male,Mov_732
+Dir_54,Kevin Reynolds,9/14/1960,Female,Mov_619
+Dir_55,Stephen Sommers,4/20/1952,Male,Mov_694
+Dir_56,Rupert Sanders,7/21/1949,Male,Mov_165
+Dir_57,Robert Stromberg,12/23/1981,Female,Mov_624
+Dir_58,Matt Reeves,8/9/1957,Male,Mov_290
+Dir_59,Roland Joff??,3/24/1964,Male,Mov_155
+Dir_60,Carl Rinsch,10/9/1969,Male,Mov_660
+Dir_61,Mike Mitchell,6/7/1976,Male,Mov_853
+Dir_62,Brad Bird,4/3/1950,Female,Mov_613
+Dir_63,Don Hall,5/16/1972,Female,Mov_162
+Dir_64,Rich Moore,10/19/1987,Female,Mov_900
+Dir_65,Dean DeBlois,9/28/1969,Male,Mov_206
+Dir_66,Jonathan Mostow,12/18/1951,Female,Mov_945
+Dir_67,James Gunn,4/19/1978,Male,Mov_250
+Dir_68,Hideaki Anno,5/15/1968,Female,Mov_125
+Dir_69,David Fincher,7/12/1966,Female,Mov_24
+Dir_70,Matthew Vaughn,11/23/1942,Male,Mov_467
+Dir_71,Francis Lawrence,12/24/1957,Male,Mov_685
+Dir_72,Jon Turteltaub,7/31/1960,Female,Mov_626
+Dir_73,Wolfgang Petersen,1/29/1965,Male,Mov_413
+Dir_74,James Bobin,12/4/1973,Female,Mov_679
+Dir_75,Chris Miller,2/10/1949,Female,Mov_596
+Dir_76,Duncan Jones,3/13/1983,Female,Mov_183
+Dir_77,Alan Taylor,11/22/1982,Female,Mov_99
+Dir_78,Michael Apted,12/30/1968,Male,Mov_566
+Dir_79,Oliver Stone,9/10/1969,Male,Mov_441
+Dir_80,Eric Darnell,10/27/1960,Male,Mov_831
+Dir_81,Shawn Levy,9/26/1946,Female,Mov_710
+Dir_82,Gavin Hood,12/6/1941,Male,Mov_38
+Dir_83,Chris Buck,12/13/1959,Male,Mov_197
+Dir_84,George Miller,6/19/1963,Female,Mov_313
+Dir_85,Ron Howard,6/7/1964,Female,Mov_560
+Dir_86,Kenneth Branagh,6/10/1958,Female,Mov_933
+Dir_87,Byron Howard,11/5/1953,Male,Mov_412
+Dir_88,Hoyt Yeatman,11/26/1950,Female,Mov_530
+Dir_89,Jonathan Liebesman,10/29/1973,Male,Mov_297
+Dir_90,Christopher McQuarrie,12/9/1970,Male,Mov_795
+Dir_91,Joe Johnston,7/18/1972,Female,Mov_257
+Dir_92,Steve Hickner,10/12/1965,Male,Mov_151
+Dir_93,Jennifer Yuh Nelson,3/12/1987,Female,Mov_121
+Dir_94,M. Night Shyamalan,7/31/1940,Female,Mov_576
+Dir_95,Simon Wells,3/10/1984,Female,Mov_764
+Dir_96,David Bowers,5/15/1986,Female,Mov_651
+Dir_97,Joe Wright,3/7/1961,Male,Mov_767
+Dir_98,Rob Minkoff,9/19/1975,Male,Mov_545
+Dir_99,Lee Tamahori,8/22/1950,Male,Mov_354
+Dir_100,Paul Feig,9/19/1952,Female,Mov_171
+Dir_101,Alessandro Carloni,1/14/1986,Male,Mov_49
+Dir_102,Peter Ramsey,7/13/1967,Male,Mov_109
+Dir_103,Dean Parisot,11/1/1978,Male,Mov_114
+Dir_104,Edward Zwick,10/18/1948,Male,Mov_999
+Dir_105,Alex Proyas,7/26/1963,Male,Mov_853
+Dir_106,Richard Donner,9/9/1986,Male,Mov_195
+Dir_107,Ang Lee,6/9/1986,Female,Mov_443
+Dir_108,Jon M. Chu,3/31/1953,Female,Mov_616
+Dir_109,Breck Eisner,12/28/1949,Female,Mov_915
+Dir_110,Hironobu Sakaguchi,2/17/1973,Female,Mov_112
+Dir_111,Peter Weir,4/9/1956,Female,Mov_66
+Dir_112,Bill Condon,3/28/1947,Male,Mov_956
+Dir_113,Louis Leterrier,1/25/1966,Female,Mov_960
+Dir_114,Aaron Han,6/24/1958,Male,Mov_850
+Dir_115,Alejandro G. I?ñrritu,7/23/1961,Female,Mov_112
+Dir_116,David Soren,3/3/1989,Female,Mov_780
+Dir_117,Paul Greengrass,9/19/1978,Male,Mov_639
+Dir_118,Mark Osborne,8/20/1962,Female,Mov_736
+Dir_119,Peyton Reed,9/4/1960,Female,Mov_36
+Dir_120,Tim Johnson,6/10/1973,Male,Mov_814
+Dir_121,Phillip Noyce,6/5/1963,Female,Mov_718
+Dir_122,Darren Aronofsky,7/14/1956,Male,Mov_695
+Dir_123,Alfonso Cuarn,2/19/1952,Male,Mov_118
+Dir_124,Eric Leighton,6/25/1972,Female,Mov_337
+Dir_125,Matt Birch,6/29/1946,Female,Mov_857
+Dir_126,Tom McGrath,3/10/1960,Female,Mov_845
+Dir_127,Chris Columbus,5/3/1974,Female,Mov_882
+Dir_128,Robert Schwentke,6/28/1955,Male,Mov_880
+Dir_129,Carlos Saldanha,8/13/1945,Male,Mov_414
+Dir_130,Guy Ritchie,7/19/1964,Female,Mov_5
+Dir_131,Paul Verhoeven,6/21/1969,Female,Mov_118
+Dir_132,John McTiernan,4/6/1954,Male,Mov_142
+Dir_133,Tony Gilroy,10/5/1963,Male,Mov_636
+Dir_134,Joel Schumacher,7/9/1968,Female,Mov_23
+Dir_135,John Woo,7/13/1984,Male,Mov_393
+Dir_136,Tim Story,8/17/1973,Male,Mov_118
+Dir_137,Mark Steven Johnson,4/15/1947,Female,Mov_660
+Dir_138,Neill Blomkamp,12/9/1969,Female,Mov_82
+Dir_139,David Twohy,6/5/1983,Male,Mov_754
+Dir_140,Jos?? Padilha,4/1/1953,Male,Mov_897
+Dir_141,James L. Brooks,12/7/1948,Male,Mov_568
+Dir_142,James Mangold,11/13/1955,Female,Mov_772
+Dir_143,George Lucas,10/1/1978,Male,Mov_232
+Dir_144,Kirk De Micco,8/17/1947,Female,Mov_25
+Dir_145,Fr??d??ric Forestier,9/2/1971,Female,Mov_510
+Dir_146,Cedric Nicolas-Troyan,6/15/1961,Female,Mov_656
+Dir_147,Roger Donaldson,11/25/1972,Female,Mov_17
+Dir_148,Dave Green,7/7/1957,Female,Mov_139
+Dir_149,Josh Trank,9/29/1958,Male,Mov_476
+Dir_150,Brad Peyton,3/19/1953,Male,Mov_148
+Dir_151,Roger Spottiswoode,8/26/1979,Female,Mov_315
+Dir_152,Steven Soderbergh,12/21/1948,Female,Mov_417
+Dir_153,Michel Gondry,8/18/1948,Male,Mov_779
+Dir_154,Abel Ferrara,9/16/1973,Male,Mov_101
+Dir_155,Noam Murro,11/26/1972,Female,Mov_630
+Dir_156,Raja Gosnell,1/20/1954,Male,Mov_465
+Dir_157,Will Finn,9/3/1974,Male,Mov_494
+Dir_158,Jan de Bont,1/12/1969,Female,Mov_260
+Dir_159,Len Wiseman,2/5/1949,Female,Mov_462
+Dir_160,Frank Coraci,7/7/1983,Male,Mov_190
+Dir_161,Michael Mann,11/30/1947,Female,Mov_13
+Dir_162,Bo Welch,9/9/1967,Female,Mov_964
+Dir_163,Ron Clements,2/9/1940,Male,Mov_721
+Dir_164,Christopher Barnard,11/10/1981,Male,Mov_814
+Dir_165,Peter Chelsom,4/15/1953,Female,Mov_269
+Dir_166,Dominic Sena,1/16/1982,Female,Mov_188
+Dir_167,Tony Scott,3/25/1958,Male,Mov_896
+Dir_168,Paul Weitz,2/24/1981,Female,Mov_569
+Dir_169,Adam McKay,6/1/1967,Female,Mov_212
+Dir_170,Chuck Russell,1/14/1967,Male,Mov_636
+Dir_171,Quentin Tarantino,3/7/1982,Male,Mov_514
+Dir_172,Gary Trousdale,4/8/1947,Female,Mov_492
+Dir_173,Mark Dindal,6/2/1973,Female,Mov_716
+Dir_174,Simon West,10/5/1978,Male,Mov_42
+Dir_175,Stefen Fangmeier,2/14/1949,Male,Mov_596
+Dir_176,Spike Jonze,4/16/1965,Male,Mov_79
+Dir_177,Chris Wedge,8/25/1970,Male,Mov_36
+Dir_178,Florian Henckel von Donnersmarck,4/30/1940,Female,Mov_454
+Dir_179,Peter Hyams,7/16/1975,Female,Mov_609
+Dir_180,Tom Tykwer,4/26/1980,Male,Mov_275
+Dir_181,Pitof,1/16/1981,Female,Mov_354
+Dir_182,Brad Silberling,12/20/1958,Male,Mov_15
+Dir_183,Patrick Hughes,7/8/1942,Male,Mov_721
+Dir_184,Ericson Core,8/25/1942,Male,Mov_589
+Dir_185,Lawrence Guterman,3/10/1941,Male,Mov_639
+Dir_186,Ron Underwood,5/26/1964,Male,Mov_519
+Dir_187,Steve Martino,4/2/1973,Female,Mov_987
+Dir_188,David Mamet,5/28/1983,Female,Mov_283
+Dir_189,Yimou Zhang,2/13/1970,Male,Mov_640
+Dir_190,Ash Brannon,10/30/1959,Female,Mov_275
+Dir_191,Frank Oz,12/21/1982,Female,Mov_376
+Dir_192,Jay Roach,12/20/1960,Male,Mov_558
+Dir_193,Luc Besson,5/12/1978,Female,Mov_793
+Dir_194,Michael Patrick King,5/17/1980,Male,Mov_426
+Dir_195,Bibo Bergeron,8/8/1952,Male,Mov_688
+Dir_196,Sergey Bodrov,1/4/1944,Male,Mov_740
+Dir_197,Wally Pfister,10/17/1961,Female,Mov_121
+Dir_198,Rupert Wyatt,4/18/1967,Male,Mov_543
+Dir_199,Mark Waters,10/9/1965,Female,Mov_405
+Dir_200,John Moore,7/12/1963,Female,Mov_834
+Dir_201,John Lee Hancock,9/12/1949,Female,Mov_721
+Dir_202,Renny Harlin,9/28/1950,Male,Mov_800
+Dir_203,Phil Lord,8/12/1964,Male,Mov_941
+Dir_204,Ben Stiller,1/23/1979,Female,Mov_727
+Dir_205,Tony Bancroft,9/30/1955,Male,Mov_542
+Dir_206,Timur Bekmambetov,8/28/1969,Male,Mov_420
+Dir_207,Walt Becker,11/1/1940,Male,Mov_469
+Dir_208,Dennis Dugan,4/18/1940,Female,Mov_479
+Dir_209,Sydney Pollack,11/7/1973,Male,Mov_721
+Dir_210,Thor Freudenthal,5/7/1986,Female,Mov_714
+Dir_211,Brian De Palma,8/17/1954,Male,Mov_647
+Dir_212,Mick Jackson,8/4/1952,Male,Mov_530
+Dir_213,Alan J. Pakula,11/2/1980,Female,Mov_609
+Dir_214,Kathryn Bigelow,4/15/1973,Male,Mov_142
+Dir_215,John Milius,10/12/1978,Female,Mov_689
+Dir_216,Andrey Konchalovskiy,11/3/1984,Male,Mov_522
+Dir_217,Gary Ross,6/27/1985,Male,Mov_735
+Dir_218,Paul W.S. Anderson,7/22/1943,Female,Mov_821
+Dir_219,Genndy Tartakovsky,6/6/1966,Female,Mov_661
+Dir_220,Kevin Lima,3/19/1986,Female,Mov_256
+Dir_221,Adam Brooks,2/6/1981,Male,Mov_180
+Dir_222,Daniel Espinosa,8/17/1980,Female,Mov_132
+Dir_223,Nancy Meyers,3/5/1989,Male,Mov_832
+Dir_224,Roger Allers,4/8/1960,Male,Mov_729
+Dir_225,Neil Burger,3/30/1978,Male,Mov_636
+Dir_226,Jean-Jacques Annaud,1/25/1941,Male,Mov_237
+Dir_227,Sarah Smith,1/30/1954,Male,Mov_263
+Dir_228,Martin Brest,6/28/1946,Female,Mov_427
+Dir_229,Andrew Davis,11/5/1963,Female,Mov_304
+Dir_230,Bob Fosse,4/9/1971,Female,Mov_548
+Dir_231,Tarsem Singh,7/19/1984,Female,Mov_897
+Dir_232,Edgar Wright,10/31/1967,Male,Mov_622
+Dir_233,Jon Amiel,5/15/1985,Female,Mov_616
+Dir_234,Peter Segal,2/22/1963,Male,Mov_951
+Dir_235,Pete Travis,10/19/1963,Female,Mov_528
+Dir_236,George A. Romero,8/20/1953,Male,Mov_78
+Dir_237,Sylvester Stallone,10/11/1986,Male,Mov_114
+Dir_238,Todd Phillips,12/24/1953,Female,Mov_513
+Dir_239,Gary Winick,7/7/1947,Female,Mov_942
+Dir_240,Mimi Leder,8/10/1982,Female,Mov_889
+Dir_241,Seth Gordon,12/16/1965,Male,Mov_309
+Dir_242,Adam Shankman,5/9/1978,Male,Mov_134
+Dir_243,Adam Carolla,6/24/1953,Male,Mov_422
+Dir_244,D.J. Caruso,11/11/1960,Male,Mov_692
+Dir_245,Anthony Minghella,10/31/1940,Female,Mov_994
+Dir_246,Albert Hughes,11/23/1974,Female,Mov_52
+Dir_247,Les Mayfield,10/4/1955,Male,Mov_692
+Dir_248,Joe Pytka,10/10/1955,Female,Mov_201
+Dir_249,Scott Derrickson,9/17/1964,Female,Mov_655
+Dir_250,Ivan Reitman,3/29/1970,Female,Mov_288
+Dir_251,Eric Brevig,10/12/1978,Female,Mov_827
+Dir_252,Kelly Asbury,8/24/1988,Male,Mov_985
+Dir_253,Stephen Hopkins,4/30/1966,Male,Mov_829
+Dir_254,Jonathan Demme,8/20/1963,Female,Mov_373
+Dir_255,Henry Jaglom,12/28/1965,Male,Mov_669
+Dir_256,Adam Green,3/26/1948,Male,Mov_692
+Dir_257,James Algar,10/25/1944,Male,Mov_422
+Dir_258,Vincent Ward,8/4/1979,Male,Mov_82
+Dir_259,Steven Brill,7/18/1981,Male,Mov_303
+Dir_260,Terry Gilliam,9/13/1944,Female,Mov_737
+Dir_261,Lucile Hadzihalilovic,11/5/1953,Male,Mov_105
+Dir_262,Barry Cook,5/4/1982,Female,Mov_971
+Dir_263,Roger Christian,12/23/1962,Female,Mov_217
+Dir_264,Joe Dante,2/9/1983,Male,Mov_199
+Dir_265,Kevin Costner,9/2/1949,Female,Mov_231
+Dir_266,Antony Hoffman,12/2/1953,Male,Mov_776
+Dir_267,Jacques Perrin,11/29/1956,Male,Mov_612
+Dir_268,Andr??s Couturier,3/25/1985,Female,Mov_566
+Dir_269,Cody Cameron,11/17/1981,Male,Mov_807
+Dir_270,John Singleton,5/14/1956,Female,Mov_804
+Dir_271,Oliver Hirschbiegel,10/2/1951,Female,Mov_920
+Dir_272,Des McAnuff,8/16/1940,Male,Mov_412
+Dir_273,Yarrow Cheney,6/30/1946,Female,Mov_634
+Dir_274,Stephen Norrington,1/20/1961,Female,Mov_678
+Dir_275,Pierre Coffin,6/1/1941,Male,Mov_37
+Dir_276,David Kellogg,1/24/1986,Female,Mov_757
+Dir_277,Mike Nichols,1/1/1969,Female,Mov_317
+Dir_278,F. Gary Gray,3/10/1963,Male,Mov_481
+Dir_279,Antoine Fuqua,4/2/1960,Male,Mov_378
+Dir_280,Robert Luketic,9/22/1985,Female,Mov_331
+Dir_281,Gil Kenan,8/8/1960,Female,Mov_429
+Dir_282,Barry Levinson,9/10/1940,Female,Mov_134
+Dir_283,Jerry Zucker,9/6/1954,Female,Mov_924
+Dir_284,Andy Tennant,1/9/1958,Male,Mov_810
+Dir_285,Florent-Emilio Siri,8/5/1942,Male,Mov_825
+Dir_286,Don Bluth,1/16/1956,Female,Mov_102
+Dir_287,Ron Shelton,1/24/1971,Female,Mov_707
+Dir_288,David Pastor,7/11/1987,Male,Mov_206
+Dir_289,Henry Selick,3/18/1979,Female,Mov_817
+Dir_290,Kyle Balda,2/8/1982,Female,Mov_9
+Dir_291,Clay Kaytis,5/4/1974,Male,Mov_189
+Dir_292,Judd Apatow,3/19/1947,Female,Mov_343
+Dir_293,Steve Carr,4/12/1963,Male,Mov_603
+Dir_294,Mel Gibson,3/4/1942,Male,Mov_440
+Dir_295,David Silverman,9/26/1962,Female,Mov_852
+Dir_296,Frank Darabont,10/27/1969,Female,Mov_445
+Dir_297,Betty Thomas,7/1/1964,Male,Mov_44
+Dir_298,Garry Marshall,10/19/1975,Male,Mov_760
+Dir_299,Paul Tibbitt,8/26/1978,Male,Mov_393
+Dir_300,Clark Johnson,9/7/1965,Female,Mov_182
+Dir_301,Richard Benjamin,3/15/1953,Female,Mov_91
+Dir_302,Cameron Crowe,11/4/1953,Female,Mov_197
+Dir_303,Randall Wallace,7/17/1963,Female,Mov_458
+Dir_304,Jonathan Frakes,11/1/1965,Female,Mov_749
+Dir_305,George Clooney,4/29/1949,Female,Mov_548
+Dir_306,Gary Shore,8/21/1958,Female,Mov_560
+Dir_307,Andrzej Bartkowiak,6/24/1952,Male,Mov_263
+Dir_308,M??ns M??rlind,8/30/1948,Female,Mov_332
+Dir_309,Gregory Hoblit,9/5/1944,Male,Mov_793
+Dir_310,Gary McKendry,8/19/1964,Female,Mov_509
+Dir_311,Wych Kaosayananda,1/21/1970,Male,Mov_143
+Dir_312,Mikael Salomon,10/22/1974,Male,Mov_50
+Dir_313,Bobby Farrelly,1/15/1984,Female,Mov_427
+Dir_314,Kerry Conran,1/12/1989,Female,Mov_901
+Dir_315,Michael Caton-Jones,5/29/1965,Female,Mov_750
+Dir_316,Mikael H??fstr??m,10/21/1968,Male,Mov_91
+Dir_317,Phil Alden Robinson,8/24/1968,Female,Mov_215
+Dir_318,David Slade,12/8/1972,Female,Mov_529
+Dir_319,Joseph Ruben,11/22/1977,Male,Mov_876
+Dir_320,Seth MacFarlane,1/25/1946,Male,Mov_542
+Dir_321,Alejandro Amenbar,1/31/1962,Female,Mov_473
+Dir_322,Kinka Usher,1/16/1989,Male,Mov_744
+Dir_323,Craig Gillespie,2/19/1956,Male,Mov_778
+Dir_324,Marco Schnabel,1/27/1954,Male,Mov_243
+Dir_325,Rob Bowman,12/25/1987,Female,Mov_39
+Dir_326,Doug Lefler,7/10/1967,Male,Mov_889
+Dir_327,Scott Waugh,5/5/1981,Female,Mov_20
+Dir_328,Lawrence Kasdan,8/25/1961,Female,Mov_35
+Dir_329,Michael Lembeck,10/2/1980,Male,Mov_149
+Dir_330,Tom Hooper,11/22/1969,Male,Mov_970
+Dir_331,Nora Ephron,7/11/1948,Female,Mov_523
+Dir_332,Angelina Jolie Pitt,10/24/1973,Male,Mov_33
+Dir_333,Clint Eastwood,3/2/1967,Male,Mov_968
+Dir_334,Larry Charles,10/16/1947,Female,Mov_134
+Dir_335,Stanley Kubrick,6/1/1979,Male,Mov_675
+Dir_336,Will Gluck,7/4/1973,Male,Mov_367
+Dir_337,Glenn Ficarra,6/20/1950,Female,Mov_617
+Dir_338,David S. Goyer,8/8/1975,Female,Mov_185
+Dir_339,Taylor Hackford,6/4/1950,Female,Mov_571
+Dir_340,Sam Fell,1/5/1954,Female,Mov_308
+Dir_341,Michael Lehmann,2/23/1951,Female,Mov_889
+Dir_342,Stuart Beattie,1/18/1943,Female,Mov_152
+Dir_343,Roman Polanski,6/1/1959,Female,Mov_913
+Dir_344,Frank Miller,2/17/1949,Female,Mov_444
+Dir_345,Baltasar Kormkur,1/7/1954,Male,Mov_892
+Dir_346,Daniel Lee,11/30/1962,Male,Mov_278
+Dir_347,Keenen Ivory Wayans,5/31/1942,Female,Mov_801
+Dir_348,Rob Reiner,12/27/1950,Female,Mov_880
+Dir_349,Demian Lichtenstein,9/24/1981,Female,Mov_657
+Dir_350,Josh Gordon,7/24/1956,Female,Mov_664
+Dir_351,Tim Hill,12/14/1985,Female,Mov_409
+Dir_352,David Frankel,7/21/1954,Male,Mov_472
+Dir_353,Brenda Chapman,8/14/1943,Female,Mov_642
+Dir_354,Marc Lawrence,10/26/1947,Male,Mov_616
+Dir_355,Peter Billingsley,11/23/1987,Female,Mov_273
+Dir_356,Wes Ball,1/28/1962,Female,Mov_694
+Dir_357,Ryan Murphy,3/16/1967,Female,Mov_739
+Dir_358,Robert Redford,8/16/1967,Female,Mov_424
+Dir_359,Jay Russell,5/30/1983,Female,Mov_180
+Dir_360,Kenny Ortega,7/20/1985,Male,Mov_763
+Dir_361,David McNally,2/4/1956,Male,Mov_97
+Dir_362,Brian Robbins,9/16/1949,Male,Mov_394
+Dir_363,Brian Levant,7/25/1962,Male,Mov_194
+Dir_364,Steven Zaillian,10/10/1984,Female,Mov_635
+Dir_365,Chris Butler,12/9/1983,Male,Mov_365
+Dir_366,Jon Avnet,6/19/1959,Male,Mov_660
+Dir_367,Spike Lee,7/28/1976,Male,Mov_675
+Dir_368,Kevin Donovan,1/22/1981,Male,Mov_959
+Dir_369,Geoff Murphy,6/17/1944,Female,Mov_987
+Dir_370,David O. Russell,8/10/1953,Female,Mov_40
+Dir_371,Babak Najafi,11/4/1966,Male,Mov_963
+Dir_372,Jean-Pierre Jeunet,6/28/1946,Female,Mov_108
+Dir_373,Graham Annable,7/28/1962,Male,Mov_474
+Dir_374,Griffin Dunne,8/24/1970,Female,Mov_972
+Dir_375,John Pasquin,3/21/1977,Male,Mov_309
+Dir_376,Ruben Fleischer,6/17/1958,Female,Mov_877
+Dir_377,Harold Ramis,10/7/1949,Female,Mov_385
+Dir_378,Kevin Macdonald,7/30/1972,Female,Mov_86
+Dir_379,Donald Petrie,1/26/1950,Female,Mov_605
+Dir_380,Jorge Blanco,9/20/1984,Male,Mov_300
+Dir_381,Stuart Baird,4/9/1942,Female,Mov_977
+Dir_382,Joel Coen,3/9/1964,Male,Mov_146
+Dir_383,Robert Lorenz,5/16/1988,Male,Mov_107
+Dir_384,Harold Becker,8/21/1971,Male,Mov_502
+Dir_385,Scott Stewart,3/8/1979,Male,Mov_434
+Dir_386,Patrick Gilmore,10/10/1958,Female,Mov_634
+Dir_387,Tony Bill,5/30/1957,Female,Mov_776
+Dir_388,Rod Lurie,7/18/1971,Female,Mov_326
+Dir_389,Walter Hill,1/2/1957,Male,Mov_797
+Dir_390,Akiva Goldsman,7/4/1978,Female,Mov_810
+Dir_391,Harald Zwart,11/5/1972,Male,Mov_49
+Dir_392,Walter Salles,5/3/1959,Female,Mov_899
+Dir_393,Iain Softley,6/2/1974,Male,Mov_415
+Dir_394,David Koepp,5/1/1942,Male,Mov_905
+Dir_395,Uwe Boll,2/23/1967,Female,Mov_67
+Dir_396,Pou-Soi Cheang,6/29/1972,Female,Mov_489
+Dir_397,John Dahl,9/29/1947,Male,Mov_87
+Dir_398,Tim Miller,3/3/1974,Male,Mov_646
+Dir_399,Stephen Herek,11/19/1985,Female,Mov_806
+Dir_400,Peter MacDonald,10/29/1955,Female,Mov_345
+Dir_401,Anthony Hemingway,11/28/1958,Male,Mov_172
+Dir_402,Shekhar Kapur,11/6/1964,Male,Mov_315
+Dir_403,Sean Anders,1/16/1969,Female,Mov_705
+Dir_404,Mark Neveldine,12/30/1941,Male,Mov_467
+Dir_405,John Madden,6/15/1961,Male,Mov_985
+Dir_406,Kevin Bray,10/5/1980,Male,Mov_259
+Dir_407,Mike Gabriel,8/15/1954,Female,Mov_392
+Dir_408,Sam Weisman,8/12/1985,Male,Mov_541
+Dir_409,Jesse Dylan,4/29/1947,Female,Mov_455
+Dir_410,Wayne Wang,10/6/1950,Male,Mov_42
+Dir_411,Gabriele Muccino,1/28/1988,Female,Mov_643
+Dir_412,Tom Dey,11/15/1943,Female,Mov_585
+Dir_413,Jimmy Hayward,6/17/1976,Male,Mov_822
+Dir_414,Alan Parker,8/2/1942,Female,Mov_221
+Dir_415,John Frankenheimer,4/28/1972,Male,Mov_621
+Dir_416,Paul King,6/19/1982,Male,Mov_476
+Dir_417,Akiva Schaffer,9/20/1981,Female,Mov_951
+Dir_418,William Friedkin,8/30/1942,Female,Mov_938
+Dir_419,Kent Alterman,5/27/1967,Female,Mov_239
+Dir_420,Peter Lord,7/7/1949,Female,Mov_555
+Dir_421,Karyn Kusama,12/29/1963,Male,Mov_618
+Dir_422,Ron Maxwell,10/20/1940,Male,Mov_585
+Dir_423,Robert Butler,8/8/1940,Female,Mov_84
+Dir_424,Karey Kirkpatrick,2/8/1954,Female,Mov_594
+Dir_425,Steve Antin,7/19/1945,Male,Mov_476
+Dir_426,Jim Gillespie,9/8/1986,Female,Mov_70
+Dir_427,Francis Ford Coppola,6/9/1965,Male,Mov_924
+Dir_428,Richard Lester,11/10/1988,Male,Mov_621
+Dir_429,Scott Cooper,6/14/1976,Female,Mov_606
+Dir_430,Robert Rodriguez,1/13/1943,Male,Mov_223
+Dir_431,Curtis Hanson,12/23/1949,Female,Mov_885
+Dir_432,Phyllida Lloyd,10/16/1977,Male,Mov_144
+Dir_433,Jay Chandrasekhar,10/16/1956,Male,Mov_646
+Dir_434,Terrence Malick,3/21/1977,Female,Mov_154
+Dir_435,David Dobkin,9/6/1947,Female,Mov_851
+Dir_436,Milos Forman,11/1/1956,Male,Mov_107
+Dir_437,Pierre Morel,11/20/1981,Male,Mov_852
+Dir_438,Paul Hunter,5/14/1958,Male,Mov_303
+Dir_439,Steve Oedekerk,7/22/1980,Male,Mov_544
+Dir_440,John Whitesell,9/29/1971,Female,Mov_554
+Dir_441,George Nolfi,3/16/1976,Female,Mov_765
+Dir_442,Neil Jordan,5/17/1982,Male,Mov_525
+Dir_443,Rawson Marshall Thurber,5/14/1970,Male,Mov_998
+Dir_444,Brian Helgeland,9/17/1962,Female,Mov_980
+Dir_445,Frank Marshall,3/23/1978,Female,Mov_356
+Dir_446,Hideo Nakata,8/28/1962,Male,Mov_495
+Dir_447,Peter Hewitt,11/12/1988,Female,Mov_186
+Dir_448,Joe Roth,10/27/1982,Female,Mov_850
+Dir_449,Bennett Miller,12/19/1953,Female,Mov_119
+Dir_450,Jaume Collet-Serra,9/17/1944,Female,Mov_609
+Dir_451,Andy Fickman,11/3/1948,Male,Mov_43
+Dir_452,James McTeigue,4/18/1982,Male,Mov_303
+Dir_453,Matthew O'Callaghan,11/3/1949,Male,Mov_345
+Dir_454,Angela Robinson,4/1/1951,Male,Mov_435
+Dir_455,Gary Fleder,11/20/1979,Male,Mov_185
+Dir_456,Tommy Wirkola,1/18/1984,Female,Mov_828
+Dir_457,Adrian Lyne,7/11/1950,Male,Mov_572
+Dir_458,Stephen Gaghan,4/26/1968,Male,Mov_777
+Dir_459,Jorge R. Guti??rrez,4/11/1985,Male,Mov_936
+Dir_460,Richard Loncraine,6/17/1941,Male,Mov_920
+Dir_461,Christophe Gans,2/10/1974,Male,Mov_335
+Dir_462,Howard Deutch,11/27/1953,Male,Mov_311
+Dir_463,Jon Hurwitz,9/1/1946,Female,Mov_107
+Dir_464,Steven Quale,12/20/1940,Male,Mov_712
+Dir_465,John Landis,2/11/1980,Female,Mov_447
+Dir_466,Alexander Witt,7/22/1979,Male,Mov_130
+Dir_467,Beeban Kidron,2/20/1953,Female,Mov_8
+Dir_468,Carl Franklin,1/23/1987,Female,Mov_139
+Dir_469,Steven Seagal,5/2/1969,Male,Mov_442
+Dir_470,Danny Boyle,3/4/1969,Male,Mov_801
+Dir_471,Ian Sharp,6/23/1957,Female,Mov_724
+Dir_472,Andrew Bergman,12/15/1941,Female,Mov_579
+Dir_473,Barbet Schroeder,10/6/1968,Male,Mov_45
+Dir_474,Peter Webber,7/12/1943,Male,Mov_601
+Dir_475,Andrew Niccol,10/11/1988,Male,Mov_808
+Dir_476,John Carpenter,1/21/1963,Female,Mov_972
+Dir_477,Wes Anderson,1/17/1983,Male,Mov_644
+Dir_478,David Cronenberg,6/20/1980,Male,Mov_684
+Dir_479,John Stockwell,8/19/1986,Female,Mov_888
+Dir_480,David Gordon Green,9/22/1980,Male,Mov_66
+Dir_481,Jim Sheridan,10/18/1944,Female,Mov_836
+Dir_482,Costa-Gavras,5/4/1984,Female,Mov_39
+Dir_483,Patrick Read Johnson,9/9/1970,Male,Mov_544
+Dir_484,Richard LaGravenese,2/21/1961,Male,Mov_317
+Dir_485,Danny DeVito,2/19/1964,Female,Mov_233
+Dir_486,George Armitage,3/30/1975,Male,Mov_379
+Dir_487,Patrick Lussier,12/8/1957,Female,Mov_966
+Dir_488,James Wong,4/2/1941,Female,Mov_200
+Dir_489,Richard Curtis,12/13/1982,Female,Mov_944
+Dir_490,Chuck Bowman,7/28/1948,Female,Mov_522
+Dir_491,Olivier Megaton,9/2/1977,Female,Mov_80
+Dir_492,Deepa Mehta,9/18/1946,Male,Mov_42
+Dir_493,Warren Beatty,11/27/1984,Male,Mov_477
+Dir_494,Penny Marshall,9/5/1971,Female,Mov_255
+Dir_495,Ted Kotcheff,4/17/1947,Male,Mov_369
+Dir_496,Andrei Tarkovsky,4/24/1957,Male,Mov_315
+Dir_497,Paul Bolger,10/24/1987,Female,Mov_906
+Dir_498,Stephen Frears,10/11/1983,Male,Mov_430
+Dir_499,P.J. Hogan,5/15/1967,Female,Mov_472
+Dir_500,Brad Furman,10/1/1966,Male,Mov_353

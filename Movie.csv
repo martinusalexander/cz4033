@@ -1,1 +1,1001 @@
-	movie_id,release_date,movie_language,movie_totalcost,movie_country,movie_title,moviegenres1,28/11/2013,English,237000000,USA,Avatar,Action|Adventure|Fantasy|Sci-Fi2,14/12/2012,English,300000000,USA,Pirates of the Caribbean: At World's End≈í√¶,Action|Adventure|Fantasy3,3/4/2015,English,245000000,UK,Spectre≈í√¶,Action|Adventure|Thriller4,18/12/2015,English,250000000,USA,The Dark Knight Rises≈í√¶,Action|Thriller5,8/7/2013,English,17700000,USA,Star Wars: Episode VII - The Force Awakens≈í√¶            ,Documentary6,10/6/2016,English,263700000,USA,John Carter≈í√¶,Action|Adventure|Sci-Fi7,15/5/2015,English,258000000,USA,Spider-Man 3≈í√¶,Action|Adventure|Romance8,27/1/2014,English,260000000,USA,Tangled≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance9,6/8/2014,English,250000000,USA,Avengers: Age of Ultron≈í√¶,Action|Adventure|Sci-Fi10,30/3/2016,English,250000000,UK,Harry Potter and the Half-Blood Prince≈í√¶,Adventure|Family|Fantasy|Mystery11,10/1/2013,English,250000000,USA,Batman v Superman: Dawn of Justice≈í√¶,Action|Adventure|Sci-Fi12,13/5/2016,English,209000000,USA,Superman Returns≈í√¶,Action|Adventure|Sci-Fi13,22/6/2016,English,200000000,UK,Quantum of Solace≈í√¶,Action|Adventure14,29/4/2012,English,225000000,USA,Pirates of the Caribbean: Dead Man's Chest≈í√¶,Action|Adventure|Fantasy15,17/9/2011,English,215000000,USA,The Lone Ranger≈í√¶,Action|Adventure|Western16,24/1/2014,English,225000000,USA,Man of Steel≈í√¶,Action|Adventure|Fantasy|Sci-Fi17,31/12/2014,English,225000000,USA,The Chronicles of Narnia: Prince Caspian≈í√¶,Action|Adventure|Family|Fantasy18,6/11/2012,English,220000000,USA,The Avengers≈í√¶,Action|Adventure|Sci-Fi19,16/2/2014,English,250000000,USA,Pirates of the Caribbean: On Stranger Tides≈í√¶,Action|Adventure|Fantasy20,9/11/2016,English,225000000,USA,Men in Black 3≈í√¶,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi21,2/8/2011,English,250000000,New Zealand,The Hobbit: The Battle of the Five Armies≈í√¶,Adventure|Fantasy22,28/10/2012,English,230000000,USA,The Amazing Spider-Man≈í√¶,Action|Adventure|Fantasy23,27/10/2014,English,200000000,USA,Robin Hood≈í√¶,Action|Adventure|Drama|History24,10/10/2015,English,225000000,USA,The Hobbit: The Desolation of Smaug≈í√¶,Adventure|Fantasy25,17/6/2012,English,180000000,USA,The Golden Compass≈í√¶,Adventure|Family|Fantasy26,26/12/2015,English,207000000,New Zealand,King Kong≈í√¶,Action|Adventure|Drama|Romance27,10/1/2013,English,200000000,USA,Titanic≈í√¶,Drama|Romance28,19/9/2012,English,250000000,USA,Captain America: Civil War≈í√¶,Action|Adventure|Sci-Fi29,14/1/2012,English,209000000,USA,Battleship≈í√¶,Action|Adventure|Sci-Fi|Thriller30,4/1/2014,English,150000000,USA,Jurassic World≈í√¶,Action|Adventure|Sci-Fi|Thriller31,19/9/2011,English,200000000,UK,Skyfall≈í√¶,Action|Adventure|Thriller32,5/9/2015,English,200000000,USA,Spider-Man 2≈í√¶,Action|Adventure|Fantasy|Romance33,6/4/2015,English,200000000,USA,Iron Man 3≈í√¶,Action|Adventure|Sci-Fi34,24/7/2012,English,200000000,USA,Alice in Wonderland≈í√¶,Adventure|Family|Fantasy35,26/2/2016,English,210000000,Canada,X-Men: The Last Stand≈í√¶,Action|Adventure|Fantasy|Sci-Fi|Thriller36,17/1/2014,English,200000000,USA,Monsters University≈í√¶,Adventure|Animation|Comedy|Family|Fantasy37,7/9/2013,English,200000000,USA,Transformers: Revenge of the Fallen≈í√¶,Action|Adventure|Sci-Fi38,31/8/2011,English,210000000,USA,Transformers: Age of Extinction≈í√¶,Action|Adventure|Sci-Fi39,12/12/2012,English,215000000,USA,Oz the Great and Powerful≈í√¶,Adventure|Family|Fantasy40,7/8/2012,English,200000000,USA,The Amazing Spider-Man 2≈í√¶,Action|Adventure|Fantasy|Sci-Fi41,23/6/2015,English,170000000,USA,TRON: Legacy≈í√¶,Action|Adventure|Sci-Fi42,31/5/2011,English,200000000,USA,Cars 2≈í√¶,Adventure|Animation|Comedy|Family|Sport43,5/1/2011,English,200000000,USA,Green Lantern≈í√¶,Action|Adventure|Sci-Fi44,14/5/2012,English,200000000,USA,Toy Story 3≈í√¶,Adventure|Animation|Comedy|Family|Fantasy45,10/1/2013,English,200000000,USA,Terminator Salvation≈í√¶,Action|Adventure|Sci-Fi46,3/3/2016,English,190000000,USA,Furious 7≈í√¶,Action|Crime|Thriller47,10/9/2014,English,190000000,USA,World War Z≈í√¶,Action|Adventure|Horror|Sci-Fi|Thriller48,22/1/2014,English,200000000,USA,X-Men: Days of Future Past≈í√¶,Action|Adventure|Fantasy|Sci-Fi|Thriller49,3/9/2011,English,190000000,USA,Star Trek Into Darkness≈í√¶,Action|Adventure|Sci-Fi50,24/2/2016,English,195000000,USA,Jack the Giant Slayer≈í√¶,Adventure|Fantasy51,24/2/2012,English,105000000,Australia,The Great Gatsby≈í√¶,Drama|Romance52,30/9/2012,English,200000000,USA,Prince of Persia: The Sands of Time≈í√¶,Action|Adventure|Fantasy|Romance53,5/4/2013,English,190000000,USA,Pacific Rim≈í√¶,Action|Adventure|Sci-Fi54,16/2/2013,English,195000000,USA,Transformers: Dark of the Moon≈í√¶,Action|Adventure|Sci-Fi55,26/2/2013,English,185000000,USA,Indiana Jones and the Kingdom of the Crystal Skull≈í√¶,Action|Adventure|Fantasy56,16/11/2016,English,17700000,USA,The Good Dinosaur≈í√¶,Adventure|Animation|Comedy|Family|Fantasy57,2/1/2014,English,185000000,USA,Brave≈í√¶,Adventure|Animation|Comedy|Family|Fantasy58,16/8/2011,English,185000000,USA,Star Trek Beyond≈í√¶,Action|Adventure|Sci-Fi|Thriller59,16/7/2011,English,180000000,USA,WALL≈í‚Ä°E≈í√¶,Adventure|Animation|Family|Sci-Fi60,12/9/2015,English,140000000,USA,Rush Hour 3≈í√¶,Action|Comedy|Crime|Thriller61,23/4/2012,English,200000000,USA,2012≈í√¶,Action|Adventure|Sci-Fi62,24/8/2011,English,200000000,USA,A Christmas Carol≈í√¶,Animation|Drama|Family|Fantasy63,23/1/2014,English,176000000,USA,Jupiter Ascending≈í√¶,Action|Adventure|Sci-Fi64,27/9/2015,English,180000000,USA,The Legend of Tarzan≈í√¶,Action|Adventure|Drama|Romance65,18/8/2016,English,180000000,USA,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe≈í√¶",Adventure|Family|Fantasy66,12/4/2016,English,178000000,USA,X-Men: Apocalypse≈í√¶,Action|Adventure|Sci-Fi67,10/5/2012,English,185000000,USA,The Dark Knight≈í√¶,Action|Crime|Drama|Thriller68,3/7/2015,English,175000000,USA,Up≈í√¶,Adventure|Animation|Comedy|Family69,26/6/2016,English,175000000,USA,Monsters vs. Aliens≈í√¶,Action|Adventure|Animation|Comedy|Family|Sci-Fi70,1/1/2013,English,140000000,USA,Iron Man≈í√¶,Action|Adventure|Sci-Fi71,16/2/2015,English,170000000,USA,Hugo≈í√¶,Adventure|Drama|Family|Mystery72,25/8/2014,English,170000000,USA,Wild Wild West≈í√¶,Action|Comedy|Sci-Fi|Western73,21/9/2012,English,145000000,USA,The Mummy: Tomb of the Dragon Emperor≈í√¶,Action|Adventure|Fantasy|Horror|Thriller74,18/8/2016,English,175000000,USA,Suicide Squad≈í√¶,Action|Adventure|Comedy|Sci-Fi75,11/3/2013,English,175000000,USA,Evan Almighty≈í√¶,Comedy|Family|Fantasy76,28/4/2013,English,178000000,USA,Edge of Tomorrow≈í√¶,Action|Adventure|Sci-Fi77,4/2/2012,English,175000000,USA,Waterworld≈í√¶,Action|Adventure|Sci-Fi|Thriller78,26/8/2015,English,175000000,USA,G.I. Joe: The Rise of Cobra≈í√¶,Action|Adventure|Sci-Fi|Thriller79,12/8/2013,English,175000000,USA,Inside Out≈í√¶,Adventure|Animation|Comedy|Drama|Family|Fantasy80,10/1/2012,English,175000000,UK,The Jungle Book≈í√¶,Adventure|Drama|Family|Fantasy81,1/3/2015,English,200000000,USA,Iron Man 2≈í√¶,Action|Adventure|Sci-Fi82,25/3/2013,English,170000000,USA,Snow White and the Huntsman≈í√¶,Action|Adventure|Drama|Fantasy83,24/1/2013,English,180000000,USA,Maleficent≈í√¶,Action|Adventure|Family|Fantasy|Romance84,10/1/2015,English,170000000,USA,Dawn of the Planet of the Apes≈í√¶,Action|Adventure|Drama|Sci-Fi85,31/3/2011,English,17700000,Belgium,The Lovers≈í√¶,Action|Adventure|Romance|Sci-Fi86,25/7/2016,English,175000000,USA,47 Ronin≈í√¶,Action|Adventure|Drama|Fantasy87,16/12/2012,English,170000000,USA,Captain America: The Winter Soldier≈í√¶,Action|Adventure|Sci-Fi88,13/12/2013,English,165000000,USA,Shrek Forever After≈í√¶,Adventure|Animation|Comedy|Family|Fantasy89,6/12/2012,English,190000000,USA,Tomorrowland≈í√¶,Action|Adventure|Family|Mystery|Sci-Fi90,28/8/2012,English,165000000,USA,Big Hero 6≈í√¶,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi91,28/1/2015,English,165000000,USA,Wreck-It Ralph≈í√¶,Adventure|Animation|Comedy|Family|Sci-Fi92,7/10/2013,English,165000000,USA,The Polar Express≈í√¶,Adventure|Animation|Family|Fantasy93,14/9/2014,English,165000000,USA,Independence Day: Resurgence≈í√¶,Action|Adventure|Sci-Fi94,2/6/2015,English,165000000,USA,How to Train Your Dragon≈í√¶,Adventure|Animation|Family|Fantasy95,28/6/2016,English,200000000,USA,Terminator 3: Rise of the Machines≈í√¶,Action|Sci-Fi96,29/9/2013,English,170000000,USA,Guardians of the Galaxy≈í√¶,Action|Adventure|Sci-Fi97,30/12/2014,English,165000000,USA,Interstellar≈í√¶,Adventure|Drama|Sci-Fi98,15/2/2015,Japanese,160000000,USA,Inception≈í√¶,Action|Adventure|Sci-Fi|Thriller99,19/1/2015,English,17700000,Japan,Godzilla Resurgence≈í√¶,Action|Adventure|Drama|Horror|Sci-Fi100,28/1/2016,English,180000000,USA,The Hobbit: An Unexpected Journey≈í√¶,Adventure|Fantasy101,15/4/2016,English,38000000,USA,The Fast and the Furious≈í√¶,Action|Crime|Thriller102,1/8/2012,English,150000000,USA,The Curious Case of Benjamin Button≈í√¶,Drama|Fantasy|Romance103,18/8/2013,English,160000000,USA,X-Men: First Class≈í√¶,Action|Adventure|Sci-Fi104,18/6/2011,English,160000000,USA,The Hunger Games: Mockingjay - Part 2≈í√¶,Adventure|Sci-Fi105,21/4/2011,English,150000000,USA,The Sorcerer's Apprentice≈í√¶,Action|Adventure|Family|Fantasy106,15/3/2014,English,160000000,USA,Poseidon≈í√¶,Action|Adventure|Drama|Thriller107,30/4/2012,English,170000000,USA,Alice Through the Looking Glass≈í√¶,Adventure|Family|Fantasy108,24/3/2014,English,160000000,USA,Shrek the Third≈í√¶,Adventure|Animation|Comedy|Family|Fantasy109,5/10/2014,English,160000000,USA,Warcraft≈í√¶,Action|Adventure|Fantasy110,25/2/2013,English,155000000,USA,Terminator Genisys≈í√¶,Action|Adventure|Sci-Fi111,16/11/2011,English,155000000,USA,The Chronicles of Narnia: The Voyage of the Dawn Treader≈í√¶,Adventure|Family|Fantasy112,23/7/2012,English,140000000,USA,Pearl Harbor≈í√¶,Action|Drama|History|Romance|War113,4/8/2012,English,150000000,USA,Transformers≈í√¶,Action|Adventure|Sci-Fi114,3/11/2015,English,155000000,Germany,Alexander≈í√¶,Action|Adventure|Biography|Drama|History|Romance|War115,9/2/2011,English,150000000,UK,Harry Potter and the Order of the Phoenix≈í√¶,Adventure|Family|Fantasy|Mystery116,12/8/2011,English,150000000,UK,Harry Potter and the Goblet of Fire≈í√¶,Adventure|Family|Fantasy|Mystery117,15/2/2011,English,150000000,USA,Hancock≈í√¶,Action|Drama118,15/4/2015,English,150000000,USA,I Am Legend≈í√¶,Drama|Horror|Sci-Fi119,25/3/2015,English,150000000,USA,Charlie and the Chocolate Factory≈í√¶,Adventure|Comedy|Family|Fantasy120,4/7/2011,English,150000000,USA,Ratatouille≈í√¶,Animation|Comedy|Family|Fantasy121,15/4/2014,English,150000000,USA,Batman Begins≈í√¶,Action|Adventure122,21/9/2015,English,150000000,USA,Madagascar: Escape 2 Africa≈í√¶,Action|Adventure|Animation|Comedy|Family123,4/9/2011,English,150000000,USA,Night at the Museum: Battle of the Smithsonian≈í√¶,Adventure|Comedy|Family|Fantasy124,30/11/2016,English,150000000,USA,X-Men Origins: Wolverine≈í√¶,Action|Adventure|Fantasy|Sci-Fi|Thriller125,22/10/2011,English,150000000,Australia,The Matrix Revolutions≈í√¶,Action|Sci-Fi126,6/8/2015,English,150000000,USA,Frozen≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Musical127,15/3/2015,English,150000000,USA,The Matrix Reloaded≈í√¶,Action|Sci-Fi128,19/12/2013,English,170000000,USA,Thor: The Dark World≈í√¶,Action|Adventure|Fantasy129,29/5/2015,English,150000000,Australia,Mad Max: Fury Road≈í√¶,Action|Adventure|Sci-Fi|Thriller130,17/5/2016,English,150000000,USA,Angels & Demons≈í√¶,Mystery|Thriller131,21/6/2016,English,150000000,USA,Thor≈í√¶,Action|Adventure|Fantasy132,4/6/2015,English,150000000,USA,Bolt≈í√¶,Adventure|Animation|Comedy|Drama|Family133,7/8/2015,English,150000000,USA,G-Force≈í√¶,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi134,24/3/2016,English,150000000,USA,Wrath of the Titans≈í√¶,Action|Adventure|Fantasy135,23/4/2014,English,100000000,USA,Dark Shadows≈í√¶,Comedy|Fantasy|Horror136,27/3/2015,English,150000000,China,Mission: Impossible - Rogue Nation≈í√¶,Action|Adventure|Thriller137,10/4/2013,English,150000000,USA,The Wolfman≈í√¶,Drama|Fantasy|Horror|Thriller138,4/10/2016,English,180000000,USA,The Legend of Tarzan≈í√¶,Action|Adventure|Drama|Romance139,21/5/2011,English,150000000,USA,Bee Movie≈í√¶,Adventure|Animation|Comedy|Family140,20/7/2013,English,150000000,USA,Kung Fu Panda 2≈í√¶,Action|Adventure|Animation|Comedy|Family141,1/10/2013,English,150000000,USA,The Last Airbender≈í√¶,Action|Adventure|Family|Fantasy142,18/12/2013,English,150000000,USA,Mission: Impossible III≈í√¶,Action|Adventure|Thriller143,16/11/2012,English,150000000,USA,White House Down≈í√¶,Action|Drama|Thriller144,2/6/2015,English,150000000,USA,Mars Needs Moms≈í√¶,Action|Adventure|Animation|Comedy|Family|Sci-Fi145,6/9/2013,English,149000000,UK,Flushed Away≈í√¶,Adventure|Animation|Comedy|Family146,19/10/2013,English,150000000,USA,Pan≈í√¶,Adventure|Family|Fantasy147,24/4/2013,English,145000000,USA,Mr. Peabody & Sherman≈í√¶,Adventure|Animation|Comedy|Family|Sci-Fi148,27/3/2014,English,175000000,USA,Troy≈í√¶,Adventure149,27/1/2012,English,145000000,USA,Madagascar 3: Europe's Most Wanted≈í√¶,Adventure|Animation|Comedy|Family150,27/1/2011,English,142000000,UK,Die Another Day≈í√¶,Action|Adventure|Thriller151,13/11/2011,English,144000000,USA,Ghostbusters≈í√¶,Action|Comedy|Fantasy|Sci-Fi152,22/2/2014,English,140000000,USA,Armageddon≈í√¶,Action|Adventure|Sci-Fi|Thriller153,7/1/2015,English,140000000,USA,Men in Black II≈í√¶,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi154,6/5/2011,English,150000000,USA,Beowulf≈í√¶,Action|Adventure|Animation|Fantasy155,12/9/2016,English,145000000,USA,Kung Fu Panda 3≈í√¶,Action|Adventure|Animation|Comedy|Family156,23/3/2015,English,145000000,USA,Mission: Impossible - Ghost Protocol≈í√¶,Action|Adventure|Thriller157,25/6/2015,English,145000000,USA,Rise of the Guardians≈í√¶,Adventure|Animation|Family|Fantasy158,29/4/2016,English,100000000,USA,Fun with Dick and Jane≈í√¶,Comedy|Crime159,3/2/2013,English,140000000,USA,The Last Samurai≈í√¶,Action|Drama|History|War160,5/10/2016,English,140000000,UK,Exodus: Gods and Kings≈í√¶,Action|Adventure|Drama161,20/12/2011,English,150000000,USA,Star Trek≈í√¶,Action|Adventure|Sci-Fi162,28/3/2012,English,139000000,USA,Spider-Man≈í√¶,Action|Adventure|Fantasy|Romance163,17/9/2014,English,145000000,USA,How to Train Your Dragon 2≈í√¶,Action|Adventure|Animation|Comedy|Family|Fantasy164,17/6/2011,English,140000000,USA,Gods of Egypt≈í√¶,Action|Adventure|Fantasy165,21/6/2013,English,135000000,USA,Stealth≈í√¶,Action|Adventure|Sci-Fi|Thriller166,25/5/2012,English,130000000,USA,Watchmen≈í√¶,Action|Drama|Mystery|Sci-Fi167,20/12/2013,English,140000000,USA,Lethal Weapon 4≈í√¶,Action|Crime|Thriller168,28/10/2014,English,137000000,USA,Hulk≈í√¶,Action|Sci-Fi169,16/1/2016,English,130000000,USA,G.I. Joe: Retaliation≈í√¶,Action|Adventure|Sci-Fi|Thriller170,8/11/2016,English,130000000,UK,Sahara≈í√¶,Action|Adventure|Comedy|Thriller171,20/7/2011,English,137000000,USA,Final Fantasy: The Spirits Within≈í√¶,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi172,7/11/2016,English,140000000,USA,Captain America: The First Avenger≈í√¶,Action|Adventure|Sci-Fi173,4/9/2011,English,135000000,UK,The World Is Not Enough≈í√¶,Action|Adventure|Thriller174,16/10/2011,English,150000000,USA,Master and Commander: The Far Side of the World≈í√¶,Action|Adventure|Drama|History|War175,1/5/2011,English,120000000,USA,The Twilight Saga: Breaking Dawn - Part 2≈í√¶,Adventure|Drama|Fantasy|Romance176,27/1/2014,English,135000000,Australia,Happy Feet 2≈í√¶,Animation|Comedy|Family|Musical177,20/5/2015,English,150000000,USA,The Incredible Hulk≈í√¶,Action|Adventure|Sci-Fi178,30/9/2015,English,1500000,USA,Miami Vice≈í√¶            ,Action|Crime|Drama|Mystery|Thriller179,5/5/2011,English,140000000,UK,The BFG≈í√¶,Adventure|Family|Fantasy180,13/9/2014,English,135000000,USA,The Revenant≈í√¶,Adventure|Drama|Thriller|Western181,30/12/2015,English,135000000,USA,Turbo≈í√¶,Adventure|Animation|Comedy|Family|Sport182,31/7/2016,English,135000000,USA,Rango≈í√¶,Adventure|Animation|Comedy|Family|Western183,1/11/2012,English,132000000,USA,Penguins of Madagascar≈í√¶,Adventure|Animation|Comedy|Family184,23/6/2012,English,110000000,USA,The Bourne Ultimatum≈í√¶,Action|Mystery|Thriller185,21/9/2014,English,130000000,USA,Kung Fu Panda≈í√¶,Action|Adventure|Animation|Comedy|Family186,10/8/2012,English,130000000,USA,Ant-Man≈í√¶,Action|Adventure|Comedy|Sci-Fi187,12/5/2016,English,130000000,USA,The Hunger Games: Catching Fire≈í√¶,Adventure|Sci-Fi|Thriller188,26/2/2013,English,120000000,USA,The Twilight Saga: Breaking Dawn - Part 2≈í√¶,Adventure|Drama|Fantasy|Romance189,11/3/2013,English,135000000,USA,Home≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi190,12/9/2015,English,132000000,USA,War of the Worlds≈í√¶,Adventure|Sci-Fi|Thriller191,4/4/2014,English,130000000,USA,Bad Boys II≈í√¶,Action|Comedy|Crime|Thriller192,26/10/2012,English,130000000,USA,Puss in Boots≈í√¶,Action|Adventure|Animation|Comedy|Family|Fantasy193,28/2/2015,English,110000000,USA,Salt≈í√¶,Action|Crime|Mystery|Thriller194,6/8/2015,English,125000000,USA,Noah≈í√¶,Action|Adventure|Drama195,18/6/2012,English,135000000,USA,The Adventures of Tintin≈í√¶,Action|Adventure|Family|Mystery196,26/9/2015,English,130000000,UK,Harry Potter and the Prisoner of Azkaban≈í√¶,Adventure|Family|Fantasy|Mystery197,23/1/2015,English,130000000,Australia,Australia≈í√¶,Adventure|Drama|Romance|War198,8/1/2013,English,130000000,USA,After Earth≈í√¶,Action|Adventure|Sci-Fi199,11/7/2014,English,127500000,USA,Dinosaur≈í√¶,Adventure|Animation|Family|Thriller200,24/2/2016,English,17700000,UK,Harry Potter and the Deathly Hallows: Part II≈í√¶,Action|Fantasy201,26/12/2013,English,127000000,USA,Night at the Museum: Secret of the Tomb≈í√¶,Adventure|Comedy|Family|Fantasy202,14/8/2011,English,130000000,USA,Megamind≈í√¶,Action|Animation|Comedy|Family|Sci-Fi203,19/11/2014,English,125000000,UK,Harry Potter and the Sorcerer's Stone≈í√¶,Adventure|Family|Fantasy204,20/9/2014,Japanese,130000000,USA,R.I.P.D.≈í√¶,Action|Comedy|Fantasy205,25/3/2012,English,17700000,Japan,Godzilla Resurgence≈í√¶,Action|Adventure|Drama|Horror|Sci-Fi206,8/11/2011,English,140000000,USA,Pirates of the Caribbean: The Curse of the Black Pearl≈í√¶,Action|Adventure|Fantasy207,4/1/2012,English,17700000,UK,Harry Potter and the Deathly Hallows: Part I≈í√¶,Fantasy208,8/3/2014,English,125000000,USA,The Hunger Games: Mockingjay - Part 1≈í√¶,Adventure|Sci-Fi|Thriller209,21/12/2012,English,125000000,USA,The Da Vinci Code≈í√¶,Mystery|Thriller210,25/12/2012,English,103000000,USA,Rio 2≈í√¶,Adventure|Animation|Comedy|Family|Musical211,3/6/2015,English,110000000,Canada,X-Men 2≈í√¶,Action|Adventure|Fantasy|Sci-Fi|Thriller212,21/6/2015,English,125000000,USA,Fast Five≈í√¶,Action|Crime|Thriller213,27/3/2013,English,125000000,USA,Sherlock Holmes: A Game of Shadows≈í√¶,Action|Adventure|Crime|Mystery|Thriller214,13/3/2015,English,125000000,USA,Clash of the Titans≈í√¶,Action|Adventure|Fantasy215,18/11/2012,English,65000000,USA,Total Recall≈í√¶,Action|Sci-Fi216,9/9/2011,English,85000000,USA,The 13th Warrior≈í√¶,Action|Adventure|History217,1/1/2011,English,125000000,USA,The Bourne Legacy≈í√¶,Action|Adventure|Thriller218,29/12/2012,English,125000000,USA,Batman & Robin≈í√¶,Action219,21/6/2013,English,123000000,USA,How the Grinch Stole Christmas≈í√¶,Comedy|Family|Fantasy220,15/2/2014,English,125000000,USA,The Day After Tomorrow≈í√¶,Action|Adventure|Sci-Fi|Thriller221,3/9/2014,English,125000000,USA,Mission: Impossible II≈í√¶,Action|Adventure|Thriller222,9/3/2013,English,140000000,USA,The Perfect Storm≈í√¶,Action|Adventure|Drama|Thriller223,20/6/2015,English,130000000,USA,Fantastic 4: Rise of the Silver Surfer≈í√¶,Action|Adventure|Sci-Fi|Thriller224,17/12/2011,English,120000000,USA,Life of Pi≈í√¶,Adventure|Drama|Fantasy225,16/5/2014,English,110000000,USA,Ghost Rider≈í√¶,Action|Fantasy|Thriller226,25/3/2016,English,120000000,UK,Jason Bourne≈í√¶,Action|Thriller227,4/2/2014,English,120000000,USA,Charlie's Angels: Full Throttle≈í√¶,Action|Adventure|Comedy|Crime228,20/12/2012,English,130000000,USA,Prometheus≈í√¶,Adventure|Mystery|Sci-Fi229,17/6/2015,English,120000000,USA,Stuart Little 2≈í√¶,Adventure|Animation|Comedy|Family|Fantasy230,7/9/2012,English,115000000,USA,Elysium≈í√¶,Action|Drama|Sci-Fi|Thriller231,2/3/2014,English,105000000,USA,The Chronicles of Riddick≈í√¶,Action|Adventure|Sci-Fi|Thriller232,3/7/2011,English,100000000,USA,RoboCop≈í√¶,Action|Crime|Sci-Fi|Thriller233,15/11/2013,English,120000000,USA,Speed Racer≈í√¶,Action|Family|Sport234,23/5/2015,English,120000000,USA,How Do You Know≈í√¶,Comedy|Drama|Romance235,5/4/2015,English,117000000,USA,Knight and Day≈í√¶,Action|Comedy|Romance236,4/4/2015,English,120000000,USA,Oblivion≈í√¶,Action|Adventure|Mystery|Sci-Fi237,9/6/2012,English,113000000,USA,Star Wars: Episode III - Revenge of the Sith≈í√¶,Action|Adventure|Fantasy|Sci-Fi238,17/8/2011,English,115000000,USA,Star Wars: Episode II - Attack of the Clones≈í√¶,Action|Adventure|Fantasy|Sci-Fi239,13/11/2016,English,115000000,USA,"Monsters, Inc.≈í√¶",Adventure|Animation|Comedy|Family|Fantasy240,5/6/2016,English,120000000,USA,The Wolverine≈í√¶,Action|Adventure|Sci-Fi|Thriller241,21/5/2012,English,115000000,USA,Star Wars: Episode I - The Phantom Menace≈í√¶,Action|Adventure|Fantasy|Sci-Fi242,14/6/2012,French,135000000,USA,The Croods≈í√¶,Adventure|Animation|Comedy|Family|Fantasy243,10/5/2015,English,78000000,France,Asterix at the Olympic Games≈í√¶,Adventure|Comedy|Family|Fantasy244,1/6/2014,English,115000000,USA,Windtalkers≈í√¶,Action|Drama|War245,10/11/2013,English,115000000,USA,The Huntsman: Winter's War≈í√¶,Action|Adventure|Drama|Fantasy246,13/5/2014,English,125000000,USA,Teenage Mutant Ninja Turtles≈í√¶,Action|Adventure|Comedy|Sci-Fi247,7/9/2014,English,100000000,UK,Gravity≈í√¶,Adventure|Drama|Sci-Fi|Thriller248,15/11/2015,English,116000000,USA,Dante's Peak≈í√¶,Action|Adventure|Thriller249,12/2/2012,English,135000000,USA,Teenage Mutant Ninja Turtles: Out of the Shadows≈í√¶,Action|Adventure|Comedy|Sci-Fi250,26/4/2013,English,120000000,USA,Fantastic Four≈í√¶,Action|Adventure|Sci-Fi251,7/4/2011,English,110000000,USA,Night at the Museum≈í√¶,Action|Adventure|Comedy|Family|Fantasy252,27/10/2016,English,110000000,USA,San Andreas≈í√¶,Action|Adventure|Drama|Thriller253,22/4/2012,English,110000000,UK,Tomorrow Never Dies≈í√¶,Action|Adventure|Thriller254,14/1/2011,English,110000000,USA,The Patriot≈í√¶,Action|Drama|History|War255,5/11/2015,English,110000000,USA,Ocean's Twelve≈í√¶,Crime|Thriller256,18/1/2016,English,120000000,USA,Mr. & Mrs. Smith≈í√¶,Action|Comedy|Crime|Romance|Thriller257,10/11/2012,English,110000000,USA,Insurgent≈í√¶,Adventure|Sci-Fi|Thriller258,21/1/2013,English,110000000,USA,The Aviator≈í√¶,Biography|Drama259,26/2/2011,English,112000000,USA,Gulliver's Travels≈í√¶,Adventure|Comedy|Family|Fantasy260,4/2/2016,English,120000000,USA,The Green Hornet≈í√¶,Action|Comedy|Crime|Sci-Fi|Thriller261,12/3/2016,English,17700000,USA,The A-Team≈í√¶            ,Action|Adventure|Crime262,21/12/2014,English,110000000,USA,300: Rise of an Empire≈í√¶,Action|Drama|Fantasy|War263,3/8/2014,English,110000000,USA,The Smurfs≈í√¶,Adventure|Animation|Comedy|Family|Fantasy264,14/7/2014,English,110000000,USA,Home on the Range≈í√¶,Animation|Comedy|Family|Music|Western265,15/12/2011,English,110000000,USA,Allegiant≈í√¶,Action|Adventure|Mystery|Sci-Fi|Thriller266,16/2/2013,English,110000000,USA,Real Steel≈í√¶,Action|Drama|Sci-Fi|Sport267,17/3/2015,English,105000000,USA,The Smurfs 2≈í√¶,Adventure|Animation|Comedy|Family|Fantasy268,30/1/2013,English,160000000,USA,Speed 2: Cruise Control≈í√¶,Action|Crime|Romance|Thriller269,25/4/2015,English,110000000,USA,Ender's Game≈í√¶,Action|Sci-Fi270,13/4/2015,English,110000000,USA,Live Free or Die Hard≈í√¶,Action|Adventure|Thriller271,23/10/2012,English,93000000,New Zealand,The Lord of the Rings: The Fellowship of the Ring≈í√¶,Action|Adventure|Drama|Fantasy272,12/11/2014,English,110000000,USA,Around the World in 80 Days≈í√¶,Action|Adventure|Comedy273,3/9/2011,English,107000000,USA,Ali≈í√¶,Biography|Drama|Sport274,26/5/2011,English,109000000,USA,The Cat in the Hat≈í√¶,Adventure|Comedy|Family|Fantasy275,23/4/2016,English,120000000,USA,"I, Robot≈í√¶",Action|Mystery|Sci-Fi|Thriller276,16/9/2013,English,130000000,USA,Kingdom of Heaven≈í√¶,Action|Adventure|Drama|History|War277,15/6/2015,English,133000000,Germany,Stuart Little≈í√¶,Adventure|Comedy|Family|Fantasy278,15/8/2013,English,105000000,USA,The Princess and the Frog≈í√¶,Animation|Family|Fantasy|Musical|Romance279,5/9/2016,English,108000000,USA,The Martian≈í√¶,Adventure|Drama|Sci-Fi280,27/9/2015,English,17700000,USA,"10,000 B.C.≈í√¶            ",Comedy281,15/8/2014,English,126000000,USA,The Island≈í√¶,Action|Adventure|Romance|Sci-Fi|Thriller282,16/2/2011,English,90000000,New Line,Town & Country≈í√¶,Comedy|Romance283,24/8/2011,English,90000000,USA,Gone in Sixty Seconds≈í√¶,Action|Crime|Thriller284,7/11/2013,English,103000000,USA,Gladiator≈í√¶,Action|Drama|Romance285,19/11/2016,English,102000000,USA,Minority Report≈í√¶,Action|Mystery|Sci-Fi|Thriller286,31/7/2012,English,100000000,UK,Harry Potter and the Chamber of Secrets≈í√¶,Adventure|Family|Fantasy|Mystery287,24/6/2012,English,150000000,UK,Casino Royale≈í√¶,Action|Adventure|Thriller288,3/3/2014,English,100000000,USA,Planet of the Apes≈í√¶,Action|Adventure|Sci-Fi|Thriller289,14/5/2012,English,102000000,USA,Terminator 2: Judgment Day≈í√¶,Action|Sci-Fi290,23/6/2015,English,100000000,USA,Public Enemies≈í√¶,Biography|Crime|Drama|History|Romance291,22/5/2013,English,100000000,USA,American Gangster≈í√¶,Biography|Crime|Drama292,22/2/2011,English,115000000,USA,True Lies≈í√¶,Action|Comedy|Thriller293,28/5/2013,English,100000000,USA,The Taking of Pelham 1 2 3≈í√¶,Action|Crime|Thriller294,28/12/2016,English,100000000,USA,Little Fockers≈í√¶,Comedy|Romance295,17/11/2013,English,100000000,USA,The Other Guys≈í√¶,Action|Comedy|Crime296,22/9/2015,English,100000000,USA,Eraser≈í√¶,Action|Drama|Mystery|Thriller297,19/4/2012,English,100000000,USA,Django Unchained≈í√¶,Drama|Western298,6/10/2014,English,100000000,USA,The Hunchback of Notre Dame≈í√¶,Animation|Drama|Family|Musical|Romance299,8/9/2014,English,100000000,USA,The Emperor's New Groove≈í√¶,Adventure|Animation|Comedy|Family|Fantasy300,16/1/2014,English,92000000,USA,The Expendables 2≈í√¶,Action|Adventure|Thriller301,25/8/2012,English,100000000,USA,National Treasure≈í√¶,Action|Adventure|Comedy|Family|Mystery302,10/3/2014,English,100000000,USA,Eragon≈í√¶,Action|Adventure|Family|Fantasy303,24/8/2013,English,100000000,Germany,Where the Wild Things Are≈í√¶,Adventure|Drama|Family|Fantasy304,30/4/2013,English,150000000,USA,Pan≈í√¶,Adventure|Family|Fantasy305,21/12/2011,English,100000000,USA,Epic≈í√¶,Adventure|Animation|Family|Fantasy306,13/11/2013,English,100000000,USA,The Tourist≈í√¶,Action|Romance|Thriller307,28/9/2012,English,83000000,USA,End of Days≈í√¶,Action|Fantasy|Horror|Mystery308,25/1/2015,English,100000000,Germany,Blood Diamond≈í√¶,Adventure|Drama|Thriller309,23/12/2015,English,100000000,USA,The Wolf of Wall Street≈í√¶,Biography|Comedy|Crime|Drama310,15/7/2013,English,100000000,USA,Batman Forever≈í√¶,Action|Adventure|Fantasy311,10/1/2016,English,105000000,USA,Starship Troopers≈í√¶,Action|Sci-Fi|War312,7/6/2011,English,102000000,Germany,Cloud Atlas≈í√¶,Drama|Sci-Fi313,19/1/2014,English,80000000,USA,Legend of the Guardians: The Owls of Ga'Hoole≈í√¶,Action|Adventure|Animation|Family|Fantasy314,3/8/2013,English,100000000,USA,Catwoman≈í√¶,Action|Crime|Fantasy|Romance|Thriller315,16/2/2012,English,100000000,USA,Hercules≈í√¶,Action|Adventure316,24/11/2015,English,140000000,USA,Treasure Planet≈í√¶,Adventure|Animation|Family|Sci-Fi317,26/3/2014,English,100000000,USA,Land of the Lost≈í√¶,Adventure|Comedy|Sci-Fi318,12/5/2015,English,90000000,USA,The Expendables 3≈í√¶,Action|Adventure|Thriller319,26/11/2013,English,105000000,USA,Point Break≈í√¶,Action|Crime|Sport|Thriller320,1/7/2013,English,84000000,USA,Son of the Mask≈í√¶,Comedy|Family|Fantasy321,29/8/2016,English,100000000,USA,In the Heart of the Sea≈í√¶,Action|Adventure|Biography|Drama|History|Thriller322,13/8/2016,English,100000000,USA,The Adventures of Pluto Nash≈í√¶,Action|Comedy|Sci-Fi323,22/5/2014,English,100000000,France,Green Zone≈í√¶,Action|Drama|Thriller|War324,25/10/2012,English,99000000,USA,The Peanuts Movie≈í√¶,Adventure|Animation|Comedy|Family325,31/8/2016,English,10000000,USA,The Spanish Prisoner≈í√¶,Drama|Mystery|Thriller326,24/12/2011,English,98000000,USA,The Mummy Returns≈í√¶,Action|Adventure|Fantasy|Thriller327,12/3/2011,Mandarin,100000000,USA,Gangs of New York≈í√¶,Crime|Drama328,16/8/2011,English,94000000,China,The Flowers of War≈í√¶,Drama|History|Romance|War329,26/2/2013,English,100000000,USA,Surf's Up≈í√¶,Animation|Comedy|Family|Sport330,26/6/2015,English,90000000,USA,The Stepford Wives≈í√¶,Comedy|Sci-Fi|Thriller331,22/11/2016,English,92000000,USA,Black Hawk Down≈í√¶,Drama|History|War332,9/6/2011,English,95000000,USA,The Campaign≈í√¶,Comedy333,3/4/2015,English,93000000,France,The Fifth Element≈í√¶,Action|Adventure|Sci-Fi334,1/3/2015,English,100000000,USA,Sex and the City 2≈í√¶,Comedy|Drama|Romance335,10/10/2014,English,95000000,USA,The Road to El Dorado≈í√¶,Adventure|Animation|Comedy|Family|Romance336,28/5/2014,English,95000000,USA,Ice Age: Continental Drift≈í√¶,Adventure|Animation|Comedy|Family337,30/9/2014,English,95000000,USA,Cinderella≈í√¶,Drama|Family|Fantasy|Romance338,9/7/2016,English,65000000,USA,The Lovely Bones≈í√¶,Drama|Fantasy|Thriller339,27/5/2016,English,94000000,USA,Finding Nemo≈í√¶,Adventure|Animation|Comedy|Family340,22/2/2016,English,94000000,USA,The Lord of the Rings: The Return of the King≈í√¶,Action|Adventure|Drama|Fantasy341,30/3/2016,English,94000000,USA,The Lord of the Rings: The Two Towers≈í√¶,Action|Adventure|Drama|Fantasy342,4/12/2015,English,95000000,USA,Seventh Son≈í√¶,Action|Adventure|Fantasy343,12/8/2011,English,115000000,USA,Lara Croft: Tomb Raider≈í√¶,Action|Adventure|Fantasy|Thriller344,28/11/2012,English,100000000,UK,Transcendence≈í√¶,Drama|Mystery|Romance|Sci-Fi|Thriller345,1/8/2015,English,93000000,USA,Jurassic Park III≈í√¶,Action|Adventure|Sci-Fi|Thriller346,27/11/2012,English,93000000,USA,Rise of the Planet of the Apes≈í√¶,Action|Drama|Sci-Fi|Thriller347,17/7/2015,English,90000000,USA,The Spiderwick Chronicles≈í√¶,Adventure|Family|Fantasy348,15/9/2011,English,92000000,USA,A Good Day to Die Hard≈í√¶,Action|Thriller349,31/10/2012,English,107000000,USA,The Alamo≈í√¶,Drama|History|War|Western350,10/9/2013,English,92000000,USA,The Incredibles≈í√¶,Action|Adventure|Animation|Family351,1/9/2011,English,98000000,USA,Cutthroat Island≈í√¶,Action|Adventure|Comedy352,3/2/2014,English,95000000,UK,Percy Jackson & the Olympians: The Lightning Thief≈í√¶,Adventure|Family|Fantasy353,7/7/2011,English,90000000,USA,Men in Black≈í√¶,Adventure|Comedy|Family|Mystery|Sci-Fi354,19/7/2011,English,90000000,USA,Toy Story 2≈í√¶,Adventure|Animation|Comedy|Family|Fantasy355,17/3/2016,English,100000000,USA,Unstoppable≈í√¶,Action|Thriller356,24/4/2011,English,90000000,USA,Rush Hour 2≈í√¶,Action|Comedy|Crime|Thriller357,9/6/2014,English,100000000,USA,What Lies Beneath≈í√¶,Drama|Fantasy|Horror|Mystery|Thriller358,7/10/2014,English,100000000,USA,Cloudy with a Chance of Meatballs≈í√¶,Animation|Comedy|Family|Sci-Fi359,23/3/2016,English,90000000,USA,Ice Age: Dawn of the Dinosaurs≈í√¶,Action|Adventure|Animation|Comedy|Family360,20/6/2012,English,90000000,USA,The Secret Life of Walter Mitty≈í√¶,Adventure|Comedy|Drama|Fantasy|Romance361,25/11/2011,English,92000000,USA,Charlie's Angels≈í√¶,Action|Adventure|Comedy|Crime|Thriller362,24/2/2012,English,90000000,USA,The Departed≈í√¶,Crime|Drama|Thriller363,19/2/2014,English,90000000,USA,Mulan≈í√¶,Adventure|Animation|Family|Fantasy|Musical|War364,22/10/2014,English,92000000,USA,Tropic Thunder≈í√¶,Action|Comedy365,5/5/2016,English,90000000,USA,The Girl with the Dragon Tattoo≈í√¶,Crime|Drama|Mystery|Thriller366,14/9/2015,English,90000000,USA,Die Hard with a Vengeance≈í√¶,Action|Adventure|Thriller367,30/6/2016,English,90000000,USA,Sherlock Holmes≈í√¶,Action|Adventure|Crime|Mystery|Thriller368,10/4/2012,English,17700000,USA,Ben-Hur≈í√¶,Adventure|Drama|History369,25/5/2013,English,120000000,USA,Atlantis: The Lost Empire≈í√¶,Action|Adventure|Animation|Family|Fantasy|Sci-Fi370,24/7/2014,English,90000000,USA,Alvin and the Chipmunks: The Road Chip≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Music371,3/10/2013,English,75000000,USA,Valkyrie≈í√¶,Drama|History|Thriller|War372,2/10/2013,English,90000000,USA,You Don't Mess with the Zohan≈í√¶,Action|Comedy373,15/2/2016,English,88000000,USA,Pixels≈í√¶,Action|Animation|Comedy|Sci-Fi374,22/8/2012,English,100000000,USA,A.I. Artificial Intelligence≈í√¶,Adventure|Drama|Sci-Fi375,29/9/2016,English,90000000,USA,The Haunted Mansion≈í√¶,Comedy|Family|Fantasy|Horror|Mystery376,11/6/2011,English,90000000,USA,Contact≈í√¶,Drama|Mystery|Sci-Fi|Thriller377,8/5/2014,Aboriginal,95000000,USA,Hollow Man≈í√¶,Action|Horror|Sci-Fi|Thriller378,29/4/2011,English,80000000,UK,The Interpreter≈í√¶,Crime|Mystery|Thriller379,3/3/2015,English,90000000,USA,Percy Jackson: Sea of Monsters≈í√¶,Adventure|Family|Fantasy380,12/5/2013,English,95000000,USA,Lara Croft Tomb Raider: The Cradle of Life≈í√¶,Action|Adventure|Fantasy381,10/6/2012,English,90000000,USA,Now You See Me 2≈í√¶,Action|Adventure|Comedy|Crime|Mystery|Thriller382,2/4/2016,English,68000000,USA,The Saint≈í√¶,Action|Adventure|Romance|Sci-Fi|Thriller383,28/11/2016,English,92000000,Germany,Spy Game≈í√¶,Action|Crime|Thriller384,27/2/2015,English,90000000,USA,Mission to Mars≈í√¶,Adventure|Sci-Fi|Thriller385,11/3/2016,English,90000000,USA,Rio≈í√¶,Adventure|Animation|Comedy|Family|Musical386,23/9/2012,English,100000000,USA,Bicentennial Man≈í√¶,Comedy|Drama|Sci-Fi387,7/11/2016,English,90000000,USA,Volcano≈í√¶,Action|Drama|Sci-Fi|Thriller388,11/10/2016,English,86000000,USA,The Devil's Own≈í√¶,Action|Crime|Drama|Thriller389,11/12/2013,English,100000000,UK,K-19: The Widowmaker≈í√¶,Drama|History|Thriller|War390,5/11/2014,English,120000000,USA,Fantastic Four≈í√¶,Action|Adventure|Sci-Fi391,17/2/2013,English,20000000,USA,Conan the Barbarian≈í√¶,Adventure|Fantasy392,2/3/2012,English,88000000,USA,Cinderella Man≈í√¶,Biography|Drama|Sport393,28/1/2014,English,90000000,UK,The Nutcracker in 3D≈í√¶,Action|Family|Fantasy|Musical394,23/11/2016,English,87000000,USA,Seabiscuit≈í√¶,Drama|History|Sport395,9/11/2016,English,92000000,USA,Twister≈í√¶,Action|Adventure|Drama|Thriller396,23/1/2015,English,38000000,USA,The Fast and the Furious≈í√¶,Action|Crime|Thriller397,14/8/2016,English,90000000,USA,Cast Away≈í√¶,Adventure|Drama|Romance398,8/2/2015,English,100000000,USA,Happy Feet≈í√¶,Animation|Comedy|Family|Music|Romance399,29/6/2015,English,75000000,USA,The Bourne Supremacy≈í√¶,Action|Mystery|Thriller400,13/7/2014,English,85000000,USA,Air Force One≈í√¶,Action|Adventure|Drama|Thriller401,15/7/2015,English,85000000,USA,Ocean's Eleven≈í√¶,Crime|Thriller402,1/1/2014,English,75000000,Germany,The Three Musketeers≈í√¶,Action|Adventure|Romance403,9/2/2012,English,85000000,USA,Hotel Transylvania≈í√¶,Animation|Comedy|Family|Fantasy404,7/11/2013,English,85000000,USA,Enchanted≈í√¶,Animation|Comedy|Family|Fantasy|Musical|Romance405,6/6/2013,English,17700000,USA,Hannibal≈í√¶            ,Crime|Drama|Horror|Mystery|Thriller406,12/2/2015,English,85000000,USA,Safe House≈í√¶,Action|Crime|Mystery|Thriller407,4/3/2014,English,85000000,USA,102 Dalmatians≈í√¶,Adventure|Comedy|Family408,17/12/2015,English,75000000,USA,Tower Heist≈í√¶,Action|Comedy|Crime409,16/4/2011,English,85000000,USA,The Holiday≈í√¶,Comedy|Romance410,22/4/2014,English,90000000,USA,Enemy of the State≈í√¶,Action|Crime|Drama|Mystery|Thriller411,6/12/2012,English,85000000,USA,It's Complicated≈í√¶,Comedy|Drama|Romance412,17/8/2016,English,85000000,USA,Ocean's Thirteen≈í√¶,Crime|Thriller413,5/7/2011,English,85000000,USA,Open Season≈í√¶,Adventure|Animation|Comedy|Family414,1/10/2016,English,85000000,USA,Divergent≈í√¶,Adventure|Mystery|Sci-Fi415,26/12/2016,English,68000000,USA,Enemy at the Gates≈í√¶,Drama|History|War416,13/7/2013,English,85000000,USA,The Rundown≈í√¶,Action|Adventure|Comedy|Thriller417,24/9/2014,English,70000000,USA,Last Action Hero≈í√¶,Action|Adventure|Comedy|Fantasy418,13/11/2015,English,85000000,USA,Memoirs of a Geisha≈í√¶,Drama|Romance419,18/5/2016,English,85000000,USA,The Fast and the Furious: Tokyo Drift≈í√¶,Action|Crime|Thriller420,30/3/2014,English,100000000,UK,Arthur Christmas≈í√¶,Adventure|Animation|Comedy|Family|Fantasy421,26/3/2016,English,90000000,USA,Meet Joe Black≈í√¶,Drama|Fantasy|Romance422,16/4/2015,English,85000000,USA,Collateral Damage≈í√¶,Action|Drama|Thriller423,17/11/2015,English,17700000,USA,All That Jazz≈í√¶,Comedy|Drama|Music|Musical424,17/5/2016,English,85000000,USA,Mirror Mirror≈í√¶,Adventure|Comedy|Drama|Family|Fantasy425,16/1/2016,English,60000000,USA,Scott Pilgrim vs. the World≈í√¶,Action|Comedy|Fantasy|Romance426,6/10/2015,English,60000000,USA,The Core≈í√¶,Action|Adventure|Sci-Fi|Thriller427,23/10/2015,English,65000000,USA,Nutty Professor II: The Klumps≈í√¶,Comedy|Romance|Sci-Fi428,9/7/2013,English,84000000,USA,Scooby-Doo≈í√¶,Adventure|Comedy|Mystery429,21/11/2014,English,35000000,UK,Dredd≈í√¶,Action|Sci-Fi430,2/2/2012,English,70000000,USA,Click≈í√¶,Comedy|Drama|Fantasy|Romance431,1/10/2015,English,8000000,USA,Creepshow≈í√¶,Comedy|Fantasy|Horror432,16/4/2015,English,85000000,USA,Cats & Dogs: The Revenge of Kitty Galore≈í√¶,Action|Comedy|Family|Fantasy433,19/2/2014,English,85000000,USA,Jumper≈í√¶,Action|Adventure|Sci-Fi|Thriller434,25/10/2015,English,85000000,USA,Hellboy II: The Golden Army≈í√¶,Action|Adventure|Fantasy|Horror|Sci-Fi435,19/1/2014,English,65000000,USA,Zodiac≈í√¶,Crime|Drama|History|Mystery|Thriller436,30/10/2011,English,82000000,USA,The 6th Day≈í√¶,Action|Mystery|Sci-Fi|Thriller437,21/3/2016,English,81000000,USA,Bruce Almighty≈í√¶,Comedy|Drama438,2/12/2013,English,80000000,USA,The Expendables≈í√¶,Action|Adventure|Thriller439,16/6/2011,English,80000000,USA,Mission: Impossible≈í√¶,Action|Adventure|Thriller440,31/7/2014,English,78000000,USA,The Hunger Games≈í√¶,Adventure|Drama|Sci-Fi|Thriller441,1/4/2013,English,80000000,USA,The Hangover Part II≈í√¶,Comedy442,21/10/2011,English,80000000,USA,Batman Returns≈í√¶,Action443,29/1/2011,English,80000000,USA,Over the Hedge≈í√¶,Adventure|Animation|Comedy|Family444,8/6/2014,English,80000000,USA,Lilo & Stitch≈í√¶,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi445,13/6/2012,English,17700000,USA,Charlotte's Web≈í√¶,Comedy|Family|Fantasy446,3/4/2011,English,75000000,USA,Deep Impact≈í√¶,Action|Drama|Romance|Sci-Fi|Thriller447,3/2/2011,English,84000000,USA,RED 2≈í√¶,Action|Comedy|Crime|Thriller448,5/6/2015,English,82000000,USA,The Longest Yard≈í√¶,Comedy|Crime|Sport449,4/3/2012,English,75000000,USA,Alvin and the Chipmunks: Chipwrecked≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Music450,18/6/2014,English,80000000,USA,Grown Ups 2≈í√¶,Comedy451,7/9/2011,English,80000000,USA,Get Smart≈í√¶,Action|Adventure|Comedy452,3/8/2013,English,80000000,USA,Something's Gotta Give≈í√¶,Comedy|Drama|Romance453,31/12/2014,English,80000000,USA,Shutter Island≈í√¶,Mystery|Thriller454,10/3/2016,English,80000000,Germany,Four Christmases≈í√¶,Comedy|Drama|Romance455,12/1/2014,English,75000000,USA,Robots≈í√¶,Adventure|Animation|Comedy|Family|Sci-Fi456,25/10/2011,English,80000000,USA,Face/Off≈í√¶,Action|Crime|Sci-Fi|Thriller457,10/3/2013,English,80000000,USA,Bedtime Stories≈í√¶,Comedy|Family|Fantasy|Romance458,13/3/2012,English,80000000,USA,Road to Perdition≈í√¶,Crime|Drama|Thriller459,22/5/2015,English,80000000,USA,Just Go with It≈í√¶,Comedy|Romance460,25/1/2013,English,17700000,USA,Daredevil≈í√¶            ,Action|Adventure|Crime|Drama|Sci-Fi|Thriller461,7/7/2013,English,75000000,USA,Con Air≈í√¶,Action|Crime|Thriller462,25/2/2016,English,80000000,USA,Eagle Eye≈í√¶,Action|Mystery|Thriller463,20/8/2011,English,79000000,USA,Cold Mountain≈í√¶,Adventure|Drama|History|Romance|War464,18/11/2015,English,80000000,USA,The Book of Eli≈í√¶,Action|Adventure|Drama|Thriller465,21/5/2016,English,80000000,USA,Flubber≈í√¶,Comedy|Family|Sci-Fi466,17/5/2015,English,80000000,USA,The Haunting≈í√¶,Fantasy|Horror|Mystery|Thriller467,11/1/2013,English,80000000,USA,Space Jam≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport468,31/3/2012,English,65000000,USA,The Pink Panther≈í√¶,Adventure|Comedy|Crime|Family|Mystery469,27/1/2012,English,80000000,USA,The Day the Earth Stood Still≈í√¶,Drama|Sci-Fi|Thriller470,5/6/2013,English,75000000,USA,Conspiracy Theory≈í√¶,Action|Crime|Mystery|Romance|Thriller471,21/1/2014,English,68000000,USA,Fury≈í√¶,Action|Drama|War472,28/6/2013,English,70000000,USA,Six Days Seven Nights≈í√¶,Action|Adventure|Comedy|Romance473,14/1/2011,English,80000000,USA,Yogi Bear≈í√¶,Adventure|Animation|Comedy|Family474,11/1/2014,English,80000000,USA,Spirit: Stallion of the Cimarron≈í√¶,Adventure|Animation|Family|Western475,8/5/2013,English,80000000,USA,Zookeeper≈í√¶,Comedy|Family|Romance476,3/3/2016,English,80000000,USA,Lost in Space≈í√¶,Action|Adventure|Family|Sci-Fi|Thriller477,21/8/2015,English,80000000,USA,The Manchurian Candidate≈í√¶,Drama|Mystery|Sci-Fi|Thriller478,8/2/2011,English,17700000,USA,D√≠¬©j√≠√¶ Vu≈í√¶,Drama|Romance479,4/8/2015,English,80000000,USA,Hotel Transylvania 2≈í√¶,Animation|Comedy|Family|Fantasy480,6/11/2016,English,17700000,USA,Bewitched≈í√¶            ,Comedy|Family|Fantasy481,21/4/2016,English,80000000,USA,Fantasia 2000≈í√¶,Animation|Family|Fantasy|Music482,7/12/2011,English,80000000,USA,The Time Machine≈í√¶,Action|Adventure|Sci-Fi483,9/3/2015,English,90000000,USA,Mighty Joe Young≈í√¶,Action|Adventure|Family|Fantasy|Thriller484,21/6/2013,Spanish,80000000,USA,Swordfish≈í√¶,Action|Crime|Thriller485,1/9/2015,English,75000000,USA,The Legend of Zorro≈í√¶,Action|Adventure|Western486,12/7/2015,English,85000000,USA,What Dreams May Come≈í√¶,Drama|Fantasy|Romance487,11/5/2011,English,80000000,USA,Little Nicky≈í√¶,Comedy|Fantasy488,17/8/2013,English,88000000,USA,The Brothers Grimm≈í√¶,Action|Adventure|Comedy|Fantasy|Thriller489,31/3/2014,French,70000000,USA,Mars Attacks!≈í√¶,Action|Comedy|Sci-Fi490,4/7/2013,English,17700000,France,Evolution≈í√¶,Drama|Horror|Mystery|Sci-Fi491,5/12/2011,English,17700000,USA,The Edge≈í√¶,Action|Adventure|Drama|Thriller492,24/7/2012,English,80000000,USA,Surrogates≈í√¶,Action|Sci-Fi|Thriller493,24/6/2011,English,80000000,USA,Thirteen Days≈í√¶,Drama|History|Thriller494,20/12/2015,English,80000000,USA,Daylight≈í√¶,Action|Adventure|Drama|Thriller495,17/1/2012,English,80000000,USA,Walking with Dinosaurs 3D≈í√¶,Adventure|Animation|Family496,15/8/2015,English,44000000,USA,Battlefield Earth≈í√¶,Action|Adventure|Sci-Fi497,4/6/2015,English,80000000,Germany,Looney Tunes: Back in Action≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi498,6/2/2013,English,80000000,USA,Nine≈í√¶,Drama|Musical|Romance499,7/2/2013,English,80000000,USA,Timeline≈í√¶,Action|Adventure|Sci-Fi500,30/6/2012,English,80000000,USA,The Postman≈í√¶,Action|Adventure|Drama|Sci-Fi501,14/11/2012,English,80000000,Australia,Babe: Pig in the City≈í√¶,Adventure|Comedy|Drama|Family|Fantasy502,28/10/2015,English,90000000,USA,The Last Witch Hunter≈í√¶,Action|Adventure|Fantasy503,20/10/2015,English,70000000,USA,Red Planet≈í√¶,Action|Sci-Fi|Thriller504,28/3/2013,French,86000000,France,Arthur and the Invisibles≈í√¶,Adventure|Animation|Family|Fantasy505,14/6/2012,English,40000000,France,Oceans≈í√¶,Documentary|Drama506,12/6/2012,English,52000000,UK,A Sound of Thunder≈í√¶,Action|Adventure|Horror|Sci-Fi|Thriller507,5/4/2011,Spanish,80000000,Canada,Pompeii≈í√¶,Action|Adventure|Drama|History|Romance508,8/1/2011,English,8000000,Mexico,Top Cat Begins≈í√¶,Animation|Family509,12/3/2011,English,58000000,USA,A Beautiful Mind≈í√¶,Biography|Drama510,4/3/2015,English,45000000,USA,The Lion King≈í√¶,Adventure|Animation|Drama|Family|Musical511,9/9/2011,English,79000000,USA,Journey 2: The Mysterious Island≈í√¶,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi512,12/11/2015,English,78000000,USA,Cloudy with a Chance of Meatballs 2≈í√¶,Animation|Comedy|Family|Fantasy|Sci-Fi513,13/3/2014,English,78000000,Germany,Red Dragon≈í√¶,Crime|Drama|Thriller514,27/7/2013,English,100000000,USA,Hidalgo≈í√¶,Action|Adventure|Western515,19/1/2014,English,79000000,USA,Jack and Jill≈í√¶,Comedy516,2/3/2013,English,76000000,USA,2 Fast 2 Furious≈í√¶,Action|Crime|Thriller517,14/3/2014,English,81200000,France,The Little Prince≈í√¶,Adventure|Animation|Drama|Family|Fantasy518,1/11/2011,English,80000000,USA,The Invasion≈í√¶,Sci-Fi|Thriller519,5/8/2011,English,76000000,USA,The Adventures of Rocky & Bullwinkle≈í√¶,Adventure|Animation|Comedy|Family|Fantasy520,29/5/2011,English,75000000,Japan,The Secret Life of Pets≈í√¶,Animation|Comedy|Family521,31/8/2013,English,78000000,USA,The League of Extraordinary Gentlemen≈í√¶,Action|Adventure|Fantasy|Sci-Fi522,9/9/2014,English,76000000,USA,Despicable Me 2≈í√¶,Animation|Comedy|Family|Sci-Fi523,20/11/2013,English,75000000,USA,Independence Day≈í√¶,Action|Adventure|Sci-Fi524,8/7/2013,English,73000000,USA,The Lost World: Jurassic Park≈í√¶,Action|Adventure|Sci-Fi525,22/5/2011,English,75000000,USA,Madagascar≈í√¶,Adventure|Animation|Comedy|Family526,30/8/2013,English,76000000,USA,Children of Men≈í√¶,Drama|Sci-Fi|Thriller527,5/5/2011,English,75000000,USA,X-Men≈í√¶,Action|Adventure|Sci-Fi528,29/9/2012,English,75000000,USA,Wanted≈í√¶,Action|Crime|Fantasy|Thriller529,25/2/2012,English,75000000,USA,The Rock≈í√¶,Action|Adventure|Thriller530,18/8/2015,English,80000000,USA,Ice Age: The Meltdown≈í√¶,Action|Adventure|Animation|Comedy|Family|Fantasy531,23/11/2014,English,75000000,USA,50 First Dates≈í√¶,Comedy|Romance532,18/12/2013,English,75000000,USA,Hairspray≈í√¶,Comedy|Drama|Family|Music|Musical|Romance533,22/9/2011,English,50000000,USA,Exorcist: The Beginning≈í√¶,Horror|Mystery|Thriller534,14/6/2014,English,75000000,USA,Inspector Gadget≈í√¶,Action|Adventure|Comedy|Family|Sci-Fi535,22/7/2014,English,75000000,USA,Now You See Me≈í√¶,Crime|Mystery|Thriller536,10/9/2014,English,80000000,USA,Grown Ups≈í√¶,Comedy537,4/8/2015,English,60000000,USA,The Terminal≈í√¶,Comedy|Drama538,8/11/2011,English,17700000,USA,Constantine≈í√¶            ,Drama|Fantasy|Horror|Thriller539,19/4/2015,English,35000000,USA,Hotel for Dogs≈í√¶,Comedy|Family540,12/12/2015,English,75000000,USA,Vertical Limit≈í√¶,Action|Adventure|Drama|Thriller541,17/8/2011,English,75000000,USA,Charlie Wilson's War≈í√¶,Biography|Comedy|Drama|History542,11/12/2013,English,75000000,USA,Shark Tale≈í√¶,Adventure|Animation|Comedy|Family543,5/5/2011,English,70000000,USA,Dreamgirls≈í√¶,Drama|Music|Musical544,22/7/2015,English,17700000,USA,Life≈í√¶            ,Crime|Drama|Mystery545,28/6/2014,English,53000000,USA,Be Cool≈í√¶,Comedy|Crime|Music546,25/7/2013,English,70000000,France,Munich≈í√¶,Drama|History|Thriller547,26/11/2011,English,70000000,USA,Tears of the Sun≈í√¶,Action|Drama|Thriller|War548,17/2/2011,English,75000000,USA,Killers≈í√¶,Action|Comedy|Romance|Thriller549,15/11/2015,English,75000000,USA,The Man from U.N.C.L.E.≈í√¶,Action|Adventure|Comedy550,6/11/2016,English,80000000,USA,Spanglish≈í√¶,Comedy|Drama|Romance551,25/10/2012,English,75000000,USA,Monster House≈í√¶,Animation|Comedy|Family|Fantasy|Mystery552,9/6/2016,English,80000000,USA,Bandits≈í√¶,Comedy|Crime|Drama|Romance553,14/6/2012,English,55000000,USA,First Knight≈í√¶,Action|Adventure|Romance|Thriller554,17/8/2013,English,75000000,USA,Anna and the King≈í√¶,Drama|History|Romance555,3/5/2011,English,75000000,USA,Immortals≈í√¶,Action|Drama|Fantasy|Romance556,12/7/2012,English,52000000,USA,Hostage≈í√¶,Action|Crime|Drama|Mystery|Thriller557,14/3/2011,English,75000000,USA,Titan A.E.≈í√¶,Action|Adventure|Animation|Family|Sci-Fi558,2/1/2011,English,75000000,USA,Hollywood Homicide≈í√¶,Action|Comedy|Crime|Thriller559,28/8/2012,English,75000000,UK,Soldier≈í√¶,Action|Drama|Sci-Fi560,8/12/2011,English,17700000,USA,Carriers≈í√¶,Drama|Horror|Sci-Fi|Thriller561,28/12/2012,English,75000000,USA,Monkeybone≈í√¶,Animation|Comedy|Fantasy562,12/4/2011,English,45000000,USA,Flight of the Phoenix≈í√¶,Action|Adventure|Drama|Thriller563,24/12/2013,English,75000000,USA,Unbreakable≈í√¶,Drama|Mystery|Sci-Fi|Thriller564,15/8/2012,English,74000000,USA,Minions≈í√¶,Action|Animation|Comedy|Family|Sci-Fi565,1/11/2016,English,82000000,USA,Sucker Punch≈í√¶,Action|Fantasy566,4/2/2013,English,69000000,USA,Snake Eyes≈í√¶,Crime|Mystery|Thriller567,28/3/2011,English,75000000,USA,Sphere≈í√¶,Drama|Mystery|Sci-Fi|Thriller568,12/9/2015,English,73000000,USA,The Angry Birds Movie≈í√¶,Action|Animation|Comedy|Family569,26/9/2011,English,70000000,USA,Fool's Gold≈í√¶,Action|Adventure|Comedy|Romance|Thriller570,29/8/2013,English,75000000,USA,Funny People≈í√¶,Comedy|Drama571,11/11/2016,English,70000000,USA,The Kingdom≈í√¶,Action|Drama|Thriller572,9/1/2013,English,73000000,USA,Talladega Nights: The Ballad of Ricky Bobby≈í√¶,Action|Comedy|Sport573,20/10/2014,English,72000000,USA,Dr. Dolittle 2≈í√¶,Comedy|Family|Fantasy574,5/2/2012,English,72000000,USA,Braveheart≈í√¶,Biography|Drama|History|War575,15/4/2016,English,70000000,Germany,Jarhead≈í√¶,Action|Drama|War576,7/3/2012,English,75000000,USA,The Simpsons Movie≈í√¶,Adventure|Animation|Comedy577,21/9/2013,English,72000000,USA,The Majestic≈í√¶,Drama|Romance578,24/8/2014,English,72000000,USA,Driven≈í√¶,Action|Drama|Sport579,11/11/2015,English,59660000,France,Two Brothers≈í√¶,Adventure|Drama|Family580,13/1/2015,English,60000000,USA,The Village≈í√¶,Drama|Mystery|Romance|Thriller581,11/5/2012,English,71500000,USA,Doctor Dolittle≈í√¶,Comedy|Family|Fantasy582,21/5/2013,English,72000000,USA,Signs≈í√¶,Drama|Sci-Fi|Thriller583,14/9/2016,English,150000000,USA,Shrek 2≈í√¶,Adventure|Animation|Comedy|Family|Fantasy|Romance584,8/9/2011,English,120000000,USA,Cars≈í√¶,Adventure|Animation|Comedy|Family|Sport585,24/2/2011,English,70000000,USA,Runaway Bride≈í√¶,Comedy|Romance586,25/8/2016,English,70000000,USA,xXx≈í√¶,Action|Adventure|Thriller587,10/9/2013,English,74000000,USA,The SpongeBob Movie: Sponge Out of Water≈í√¶,Adventure|Animation|Comedy|Family|Fantasy588,9/9/2014,English,80000000,USA,Ransom≈í√¶,Crime|Thriller589,10/7/2015,English,75000000,USA,Inglourious Basterds≈í√¶,Adventure|Drama|War590,12/6/2013,English,70000000,USA,Hook≈í√¶,Adventure|Comedy|Family|Fantasy591,25/10/2015,English,100000000,USA,Hercules≈í√¶,Action|Adventure592,16/7/2015,English,70000000,USA,Die Hard 2≈í√¶,Action|Thriller593,21/6/2013,English,80000000,USA,S.W.A.T.≈í√¶,Action|Adventure|Crime|Thriller594,8/11/2016,English,17700000,USA,Sleepy Hollow≈í√¶            ,Adventure|Drama|Fantasy|Mystery|Thriller595,18/3/2011,English,68000000,USA,Vanilla Sky≈í√¶,Fantasy|Mystery|Romance|Sci-Fi|Thriller596,9/8/2013,English,70000000,USA,Lady in the Water≈í√¶,Drama|Fantasy|Mystery|Thriller597,15/6/2016,English,60000000,USA,AVP: Alien vs. Predator≈í√¶,Action|Horror|Sci-Fi|Thriller598,28/7/2013,English,75000000,USA,Alvin and the Chipmunks: The Squeakquel≈í√¶,Animation|Comedy|Family|Fantasy|Music599,12/5/2014,English,75000000,USA,We Were Soldiers≈í√¶,Action|Drama|History|War600,10/11/2014,English,70000000,USA,Olympus Has Fallen≈í√¶,Action|Thriller601,28/5/2011,English,58000000,USA,Star Trek: Insurrection≈í√¶,Action|Adventure|Sci-Fi|Thriller602,27/2/2011,English,70000000,USA,Battle Los Angeles≈í√¶,Action|Sci-Fi603,26/3/2016,English,70000000,USA,Big Fish≈í√¶,Adventure|Drama|Fantasy604,13/6/2012,English,70000000,USA,Wolf≈í√¶,Drama|Horror|Romance|Thriller605,21/7/2016,English,66000000,USA,War Horse≈í√¶,Drama|War606,23/5/2014,English,70000000,USA,The Monuments Men≈í√¶,Drama|War607,6/12/2014,English,69500000,USA,The Abyss≈í√¶,Adventure|Drama|Sci-Fi|Thriller608,16/3/2012,English,70000000,USA,Wall Street: Money Never Sleeps≈í√¶,Drama609,6/6/2014,English,70000000,USA,Dracula Untold≈í√¶,Action|Drama|Fantasy|Horror|War610,23/9/2012,English,70000000,USA,The Siege≈í√¶,Action|Thriller611,25/8/2015,English,70000000,UK,Stardust≈í√¶,Adventure|Family|Fantasy|Romance612,18/8/2012,English,70000000,USA,Seven Years in Tibet≈í√¶,Adventure|Biography|Drama|History|War613,15/7/2012,English,70000000,USA,The Dilemma≈í√¶,Comedy|Drama614,12/10/2013,English,70000000,USA,Bad Company≈í√¶,Action|Adventure|Comedy|Thriller615,26/9/2011,English,60000000,UK,Doom≈í√¶,Action|Adventure|Horror|Sci-Fi616,29/12/2014,English,70000000,USA,I Spy≈í√¶,Action|Adventure|Comedy|Thriller617,26/4/2016,English,70000000,USA,Underworld: Awakening≈í√¶,Action|Fantasy|Horror618,26/1/2015,English,75000000,USA,Rock of Ages≈í√¶,Comedy|Drama|Musical|Romance619,22/2/2013,English,60000000,USA,Hart's War≈í√¶,Drama|War620,23/12/2012,English,35000000,UK,Killer Elite≈í√¶,Action|Crime|Thriller621,24/10/2013,English,70000000,USA,Rollerball≈í√¶,Action|Sci-Fi|Sport622,2/8/2016,English,70000000,USA,Ballistic: Ecks vs. Sever≈í√¶,Action|Crime|Sci-Fi|Thriller623,4/6/2012,English,70000000,USA,Hard Rain≈í√¶,Action|Crime|Drama|Thriller624,13/6/2013,English,70000000,USA,Osmosis Jones≈í√¶,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy625,6/6/2016,English,70000000,USA,Legends of Oz: Dorothy's Return≈í√¶,Adventure|Animation|Family|Fantasy|Musical626,14/10/2013,English,70000000,USA,Blackhat≈í√¶,Action|Crime|Drama|Mystery|Thriller627,23/10/2013,English,70000000,USA,Sky Captain and the World of Tomorrow≈í√¶,Action|Adventure|Mystery|Sci-Fi|Thriller628,19/11/2011,English,70000000,UK,Basic Instinct 2≈í√¶,Crime|Mystery|Thriller629,10/1/2013,English,50000000,USA,Escape Plan≈í√¶,Action|Crime|Mystery|Sci-Fi|Thriller630,3/6/2012,English,70000000,USA,The Legend of Hercules≈í√¶,Action|Adventure|Fantasy631,19/10/2014,English,68000000,USA,The Sum of All Fears≈í√¶,Action|Drama|Thriller632,9/9/2011,English,68000000,USA,The Twilight Saga: Eclipse≈í√¶,Adventure|Drama|Fantasy|Romance633,19/1/2015,English,68000000,USA,The Score≈í√¶,Crime|Drama|Thriller634,29/1/2013,English,69000000,USA,Despicable Me≈í√¶,Animation|Comedy|Family635,28/8/2016,English,68000000,USA,Money Train≈í√¶,Action|Comedy|Crime|Drama|Thriller636,24/1/2015,English,68000000,USA,Ted 2≈í√¶,Comedy637,24/2/2013,English,70000000,Spain,Agora≈í√¶,Adventure|Drama|History|Romance638,3/12/2013,English,65000000,USA,Mystery Men≈í√¶,Action|Comedy|Fantasy|Sci-Fi639,13/12/2013,English,36000000,USA,Hall Pass≈í√¶,Comedy|Romance640,27/12/2016,English,68000000,USA,The Insider≈í√¶,Biography|Drama|Thriller641,19/5/2015,English,17700000,USA,The Finest Hours≈í√¶,Action|Drama|History|Thriller642,13/8/2011,English,70000000,USA,Body of Lies≈í√¶,Action|Drama|Thriller643,27/8/2011,English,17700000,USA,Dinner for Schmucks≈í√¶,Comedy644,6/1/2013,English,69000000,USA,Abraham Lincoln: Vampire Hunter≈í√¶,Action|Fantasy|Horror645,29/1/2014,English,66000000,USA,Entrapment≈í√¶,Action|Crime|Romance|Thriller646,15/12/2015,English,17700000,USA,Last Man Standing≈í√¶            ,Comedy647,26/4/2011,English,66000000,USA,The X Files≈í√¶,Drama|Mystery|Sci-Fi|Thriller648,4/1/2015,English,35000000,UK,The Last Legion≈í√¶,Action|Adventure|Fantasy|War649,11/5/2016,English,70000000,USA,Saving Private Ryan≈í√¶,Action|Drama|War650,23/12/2016,English,66000000,USA,Need for Speed≈í√¶,Action|Crime|Drama|Thriller651,27/11/2011,English,70000000,USA,What Women Want≈í√¶,Comedy|Fantasy|Romance652,22/4/2011,English,59000000,USA,Ice Age≈í√¶,Adventure|Animation|Comedy|Family653,1/1/2015,English,68000000,USA,Dreamcatcher≈í√¶,Drama|Horror|Sci-Fi|Thriller654,2/8/2014,English,65000000,USA,Lincoln≈í√¶,Biography|Drama|History|War655,1/1/2015,English,63000000,USA,The Matrix≈í√¶,Action|Sci-Fi656,10/12/2013,English,62000000,USA,Apollo 13≈í√¶,Adventure|Drama|History657,16/9/2011,English,65000000,USA,Total Recall≈í√¶,Action|Sci-Fi658,16/4/2011,English,60000000,USA,The Santa Clause 2≈í√¶,Comedy|Family|Fantasy659,16/5/2012,English,61000000,USA,Les Mis√≠¬©rables≈í√¶,Drama|Musical|Romance660,21/1/2015,English,65000000,USA,You've Got Mail≈í√¶,Comedy|Drama|Romance661,25/10/2013,English,65000000,USA,Step Brothers≈í√¶,Comedy662,8/9/2014,English,65000000,USA,The Mask of Zorro≈í√¶,Action|Adventure|Comedy|Romance|Thriller|Western663,8/7/2016,English,65000000,USA,Due Date≈í√¶,Comedy|Drama664,10/11/2012,English,65000000,USA,Unbroken≈í√¶,Biography|Drama|Sport|War665,12/6/2012,English,65000000,USA,Space Cowboys≈í√¶,Action|Adventure|Thriller666,15/5/2016,English,70000000,USA,Cliffhanger≈í√¶,Action|Adventure|Thriller667,31/10/2015,English,50000000,USA,Broken Arrow≈í√¶,Action|Crime|Thriller668,17/12/2016,English,60000000,USA,The Kid≈í√¶,Comedy|Family|Fantasy669,1/11/2011,English,63000000,USA,World Trade Center≈í√¶,Drama|History|Thriller670,2/3/2012,English,65000000,USA,Mona Lisa Smile≈í√¶,Drama671,10/6/2014,English,65000000,USA,The Dictator≈í√¶,Comedy|Romance672,19/2/2011,English,65000000,UK,Eyes Wide Shut≈í√¶,Drama|Mystery|Thriller673,9/11/2015,English,65000000,USA,Annie≈í√¶,Comedy|Drama|Family|Musical674,29/11/2012,English,50100000,USA,Focus≈í√¶,Comedy|Crime|Drama|Romance675,17/10/2014,English,65000000,USA,This Means War≈í√¶,Action|Comedy|Romance676,21/6/2016,English,65000000,USA,Blade: Trinity≈í√¶,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller677,15/5/2011,English,16900000,USA,Red Dawn≈í√¶,Action|Drama|War678,21/3/2015,English,65000000,France,Primary Colors≈í√¶,Comedy|Drama679,29/3/2014,English,65000000,Germany,Resident Evil: Retribution≈í√¶,Action|Horror|Sci-Fi|Thriller680,5/11/2011,English,45000000,USA,Death Race≈í√¶,Action|Sci-Fi|Thriller681,4/10/2012,English,65000000,USA,The Long Kiss Goodnight≈í√¶,Action|Crime|Drama|Mystery|Thriller682,23/12/2012,English,65000000,USA,Proof of Life≈í√¶,Action|Drama|Thriller683,9/3/2011,English,65000000,USA,Zathura: A Space Adventure≈í√¶,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi684,30/11/2013,English,63000000,USA,Fight Club≈í√¶,Drama685,2/3/2011,English,65000000,USA,We Are Marshall≈í√¶,Drama|Sport686,8/2/2013,English,17700000,UK,The Missing≈í√¶            ,Crime|Drama|Mystery687,15/6/2016,English,70000000,USA,Hudson Hawk≈í√¶,Action|Adventure|Comedy688,31/1/2012,English,65000000,France,Lucky Numbers≈í√¶,Comedy|Crime689,26/8/2013,English,65000000,Australia,"I, Frankenstein≈í√¶",Action|Fantasy|Sci-Fi|Thriller690,17/8/2016,English,50000000,UK,Oliver Twist≈í√¶,Crime|Drama691,21/8/2016,English,43000000,Canada,Elektra≈í√¶,Action|Crime|Fantasy|Thriller692,10/7/2016,English,65000000,USA,Sin City: A Dame to Kill For≈í√¶,Action|Crime|Thriller693,4/1/2012,English,64000000,USA,Random Hearts≈í√¶,Drama|Mystery|Romance694,30/11/2011,English,55000000,UK,Everest≈í√¶,Adventure|Biography|Drama|History|Sport|Thriller695,1/5/2016,English,50000000,Germany,Perfume: The Story of a Murderer≈í√¶,Crime|Drama|Fantasy696,15/5/2011,English,63000000,USA,Austin Powers in Goldmember≈í√¶,Action|Comedy|Crime697,12/7/2012,English,65000000,Hong Kong,Astro Boy≈í√¶,Action|Animation|Comedy|Family|Sci-Fi698,21/7/2016,English,63000000,USA,Jurassic Park≈í√¶,Adventure|Sci-Fi|Thriller699,26/3/2011,English,63000000,USA,Wyatt Earp≈í√¶,Adventure|Biography|Crime|Drama|Western700,11/8/2014,Mandarin,62000000,USA,Clear and Present Danger≈í√¶,Action|Crime|Drama|Thriller701,1/6/2012,English,65000000,China,Dragon Blade≈í√¶,Action|Adventure|Drama|History702,23/6/2015,English,64000000,USA,Littleman≈í√¶,Comedy|Crime703,23/2/2014,English,62000000,France,U-571≈í√¶,Action|War704,17/1/2012,English,62000000,USA,The American President≈í√¶,Comedy|Drama|Romance705,29/6/2011,English,62000000,USA,The Love Guru≈í√¶,Comedy|Romance|Sport706,18/10/2014,English,42000000,USA,3000 Miles to Graceland≈í√¶,Action|Comedy|Crime|Thriller707,2/6/2015,English,44000000,USA,The Hateful Eight≈í√¶,Crime|Drama|Mystery|Thriller|Western708,20/6/2014,English,61000000,USA,Blades of Glory≈í√¶,Comedy|Sport709,21/3/2013,English,63000000,USA,Hop≈í√¶,Adventure|Animation|Comedy|Family|Fantasy710,15/7/2015,English,65000000,USA,300≈í√¶,Action|Drama|Fantasy|War711,7/6/2015,English,80000000,USA,Meet the Fockers≈í√¶,Comedy|Romance712,15/9/2012,English,60000000,USA,Marley & Me≈í√¶,Comedy|Drama|Family713,12/11/2015,English,60000000,USA,The Green Mile≈í√¶,Crime|Drama|Fantasy|Mystery714,3/5/2014,English,17700000,USA,Wild Hogs≈í√¶,Action|Adventure|Comedy715,29/7/2013,English,150000000,USA,Chicken Little≈í√¶,Adventure|Animation|Comedy|Family|Sci-Fi716,13/12/2012,English,61000000,USA,Gone Girl≈í√¶,Crime|Drama|Mystery|Thriller717,9/6/2014,English,60000000,USA,The Bourne Identity≈í√¶,Action|Mystery|Thriller718,6/4/2012,English,58000000,UK,GoldenEye≈í√¶,Action|Adventure|Thriller719,29/1/2015,English,95000000,USA,The General's Daughter≈í√¶,Drama|Mystery|Thriller720,30/5/2014,English,60000000,USA,The Truman Show≈í√¶,Comedy|Drama|Sci-Fi721,5/10/2015,English,70000000,USA,The Prince of Egypt≈í√¶,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical722,11/7/2016,English,60000000,USA,Daddy Day Care≈í√¶,Comedy|Family723,19/3/2012,English,61000000,USA,2 Guns≈í√¶,Action|Comedy|Crime|Drama|Thriller724,7/2/2014,English,60000000,USA,Cats & Dogs≈í√¶,Action|Comedy|Family|Fantasy725,2/12/2013,English,60000000,USA,The Italian Job≈í√¶,Action|Crime|Thriller726,5/1/2014,English,60000000,USA,Two Weeks Notice≈í√¶,Comedy|Romance727,26/10/2016,English,105000000,USA,Antz≈í√¶,Adventure|Animation|Comedy|Family728,17/4/2012,English,60000000,USA,Couples Retreat≈í√¶,Comedy729,4/2/2013,English,60000000,USA,Days of Thunder≈í√¶,Action|Drama|Sport730,23/7/2013,English,60000000,USA,Cheaper by the Dozen 2≈í√¶,Adventure|Comedy|Family731,18/8/2011,English,61000000,USA,The Scorch Trials≈í√¶,Action|Sci-Fi|Thriller732,25/7/2011,English,60000000,USA,Eat Pray Love≈í√¶,Drama|Romance733,5/6/2013,English,60000000,USA,The Family Man≈í√¶,Comedy|Drama|Fantasy|Romance734,30/3/2011,English,58000000,USA,RED≈í√¶,Action|Comedy|Crime|Thriller735,12/5/2013,English,55000000,USA,Any Given Sunday≈í√¶,Drama|Sport736,13/11/2012,English,60000000,USA,The Horse Whisperer≈í√¶,Drama|Romance|Western737,6/10/2011,English,65000000,USA,Collateral≈í√¶,Crime|Drama|Thriller738,20/5/2011,English,60000000,USA,The Scorpion King≈í√¶,Action|Adventure|Fantasy|Thriller739,14/7/2014,English,55000000,USA,Ladder 49≈í√¶,Action|Drama|Thriller740,23/1/2014,English,60000000,USA,Jack Reacher≈í√¶,Action|Crime|Mystery|Thriller741,8/12/2014,English,60000000,USA,Deep Blue Sea≈í√¶,Action|Sci-Fi|Thriller742,25/8/2016,English,60000000,USA,This Is It≈í√¶,Documentary|Music743,19/2/2012,English,60000000,USA,Contagion≈í√¶,Drama|Thriller744,13/3/2015,English,60000000,USA,Kangaroo Jack≈í√¶,Action|Adventure|Comedy|Crime745,27/8/2014,English,60000000,USA,Coraline≈í√¶,Animation|Family|Fantasy746,24/6/2013,English,48000000,USA,The Happening≈í√¶,Sci-Fi|Thriller747,29/10/2014,English,70000000,USA,Man on Fire≈í√¶,Action|Crime|Drama|Thriller748,4/11/2015,English,50000000,USA,The Shaggy Dog≈í√¶,Comedy|Family|Fantasy749,14/11/2012,English,60000000,USA,Starsky & Hutch≈í√¶,Comedy|Crime750,19/4/2015,English,60000000,USA,Jingle All the Way≈í√¶,Comedy|Family751,9/3/2014,English,66000000,USA,Hellboy≈í√¶,Action|Fantasy|Horror|Sci-Fi752,12/4/2013,English,60000000,USA,A Civil Action≈í√¶,Drama753,10/7/2015,English,60000000,USA,ParaNorman≈í√¶,Adventure|Animation|Comedy|Family|Fantasy754,7/2/2014,English,60000000,USA,The Jackal≈í√¶,Action|Adventure|Crime|Thriller755,27/1/2013,English,60000000,USA,Paycheck≈í√¶,Action|Mystery|Sci-Fi|Thriller756,18/3/2011,English,60000000,USA,Up Close & Personal≈í√¶,Drama|Romance757,15/5/2016,English,60000000,UK,The Tale of Despereaux≈í√¶,Adventure|Animation|Comedy|Family|Fantasy758,23/7/2014,English,17700000,USA,Rules of Engagement≈í√¶            ,Comedy|Romance759,25/1/2012,English,60000000,USA,The Tuxedo≈í√¶,Action|Comedy|Sci-Fi760,10/8/2016,English,60000000,USA,Under Siege 2: Dark Territory≈í√¶,Action|Thriller761,17/7/2013,English,60000000,USA,Jack Ryan: Shadow Recruit≈í√¶,Action|Drama|Thriller762,8/8/2016,English,60000000,USA,Joy≈í√¶,Biography|Comedy|Drama763,7/2/2011,English,60000000,UK,London Has Fallen≈í√¶,Action|Crime|Drama|Thriller764,2/3/2011,English,75000000,USA,Alien: Resurrection≈í√¶,Action|Horror|Sci-Fi765,2/11/2015,English,61000000,USA,Shooter≈í√¶,Action|Crime|Drama|Mystery|Thriller766,26/5/2015,English,60000000,USA,The Boxtrolls≈í√¶,Adventure|Animation|Comedy|Family|Fantasy767,31/8/2012,English,48000000,USA,Practical Magic≈í√¶,Comedy|Drama|Fantasy|Romance768,27/11/2013,English,60000000,Australia,The Lego Movie≈í√¶,Action|Adventure|Animation|Comedy|Family|Fantasy769,25/5/2016,English,45000000,USA,Miss Congeniality 2: Armed and Fabulous≈í√¶,Action|Comedy|Crime770,22/11/2011,English,60000000,USA,Reign of Fire≈í√¶,Action|Adventure|Fantasy|Sci-Fi|Thriller771,1/1/2015,English,60000000,USA,Gangster Squad≈í√¶,Action|Crime|Drama|Thriller772,28/11/2011,English,60000000,USA,Year One≈í√¶,Adventure|Comedy773,10/10/2011,English,60000000,USA,Invictus≈í√¶,Biography|Drama|History|Sport774,17/4/2016,English,17700000,USA,State of Play≈í√¶,Crime|Drama|Mystery|Thriller775,27/6/2016,English,60000000,USA,Duplicity≈í√¶,Comedy|Crime|Romance|Thriller776,27/7/2013,English,65000000,USA,My Favorite Martian≈í√¶,Comedy|Family|Sci-Fi777,10/7/2013,English,60000000,USA,The Sentinel≈í√¶,Action|Crime|Thriller778,8/9/2013,English,70000000,Spain,Planet 51≈í√¶,Adventure|Animation|Comedy|Family|Sci-Fi779,26/3/2013,English,60000000,USA,Star Trek: Nemesis≈í√¶,Action|Adventure|Sci-Fi|Thriller780,7/6/2014,English,60000000,USA,Intolerable Cruelty≈í√¶,Comedy|Crime|Romance781,22/4/2013,English,17700000,USA,Trouble with the Curve≈í√¶,Drama|Sport782,11/3/2013,English,80000000,UK,Edge of Darkness≈í√¶,Crime|Drama|Mystery|Thriller783,2/10/2012,English,40000000,UK,The Relic≈í√¶,Horror|Mystery|Sci-Fi|Thriller784,6/9/2014,English,60000000,USA,Analyze That≈í√¶,Comedy|Crime785,2/6/2014,English,60000000,USA,Righteous Kill≈í√¶,Action|Crime|Drama|Mystery|Thriller786,3/2/2015,English,60000000,USA,Mercury Rising≈í√¶,Action|Crime|Drama|Thriller787,29/12/2014,English,60000000,UK,The Soloist≈í√¶,Biography|Drama|Music788,26/2/2012,English,60000000,USA,The Legend of Bagger Vance≈í√¶,Drama|Fantasy|Sport789,19/5/2016,English,60000000,USA,Almost Famous≈í√¶,Adventure|Comedy|Drama|Music790,8/3/2016,English,17700000,UK,Garfield 2≈í√¶,Animation|Comedy|Family|Fantasy791,14/5/2015,English,87000000,USA,xXx: State of the Union≈í√¶,Action|Adventure|Crime|Thriller792,17/4/2016,English,60000000,USA,Priest≈í√¶,Action|Fantasy|Horror|Sci-Fi|Thriller793,19/2/2014,English,60000000,USA,Sinbad: Legend of the Seven Seas≈í√¶,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance794,11/8/2012,English,60000000,UK,Event Horizon≈í√¶,Horror|Sci-Fi|Thriller795,1/12/2011,English,220000000,USA,The Avengers≈í√¶,Action|Adventure|Sci-Fi796,8/4/2015,English,60000000,USA,Dragonfly≈í√¶,Drama|Fantasy|Mystery|Romance|Thriller797,23/7/2012,English,50000000,Germany,The Black Dahlia≈í√¶,Crime|Drama|Mystery|Thriller798,11/3/2012,English,60000000,UK,Flyboys≈í√¶,Action|Adventure|Drama|History|Romance|War799,28/11/2012,English,60000000,USA,The Last Castle≈í√¶,Action|Drama|Thriller800,2/12/2015,English,65000000,USA,Supernova≈í√¶,Horror|Sci-Fi|Thriller801,29/1/2014,English,60000000,USA,Winter's Tale≈í√¶,Drama|Fantasy|Mystery|Romance802,1/10/2011,English,60000000,USA,The Mortal Instruments: City of Bones≈í√¶,Fantasy|Horror|Mystery|Romance803,6/1/2014,English,60000000,USA,Meet Dave≈í√¶,Adventure|Comedy|Family|Romance|Sci-Fi804,10/9/2016,English,30000000,USA,Dark Water≈í√¶,Drama|Horror|Thriller805,9/5/2011,English,55000000,USA,Edtv≈í√¶,Comedy|Drama806,27/3/2015,English,60000000,Germany,Inkheart≈í√¶,Adventure|Family|Fantasy807,8/8/2014,English,60000000,USA,The Spirit≈í√¶,Action|Crime|Fantasy|Thriller808,19/12/2015,English,60000000,UK,Mortdecai≈í√¶,Action|Comedy|Mystery|Romance809,11/11/2015,English,60000000,Germany,In the Name of the King: A Dungeon Siege Tale≈í√¶,Action|Adventure|Fantasy|Thriller810,3/4/2012,English,35000000,USA,Beyond Borders≈í√¶,Adventure|Drama|Romance|War811,1/5/2011,Filipino,68005000,China,Xi you ji zhi: Sun Wukong san da Baigu Jing≈í√¶,Action|Adventure|Fantasy812,22/6/2013,English,80000000,USA,The Great Raid≈í√¶,Action|Drama|War813,20/11/2015,English,58000000,USA,Deadpool≈í√¶,Action|Adventure|Comedy|Romance|Sci-Fi814,1/1/2015,English,60000000,USA,Holy Man≈í√¶,Comedy|Drama815,18/1/2013,English,58800000,USA,American Sniper≈í√¶,Action|Biography|Drama|History|Thriller|War816,16/6/2016,English,58000000,USA,Goosebumps≈í√¶,Adventure|Comedy|Family|Fantasy|Horror817,23/9/2015,English,3000000,USA,"Sabrina, the Teenage Witch≈í√¶            ",Comedy|Family|Fantasy818,10/5/2015,English,58000000,USA,Just Like Heaven≈í√¶,Comedy|Fantasy|Romance819,22/8/2014,English,60000000,USA,The Flintstones in Viva Rock Vegas≈í√¶,Comedy|Family|Romance|Sci-Fi820,28/3/2012,English,63000000,USA,Rambo III≈í√¶,Action|Adventure|Thriller|War821,3/5/2013,English,58000000,USA,Leatherheads≈í√¶,Comedy|Drama|Romance|Sport822,23/6/2012,English,17700000,USA,The Ridiculous 6≈í√¶,Comedy|Western823,20/5/2013,English,58000000,USA,Did You Hear About the Morgans?≈í√¶,Comedy|Drama|Romance824,13/11/2016,English,58000000,USA,The Internship≈í√¶,Comedy825,22/6/2015,English,60000000,Germany,Resident Evil: Afterlife≈í√¶,Action|Adventure|Horror|Sci-Fi826,7/9/2014,English,58000000,USA,Red Tails≈í√¶,Action|Adventure|Drama|History|War827,25/9/2016,English,17700000,USA,Sex and the City≈í√¶            ,Comedy|Romance828,12/2/2012,English,57000000,USA,The Devil's Advocate≈í√¶,Drama|Mystery|Thriller829,8/8/2011,English,70000000,USA,That's My Boy≈í√¶,Comedy830,5/5/2011,English,57000000,USA,DragonHeart≈í√¶,Action|Adventure|Fantasy831,2/2/2015,English,58000000,USA,After the Sunset≈í√¶,Action|Comedy|Crime|Drama832,18/9/2012,English,57000000,USA,Ghost Rider: Spirit of Vengeance≈í√¶,Action|Fantasy|Thriller833,21/4/2012,English,57000000,UK,Captain Corelli's Mandolin≈í√¶,Drama|Music|Romance|War834,7/2/2016,English,17700000,USA,Anger Management≈í√¶            ,Comedy|Romance835,3/4/2011,English,56000000,Canada,The Pacifier≈í√¶,Action|Comedy|Drama|Family|Thriller836,19/4/2012,English,56000000,USA,Walking Tall≈í√¶,Action|Crime837,27/4/2011,English,55000000,USA,Forrest Gump≈í√¶,Comedy|Drama838,28/5/2011,English,60000000,USA,Alvin and the Chipmunks≈í√¶,Animation|Comedy|Family|Fantasy|Music839,19/7/2011,English,55000000,USA,Meet the Parents≈í√¶,Comedy840,12/9/2016,English,55000000,USA,Pocahontas≈í√¶,Adventure|Animation|Drama|Family|History|Musical|Romance841,6/3/2015,English,55000000,USA,Superman≈í√¶,Action|Adventure|Drama|Romance|Sci-Fi842,19/8/2015,English,54000000,USA,The Nutty Professor≈í√¶,Comedy|Romance|Sci-Fi843,14/2/2012,English,70000000,USA,Hitch≈í√¶,Comedy|Romance844,5/1/2012,English,55000000,USA,George of the Jungle≈í√¶,Action|Adventure|Comedy|Family|Romance845,21/12/2013,English,55000000,USA,American Wedding≈í√¶,Comedy|Romance846,18/1/2011,English,55000000,USA,Captain Phillips≈í√¶,Biography|Drama|Thriller847,13/3/2016,English,55000000,USA,Date Night≈í√¶,Comedy|Crime|Romance|Thriller848,19/4/2012,English,50000000,USA,Casper≈í√¶,Comedy|Family|Fantasy849,27/2/2014,English,55000000,USA,The Equalizer≈í√¶,Action|Crime|Thriller
+mov ID,Date,movie_language,movie_totalcost,movie_country,movie_title,moviegenres,DirctorID,actorID
+Mov_1,5/24/2014,English,237000000,USA,AvatarÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_243,Act_141
+Mov_2,7/23/2016,English,300000000,USA,Pirates of the Caribbean: At World's EndÂ ,Action|Adventure|Fantasy,Dir_65,Act_66
+Mov_3,4/8/2010,English,245000000,UK,SpectreÂ ,Action|Adventure|Thriller,Dir_92,Act_105
+Mov_4,1/9/2011,English,250000000,USA,The Dark Knight RisesÂ ,Action|Thriller,Dir_399,Act_114
+Mov_5,5/22/2014,English,17700000,USA,Star Wars: Episode VII - The Force AwakensÂ             ,Documentary,Dir_423,Act_1
+Mov_6,8/19/2014,English,263700000,USA,John CarterÂ ,Action|Adventure|Sci-Fi,Dir_232,Act_56
+Mov_7,5/31/2014,English,258000000,USA,Spider-Man 3Â ,Action|Adventure|Romance,Dir_4,Act_94
+Mov_8,2/23/2012,English,260000000,USA,TangledÂ ,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Dir_264,Act_23
+Mov_9,12/22/2012,English,250000000,USA,Avengers: Age of UltronÂ ,Action|Adventure|Sci-Fi,Dir_43,Act_25
+Mov_10,2/4/2011,English,250000000,UK,Harry Potter and the Half-Blood PrinceÂ ,Adventure|Family|Fantasy|Mystery,Dir_96,Act_145
+Mov_11,6/24/2013,English,250000000,USA,Batman v Superman: Dawn of JusticeÂ ,Action|Adventure|Sci-Fi,Dir_163,Act_100
+Mov_12,12/14/2013,English,209000000,USA,Superman ReturnsÂ ,Action|Adventure|Sci-Fi,Dir_433,Act_142
+Mov_13,12/17/2010,English,200000000,UK,Quantum of SolaceÂ ,Action|Adventure,Dir_398,Act_122
+Mov_14,1/6/2010,English,225000000,USA,Pirates of the Caribbean: Dead Man's ChestÂ ,Action|Adventure|Fantasy,Dir_208,Act_22
+Mov_15,9/9/2015,English,215000000,USA,The Lone RangerÂ ,Action|Adventure|Western,Dir_136,Act_55
+Mov_16,6/8/2011,English,225000000,USA,Man of SteelÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_135,Act_17
+Mov_17,6/28/2011,English,225000000,USA,The Chronicles of Narnia: Prince CaspianÂ ,Action|Adventure|Family|Fantasy,Dir_206,Act_52
+Mov_18,11/23/2010,English,220000000,USA,The AvengersÂ ,Action|Adventure|Sci-Fi,Dir_377,Act_124
+Mov_19,8/1/2011,English,250000000,USA,Pirates of the Caribbean: On Stranger TidesÂ ,Action|Adventure|Fantasy,Dir_281,Act_46
+Mov_20,11/11/2014,English,225000000,USA,Men in Black 3Â ,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Dir_2,Act_66
+Mov_21,1/23/2014,English,250000000,New Zealand,The Hobbit: The Battle of the Five ArmiesÂ ,Adventure|Fantasy,Dir_211,Act_19
+Mov_22,6/25/2015,English,230000000,USA,The Amazing Spider-ManÂ ,Action|Adventure|Fantasy,Dir_196,Act_150
+Mov_23,9/14/2014,English,200000000,USA,Robin HoodÂ ,Action|Adventure|Drama|History,Dir_268,Act_106
+Mov_24,11/20/2015,English,225000000,USA,The Hobbit: The Desolation of SmaugÂ ,Adventure|Fantasy,Dir_220,Act_137
+Mov_25,3/30/2014,English,180000000,USA,The Golden CompassÂ ,Adventure|Family|Fantasy,Dir_312,Act_137
+Mov_26,12/14/2010,English,207000000,New Zealand,King KongÂ ,Action|Adventure|Drama|Romance,Dir_456,Act_134
+Mov_27,3/18/2014,English,200000000,USA,TitanicÂ ,Drama|Romance,Dir_316,Act_58
+Mov_28,5/13/2014,English,250000000,USA,Captain America: Civil WarÂ ,Action|Adventure|Sci-Fi,Dir_374,Act_43
+Mov_29,2/2/2013,English,209000000,USA,BattleshipÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_97,Act_5
+Mov_30,10/25/2012,English,150000000,USA,Jurassic WorldÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_405,Act_93
+Mov_31,5/1/2010,English,200000000,UK,SkyfallÂ ,Action|Adventure|Thriller,Dir_494,Act_29
+Mov_32,7/3/2011,English,200000000,USA,Spider-Man 2Â ,Action|Adventure|Fantasy|Romance,Dir_282,Act_19
+Mov_33,1/10/2010,English,200000000,USA,Iron Man 3Â ,Action|Adventure|Sci-Fi,Dir_49,Act_57
+Mov_34,9/26/2016,English,200000000,USA,Alice in WonderlandÂ ,Adventure|Family|Fantasy,Dir_487,Act_116
+Mov_35,12/23/2012,English,210000000,Canada,X-Men: The Last StandÂ ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Dir_123,Act_15
+Mov_36,8/8/2010,English,200000000,USA,Monsters UniversityÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_46,Act_87
+Mov_37,6/18/2016,English,200000000,USA,Transformers: Revenge of the FallenÂ ,Action|Adventure|Sci-Fi,Dir_265,Act_51
+Mov_38,6/23/2013,English,210000000,USA,Transformers: Age of ExtinctionÂ ,Action|Adventure|Sci-Fi,Dir_481,Act_103
+Mov_39,2/15/2010,English,215000000,USA,Oz the Great and PowerfulÂ ,Adventure|Family|Fantasy,Dir_242,Act_65
+Mov_40,6/20/2014,English,200000000,USA,The Amazing Spider-Man 2Â ,Action|Adventure|Fantasy|Sci-Fi,Dir_215,Act_106
+Mov_41,5/7/2012,English,170000000,USA,TRON: LegacyÂ ,Action|Adventure|Sci-Fi,Dir_350,Act_98
+Mov_42,4/29/2014,English,200000000,USA,Cars 2Â ,Adventure|Animation|Comedy|Family|Sport,Dir_168,Act_127
+Mov_43,3/16/2012,English,200000000,USA,Green LanternÂ ,Action|Adventure|Sci-Fi,Dir_62,Act_32
+Mov_44,12/25/2016,English,200000000,USA,Toy Story 3Â ,Adventure|Animation|Comedy|Family|Fantasy,Dir_116,Act_116
+Mov_45,5/28/2016,English,200000000,USA,Terminator SalvationÂ ,Action|Adventure|Sci-Fi,Dir_241,Act_43
+Mov_46,1/8/2013,English,190000000,USA,Furious 7Â ,Action|Crime|Thriller,Dir_338,Act_137
+Mov_47,2/19/2010,English,190000000,USA,World War ZÂ ,Action|Adventure|Horror|Sci-Fi|Thriller,Dir_330,Act_102
+Mov_48,7/19/2011,English,200000000,USA,X-Men: Days of Future PastÂ ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Dir_198,Act_31
+Mov_49,12/25/2015,English,190000000,USA,Star Trek Into DarknessÂ ,Action|Adventure|Sci-Fi,Dir_39,Act_23
+Mov_50,3/23/2011,English,195000000,USA,Jack the Giant SlayerÂ ,Adventure|Fantasy,Dir_441,Act_33
+Mov_51,8/5/2016,English,105000000,Australia,The Great GatsbyÂ ,Drama|Romance,Dir_490,Act_22
+Mov_52,10/10/2015,English,200000000,USA,Prince of Persia: The Sands of TimeÂ ,Action|Adventure|Fantasy|Romance,Dir_495,Act_82
+Mov_53,7/13/2010,English,190000000,USA,Pacific RimÂ ,Action|Adventure|Sci-Fi,Dir_256,Act_111
+Mov_54,2/11/2016,English,195000000,USA,Transformers: Dark of the MoonÂ ,Action|Adventure|Sci-Fi,Dir_234,Act_75
+Mov_55,9/20/2013,English,185000000,USA,Indiana Jones and the Kingdom of the Crystal SkullÂ ,Action|Adventure|Fantasy,Dir_30,Act_51
+Mov_56,1/31/2015,English,17700000,USA,The Good DinosaurÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_127,Act_79
+Mov_57,5/6/2012,English,185000000,USA,BraveÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_155,Act_142
+Mov_58,10/1/2013,English,185000000,USA,Star Trek BeyondÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_318,Act_77
+Mov_59,11/8/2010,English,180000000,USA,WALLÂ·EÂ ,Adventure|Animation|Family|Sci-Fi,Dir_227,Act_84
+Mov_60,9/7/2013,English,140000000,USA,Rush Hour 3Â ,Action|Comedy|Crime|Thriller,Dir_305,Act_62
+Mov_61,9/2/2016,English,200000000,USA,2012Â ,Action|Adventure|Sci-Fi,Dir_330,Act_113
+Mov_62,8/23/2012,English,200000000,USA,A Christmas CarolÂ ,Animation|Drama|Family|Fantasy,Dir_23,Act_63
+Mov_63,11/30/2011,English,176000000,USA,Jupiter AscendingÂ ,Action|Adventure|Sci-Fi,Dir_120,Act_100
+Mov_64,12/12/2014,English,180000000,USA,The Legend of TarzanÂ ,Action|Adventure|Drama|Romance,Dir_385,Act_72
+Mov_65,4/4/2013,English,180000000,USA,"The Chronicles of Narnia: The Lion, the Witch and the WardrobeÂ ",Adventure|Family|Fantasy,Dir_380,Act_43
+Mov_66,8/29/2011,English,178000000,USA,X-Men: ApocalypseÂ ,Action|Adventure|Sci-Fi,Dir_221,Act_147
+Mov_67,4/15/2013,English,185000000,USA,The Dark KnightÂ ,Action|Crime|Drama|Thriller,Dir_128,Act_97
+Mov_68,8/17/2013,English,175000000,USA,UpÂ ,Adventure|Animation|Comedy|Family,Dir_61,Act_15
+Mov_69,5/11/2011,English,175000000,USA,Monsters vs. AliensÂ ,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Dir_106,Act_129
+Mov_70,10/6/2014,English,140000000,USA,Iron ManÂ ,Action|Adventure|Sci-Fi,Dir_165,Act_101
+Mov_71,10/29/2016,English,170000000,USA,HugoÂ ,Adventure|Drama|Family|Mystery,Dir_61,Act_66
+Mov_72,5/23/2010,English,170000000,USA,Wild Wild WestÂ ,Action|Comedy|Sci-Fi|Western,Dir_120,Act_137
+Mov_73,5/14/2010,English,145000000,USA,The Mummy: Tomb of the Dragon EmperorÂ ,Action|Adventure|Fantasy|Horror|Thriller,Dir_93,Act_136
+Mov_74,7/12/2014,English,175000000,USA,Suicide SquadÂ ,Action|Adventure|Comedy|Sci-Fi,Dir_86,Act_84
+Mov_75,1/25/2012,English,175000000,USA,Evan AlmightyÂ ,Comedy|Family|Fantasy,Dir_369,Act_114
+Mov_76,3/18/2011,English,178000000,USA,Edge of TomorrowÂ ,Action|Adventure|Sci-Fi,Dir_15,Act_134
+Mov_77,4/12/2014,English,175000000,USA,WaterworldÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_457,Act_51
+Mov_78,1/8/2012,English,175000000,USA,G.I. Joe: The Rise of CobraÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_298,Act_130
+Mov_79,9/5/2016,English,175000000,USA,Inside OutÂ ,Adventure|Animation|Comedy|Drama|Family|Fantasy,Dir_329,Act_37
+Mov_80,5/20/2015,English,175000000,UK,The Jungle BookÂ ,Adventure|Drama|Family|Fantasy,Dir_68,Act_112
+Mov_81,6/7/2014,English,200000000,USA,Iron Man 2Â ,Action|Adventure|Sci-Fi,Dir_55,Act_130
+Mov_82,2/12/2016,English,170000000,USA,Snow White and the HuntsmanÂ ,Action|Adventure|Drama|Fantasy,Dir_317,Act_81
+Mov_83,5/6/2013,English,180000000,USA,MaleficentÂ ,Action|Adventure|Family|Fantasy|Romance,Dir_104,Act_11
+Mov_84,4/19/2011,English,170000000,USA,Dawn of the Planet of the ApesÂ ,Action|Adventure|Drama|Sci-Fi,Dir_21,Act_136
+Mov_85,8/23/2010,English,17700000,Belgium,The LoversÂ ,Action|Adventure|Romance|Sci-Fi,Dir_46,Act_46
+Mov_86,1/12/2011,English,175000000,USA,47 RoninÂ ,Action|Adventure|Drama|Fantasy,Dir_83,Act_20
+Mov_87,12/4/2015,English,170000000,USA,Captain America: The Winter SoldierÂ ,Action|Adventure|Sci-Fi,Dir_125,Act_86
+Mov_88,7/2/2012,English,165000000,USA,Shrek Forever AfterÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_87,Act_66
+Mov_89,8/18/2015,English,190000000,USA,TomorrowlandÂ ,Action|Adventure|Family|Mystery|Sci-Fi,Dir_20,Act_145
+Mov_90,2/6/2015,English,165000000,USA,Big Hero 6Â ,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Dir_464,Act_66
+Mov_91,9/2/2016,English,165000000,USA,Wreck-It RalphÂ ,Adventure|Animation|Comedy|Family|Sci-Fi,Dir_386,Act_81
+Mov_92,12/28/2014,English,165000000,USA,The Polar ExpressÂ ,Adventure|Animation|Family|Fantasy,Dir_117,Act_79
+Mov_93,7/21/2010,English,165000000,USA,Independence Day: ResurgenceÂ ,Action|Adventure|Sci-Fi,Dir_460,Act_35
+Mov_94,1/22/2016,English,165000000,USA,How to Train Your DragonÂ ,Adventure|Animation|Family|Fantasy,Dir_415,Act_51
+Mov_95,1/23/2016,English,200000000,USA,Terminator 3: Rise of the MachinesÂ ,Action|Sci-Fi,Dir_330,Act_148
+Mov_96,2/13/2012,English,170000000,USA,Guardians of the GalaxyÂ ,Action|Adventure|Sci-Fi,Dir_407,Act_91
+Mov_97,5/30/2015,English,165000000,USA,InterstellarÂ ,Adventure|Drama|Sci-Fi,Dir_182,Act_69
+Mov_98,11/6/2014,Japanese,160000000,USA,InceptionÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_128,Act_115
+Mov_99,5/23/2014,English,17700000,Japan,Godzilla ResurgenceÂ ,Action|Adventure|Drama|Horror|Sci-Fi,Dir_120,Act_28
+Mov_100,8/15/2011,English,180000000,USA,The Hobbit: An Unexpected JourneyÂ ,Adventure|Fantasy,Dir_112,Act_36
+Mov_101,12/28/2015,English,38000000,USA,The Fast and the FuriousÂ ,Action|Crime|Thriller,Dir_25,Act_83
+Mov_102,3/29/2011,English,150000000,USA,The Curious Case of Benjamin ButtonÂ ,Drama|Fantasy|Romance,Dir_59,Act_74
+Mov_103,11/1/2010,English,160000000,USA,X-Men: First ClassÂ ,Action|Adventure|Sci-Fi,Dir_79,Act_74
+Mov_104,2/12/2015,English,160000000,USA,The Hunger Games: Mockingjay - Part 2Â ,Adventure|Sci-Fi,Dir_295,Act_48
+Mov_105,10/27/2011,English,150000000,USA,The Sorcerer's ApprenticeÂ ,Action|Adventure|Family|Fantasy,Dir_397,Act_67
+Mov_106,3/27/2016,English,160000000,USA,PoseidonÂ ,Action|Adventure|Drama|Thriller,Dir_172,Act_83
+Mov_107,9/12/2012,English,170000000,USA,Alice Through the Looking GlassÂ ,Adventure|Family|Fantasy,Dir_193,Act_80
+Mov_108,8/29/2010,English,160000000,USA,Shrek the ThirdÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_109,Act_33
+Mov_109,4/16/2015,English,160000000,USA,WarcraftÂ ,Action|Adventure|Fantasy,Dir_363,Act_118
+Mov_110,7/17/2013,English,155000000,USA,Terminator GenisysÂ ,Action|Adventure|Sci-Fi,Dir_9,Act_118
+Mov_111,4/5/2013,English,155000000,USA,The Chronicles of Narnia: The Voyage of the Dawn TreaderÂ ,Adventure|Family|Fantasy,Dir_417,Act_102
+Mov_112,6/13/2011,English,140000000,USA,Pearl HarborÂ ,Action|Drama|History|Romance|War,Dir_253,Act_134
+Mov_113,6/24/2014,English,150000000,USA,TransformersÂ ,Action|Adventure|Sci-Fi,Dir_247,Act_120
+Mov_114,7/14/2012,English,155000000,Germany,AlexanderÂ ,Action|Adventure|Biography|Drama|History|Romance|War,Dir_166,Act_24
+Mov_115,12/21/2010,English,150000000,UK,Harry Potter and the Order of the PhoenixÂ ,Adventure|Family|Fantasy|Mystery,Dir_249,Act_94
+Mov_116,2/25/2011,English,150000000,UK,Harry Potter and the Goblet of FireÂ ,Adventure|Family|Fantasy|Mystery,Dir_400,Act_17
+Mov_117,4/22/2010,English,150000000,USA,HancockÂ ,Action|Drama,Dir_38,Act_143
+Mov_118,9/11/2016,English,150000000,USA,I Am LegendÂ ,Drama|Horror|Sci-Fi,Dir_176,Act_54
+Mov_119,4/15/2012,English,150000000,USA,Charlie and the Chocolate FactoryÂ ,Adventure|Comedy|Family|Fantasy,Dir_84,Act_61
+Mov_120,8/6/2015,English,150000000,USA,RatatouilleÂ ,Animation|Comedy|Family|Fantasy,Dir_228,Act_75
+Mov_121,11/24/2015,English,150000000,USA,Batman BeginsÂ ,Action|Adventure,Dir_407,Act_13
+Mov_122,12/10/2016,English,150000000,USA,Madagascar: Escape 2 AfricaÂ ,Action|Adventure|Animation|Comedy|Family,Dir_278,Act_117
+Mov_123,12/24/2016,English,150000000,USA,Night at the Museum: Battle of the SmithsonianÂ ,Adventure|Comedy|Family|Fantasy,Dir_233,Act_49
+Mov_124,12/6/2015,English,150000000,USA,X-Men Origins: WolverineÂ ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Dir_220,Act_18
+Mov_125,4/13/2012,English,150000000,Australia,The Matrix RevolutionsÂ ,Action|Sci-Fi,Dir_478,Act_73
+Mov_126,2/13/2015,English,150000000,USA,FrozenÂ ,Adventure|Animation|Comedy|Family|Fantasy|Musical,Dir_27,Act_128
+Mov_127,7/27/2010,English,150000000,USA,The Matrix ReloadedÂ ,Action|Sci-Fi,Dir_213,Act_148
+Mov_128,3/25/2014,English,170000000,USA,Thor: The Dark WorldÂ ,Action|Adventure|Fantasy,Dir_333,Act_140
+Mov_129,5/10/2013,English,150000000,Australia,Mad Max: Fury RoadÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_176,Act_71
+Mov_130,6/4/2011,English,150000000,USA,Angels & DemonsÂ ,Mystery|Thriller,Dir_452,Act_83
+Mov_131,4/7/2014,English,150000000,USA,ThorÂ ,Action|Adventure|Fantasy,Dir_423,Act_12
+Mov_132,7/3/2010,English,150000000,USA,BoltÂ ,Adventure|Animation|Comedy|Drama|Family,Dir_428,Act_135
+Mov_133,4/20/2015,English,150000000,USA,G-ForceÂ ,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Dir_347,Act_82
+Mov_134,7/24/2013,English,150000000,USA,Wrath of the TitansÂ ,Action|Adventure|Fantasy,Dir_18,Act_12
+Mov_135,12/25/2014,English,100000000,USA,Dark ShadowsÂ ,Comedy|Fantasy|Horror,Dir_45,Act_45
+Mov_136,11/16/2012,English,150000000,China,Mission: Impossible - Rogue NationÂ ,Action|Adventure|Thriller,Dir_121,Act_85
+Mov_137,11/2/2016,English,150000000,USA,The WolfmanÂ ,Drama|Fantasy|Horror|Thriller,Dir_267,Act_32
+Mov_138,4/15/2011,English,180000000,USA,The Legend of TarzanÂ ,Action|Adventure|Drama|Romance,Dir_259,Act_46
+Mov_139,10/19/2010,English,150000000,USA,Bee MovieÂ ,Adventure|Animation|Comedy|Family,Dir_279,Act_19
+Mov_140,3/3/2010,English,150000000,USA,Kung Fu Panda 2Â ,Action|Adventure|Animation|Comedy|Family,Dir_342,Act_146
+Mov_141,5/13/2016,English,150000000,USA,The Last AirbenderÂ ,Action|Adventure|Family|Fantasy,Dir_256,Act_139
+Mov_142,1/10/2013,English,150000000,USA,Mission: Impossible IIIÂ ,Action|Adventure|Thriller,Dir_161,Act_52
+Mov_143,3/11/2013,English,150000000,USA,White House DownÂ ,Action|Drama|Thriller,Dir_100,Act_2
+Mov_144,5/25/2015,English,150000000,USA,Mars Needs MomsÂ ,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Dir_340,Act_91
+Mov_145,9/20/2016,English,149000000,UK,Flushed AwayÂ ,Adventure|Animation|Comedy|Family,Dir_81,Act_63
+Mov_146,7/22/2015,English,150000000,USA,PanÂ ,Adventure|Family|Fantasy,Dir_398,Act_27
+Mov_147,3/17/2011,English,145000000,USA,Mr. Peabody & ShermanÂ ,Adventure|Animation|Comedy|Family|Sci-Fi,Dir_324,Act_97
+Mov_148,10/18/2013,English,175000000,USA,TroyÂ ,Adventure,Dir_159,Act_113
+Mov_149,10/29/2011,English,145000000,USA,Madagascar 3: Europe's Most WantedÂ ,Adventure|Animation|Comedy|Family,Dir_314,Act_44
+Mov_150,11/19/2014,English,142000000,UK,Die Another DayÂ ,Action|Adventure|Thriller,Dir_404,Act_55
+Mov_151,8/1/2011,English,144000000,USA,GhostbustersÂ ,Action|Comedy|Fantasy|Sci-Fi,Dir_431,Act_127
+Mov_152,1/31/2011,English,140000000,USA,ArmageddonÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_434,Act_104
+Mov_153,7/12/2011,English,140000000,USA,Men in Black IIÂ ,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Dir_150,Act_15
+Mov_154,3/1/2015,English,150000000,USA,BeowulfÂ ,Action|Adventure|Animation|Fantasy,Dir_111,Act_140
+Mov_155,6/21/2010,English,145000000,USA,Kung Fu Panda 3Â ,Action|Adventure|Animation|Comedy|Family,Dir_209,Act_101
+Mov_156,4/25/2010,English,145000000,USA,Mission: Impossible - Ghost ProtocolÂ ,Action|Adventure|Thriller,Dir_276,Act_20
+Mov_157,5/27/2011,English,145000000,USA,Rise of the GuardiansÂ ,Adventure|Animation|Family|Fantasy,Dir_14,Act_36
+Mov_158,9/17/2014,English,100000000,USA,Fun with Dick and JaneÂ ,Comedy|Crime,Dir_295,Act_115
+Mov_159,7/30/2016,English,140000000,USA,The Last SamuraiÂ ,Action|Drama|History|War,Dir_12,Act_142
+Mov_160,12/6/2011,English,140000000,UK,Exodus: Gods and KingsÂ ,Action|Adventure|Drama,Dir_35,Act_149
+Mov_161,8/11/2015,English,150000000,USA,Star TrekÂ ,Action|Adventure|Sci-Fi,Dir_72,Act_133
+Mov_162,6/20/2015,English,139000000,USA,Spider-ManÂ ,Action|Adventure|Fantasy|Romance,Dir_131,Act_142
+Mov_163,1/22/2013,English,145000000,USA,How to Train Your Dragon 2Â ,Action|Adventure|Animation|Comedy|Family|Fantasy,Dir_267,Act_15
+Mov_164,9/15/2014,English,140000000,USA,Gods of EgyptÂ ,Action|Adventure|Fantasy,Dir_284,Act_100
+Mov_165,5/20/2016,English,135000000,USA,StealthÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_52,Act_101
+Mov_166,1/6/2012,English,130000000,USA,WatchmenÂ ,Action|Drama|Mystery|Sci-Fi,Dir_9,Act_93
+Mov_167,4/13/2011,English,140000000,USA,Lethal Weapon 4Â ,Action|Crime|Thriller,Dir_88,Act_39
+Mov_168,8/10/2013,English,137000000,USA,HulkÂ ,Action|Sci-Fi,Dir_318,Act_133
+Mov_169,9/8/2013,English,130000000,USA,G.I. Joe: RetaliationÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_150,Act_29
+Mov_170,8/7/2015,English,130000000,UK,SaharaÂ ,Action|Adventure|Comedy|Thriller,Dir_86,Act_105
+Mov_171,7/18/2012,English,137000000,USA,Final Fantasy: The Spirits WithinÂ ,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Dir_8,Act_25
+Mov_172,11/15/2010,English,140000000,USA,Captain America: The First AvengerÂ ,Action|Adventure|Sci-Fi,Dir_436,Act_122
+Mov_173,4/11/2012,English,135000000,UK,The World Is Not EnoughÂ ,Action|Adventure|Thriller,Dir_373,Act_49
+Mov_174,10/1/2011,English,150000000,USA,Master and Commander: The Far Side of the WorldÂ ,Action|Adventure|Drama|History|War,Dir_264,Act_91
+Mov_175,5/9/2011,English,120000000,USA,The Twilight Saga: Breaking Dawn - Part 2Â ,Adventure|Drama|Fantasy|Romance,Dir_274,Act_4
+Mov_176,5/4/2016,English,135000000,Australia,Happy Feet 2Â ,Animation|Comedy|Family|Musical,Dir_249,Act_64
+Mov_177,5/12/2014,English,150000000,USA,The Incredible HulkÂ ,Action|Adventure|Sci-Fi,Dir_417,Act_85
+Mov_178,3/18/2012,English,1500000,USA,Miami ViceÂ             ,Action|Crime|Drama|Mystery|Thriller,Dir_354,Act_20
+Mov_179,1/20/2013,English,140000000,UK,The BFGÂ ,Adventure|Family|Fantasy,Dir_330,Act_15
+Mov_180,5/28/2012,English,135000000,USA,The RevenantÂ ,Adventure|Drama|Thriller|Western,Dir_156,Act_32
+Mov_181,5/27/2012,English,135000000,USA,TurboÂ ,Adventure|Animation|Comedy|Family|Sport,Dir_255,Act_27
+Mov_182,1/30/2010,English,135000000,USA,RangoÂ ,Adventure|Animation|Comedy|Family|Western,Dir_344,Act_50
+Mov_183,2/22/2012,English,132000000,USA,Penguins of MadagascarÂ ,Adventure|Animation|Comedy|Family,Dir_142,Act_103
+Mov_184,10/23/2012,English,110000000,USA,The Bourne UltimatumÂ ,Action|Mystery|Thriller,Dir_309,Act_126
+Mov_185,12/24/2014,English,130000000,USA,Kung Fu PandaÂ ,Action|Adventure|Animation|Comedy|Family,Dir_390,Act_22
+Mov_186,4/16/2012,English,130000000,USA,Ant-ManÂ ,Action|Adventure|Comedy|Sci-Fi,Dir_142,Act_6
+Mov_187,1/22/2016,English,130000000,USA,The Hunger Games: Catching FireÂ ,Adventure|Sci-Fi|Thriller,Dir_75,Act_45
+Mov_188,7/10/2016,English,120000000,USA,The Twilight Saga: Breaking Dawn - Part 2Â ,Adventure|Drama|Fantasy|Romance,Dir_108,Act_77
+Mov_189,11/4/2012,English,135000000,USA,HomeÂ ,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Dir_55,Act_7
+Mov_190,11/15/2010,English,132000000,USA,War of the WorldsÂ ,Adventure|Sci-Fi|Thriller,Dir_179,Act_69
+Mov_191,10/26/2016,English,130000000,USA,Bad Boys IIÂ ,Action|Comedy|Crime|Thriller,Dir_104,Act_2
+Mov_192,12/23/2014,English,130000000,USA,Puss in BootsÂ ,Action|Adventure|Animation|Comedy|Family|Fantasy,Dir_49,Act_126
+Mov_193,7/15/2014,English,110000000,USA,SaltÂ ,Action|Crime|Mystery|Thriller,Dir_322,Act_90
+Mov_194,4/3/2012,English,125000000,USA,NoahÂ ,Action|Adventure|Drama,Dir_360,Act_9
+Mov_195,1/24/2013,English,135000000,USA,The Adventures of TintinÂ ,Action|Adventure|Family|Mystery,Dir_445,Act_141
+Mov_196,3/21/2016,English,130000000,UK,Harry Potter and the Prisoner of AzkabanÂ ,Adventure|Family|Fantasy|Mystery,Dir_480,Act_3
+Mov_197,1/20/2012,English,130000000,Australia,AustraliaÂ ,Adventure|Drama|Romance|War,Dir_498,Act_141
+Mov_198,5/27/2012,English,130000000,USA,After EarthÂ ,Action|Adventure|Sci-Fi,Dir_284,Act_49
+Mov_199,7/5/2010,English,127500000,USA,DinosaurÂ ,Adventure|Animation|Family|Thriller,Dir_30,Act_26
+Mov_200,3/25/2010,English,17700000,UK,Harry Potter and the Deathly Hallows: Part IIÂ ,Action|Fantasy,Dir_408,Act_28
+Mov_201,10/15/2010,English,127000000,USA,Night at the Museum: Secret of the TombÂ ,Adventure|Comedy|Family|Fantasy,Dir_371,Act_66
+Mov_202,1/26/2014,English,130000000,USA,MegamindÂ ,Action|Animation|Comedy|Family|Sci-Fi,Dir_1,Act_82
+Mov_203,1/28/2016,English,125000000,UK,Harry Potter and the Sorcerer's StoneÂ ,Adventure|Family|Fantasy,Dir_461,Act_52
+Mov_204,11/23/2011,Japanese,130000000,USA,R.I.P.D.Â ,Action|Comedy|Fantasy,Dir_379,Act_140
+Mov_205,3/31/2016,English,17700000,Japan,Godzilla ResurgenceÂ ,Action|Adventure|Drama|Horror|Sci-Fi,Dir_14,Act_142
+Mov_206,7/12/2010,English,140000000,USA,Pirates of the Caribbean: The Curse of the Black PearlÂ ,Action|Adventure|Fantasy,Dir_381,Act_27
+Mov_207,2/10/2011,English,17700000,UK,Harry Potter and the Deathly Hallows: Part IÂ ,Fantasy,Dir_200,Act_50
+Mov_208,3/2/2013,English,125000000,USA,The Hunger Games: Mockingjay - Part 1Â ,Adventure|Sci-Fi|Thriller,Dir_15,Act_103
+Mov_209,8/4/2014,English,125000000,USA,The Da Vinci CodeÂ ,Mystery|Thriller,Dir_246,Act_90
+Mov_210,5/2/2012,English,103000000,USA,Rio 2Â ,Adventure|Animation|Comedy|Family|Musical,Dir_168,Act_55
+Mov_211,3/23/2013,English,110000000,Canada,X-Men 2Â ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Dir_344,Act_69
+Mov_212,5/14/2016,English,125000000,USA,Fast FiveÂ ,Action|Crime|Thriller,Dir_316,Act_54
+Mov_213,5/7/2012,English,125000000,USA,Sherlock Holmes: A Game of ShadowsÂ ,Action|Adventure|Crime|Mystery|Thriller,Dir_154,Act_62
+Mov_214,1/28/2011,English,125000000,USA,Clash of the TitansÂ ,Action|Adventure|Fantasy,Dir_456,Act_54
+Mov_215,12/20/2013,English,65000000,USA,Total RecallÂ ,Action|Sci-Fi,Dir_32,Act_14
+Mov_216,1/5/2010,English,85000000,USA,The 13th WarriorÂ ,Action|Adventure|History,Dir_274,Act_52
+Mov_217,8/12/2011,English,125000000,USA,The Bourne LegacyÂ ,Action|Adventure|Thriller,Dir_329,Act_114
+Mov_218,3/5/2012,English,125000000,USA,Batman & RobinÂ ,Action,Dir_246,Act_12
+Mov_219,8/1/2013,English,123000000,USA,How the Grinch Stole ChristmasÂ ,Comedy|Family|Fantasy,Dir_249,Act_1
+Mov_220,12/5/2016,English,125000000,USA,The Day After TomorrowÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_105,Act_40
+Mov_221,7/15/2013,English,125000000,USA,Mission: Impossible IIÂ ,Action|Adventure|Thriller,Dir_406,Act_71
+Mov_222,4/17/2012,English,140000000,USA,The Perfect StormÂ ,Action|Adventure|Drama|Thriller,Dir_42,Act_136
+Mov_223,3/17/2015,English,130000000,USA,Fantastic 4: Rise of the Silver SurferÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_235,Act_50
+Mov_224,6/9/2014,English,120000000,USA,Life of PiÂ ,Adventure|Drama|Fantasy,Dir_437,Act_46
+Mov_225,4/25/2013,English,110000000,USA,Ghost RiderÂ ,Action|Fantasy|Thriller,Dir_75,Act_96
+Mov_226,12/23/2012,English,120000000,UK,Jason BourneÂ ,Action|Thriller,Dir_201,Act_37
+Mov_227,2/8/2013,English,120000000,USA,Charlie's Angels: Full ThrottleÂ ,Action|Adventure|Comedy|Crime,Dir_431,Act_26
+Mov_228,5/21/2011,English,130000000,USA,PrometheusÂ ,Adventure|Mystery|Sci-Fi,Dir_386,Act_92
+Mov_229,3/30/2016,English,120000000,USA,Stuart Little 2Â ,Adventure|Animation|Comedy|Family|Fantasy,Dir_372,Act_90
+Mov_230,12/4/2010,English,115000000,USA,ElysiumÂ ,Action|Drama|Sci-Fi|Thriller,Dir_169,Act_124
+Mov_231,9/8/2016,English,105000000,USA,The Chronicles of RiddickÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_63,Act_109
+Mov_232,9/17/2015,English,100000000,USA,RoboCopÂ ,Action|Crime|Sci-Fi|Thriller,Dir_212,Act_38
+Mov_233,8/17/2012,English,120000000,USA,Speed RacerÂ ,Action|Family|Sport,Dir_429,Act_56
+Mov_234,7/3/2014,English,120000000,USA,How Do You KnowÂ ,Comedy|Drama|Romance,Dir_197,Act_130
+Mov_235,2/17/2013,English,117000000,USA,Knight and DayÂ ,Action|Comedy|Romance,Dir_346,Act_55
+Mov_236,7/13/2014,English,120000000,USA,OblivionÂ ,Action|Adventure|Mystery|Sci-Fi,Dir_76,Act_78
+Mov_237,6/16/2011,English,113000000,USA,Star Wars: Episode III - Revenge of the SithÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_489,Act_123
+Mov_238,7/25/2015,English,115000000,USA,Star Wars: Episode II - Attack of the ClonesÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_162,Act_50
+Mov_239,10/19/2012,English,115000000,USA,"Monsters, Inc.Â ",Adventure|Animation|Comedy|Family|Fantasy,Dir_377,Act_80
+Mov_240,8/19/2012,English,120000000,USA,The WolverineÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_500,Act_107
+Mov_241,5/10/2015,English,115000000,USA,Star Wars: Episode I - The Phantom MenaceÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_13,Act_56
+Mov_242,9/15/2013,French,135000000,USA,The CroodsÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_109,Act_15
+Mov_243,5/22/2013,English,78000000,France,Asterix at the Olympic GamesÂ ,Adventure|Comedy|Family|Fantasy,Dir_297,Act_57
+Mov_244,1/25/2014,English,115000000,USA,WindtalkersÂ ,Action|Drama|War,Dir_213,Act_124
+Mov_245,11/16/2013,English,115000000,USA,The Huntsman: Winter's WarÂ ,Action|Adventure|Drama|Fantasy,Dir_127,Act_20
+Mov_246,8/18/2014,English,125000000,USA,Teenage Mutant Ninja TurtlesÂ ,Action|Adventure|Comedy|Sci-Fi,Dir_210,Act_136
+Mov_247,5/4/2013,English,100000000,UK,GravityÂ ,Adventure|Drama|Sci-Fi|Thriller,Dir_238,Act_41
+Mov_248,11/9/2014,English,116000000,USA,Dante's PeakÂ ,Action|Adventure|Thriller,Dir_60,Act_39
+Mov_249,7/25/2011,English,135000000,USA,Teenage Mutant Ninja Turtles: Out of the ShadowsÂ ,Action|Adventure|Comedy|Sci-Fi,Dir_309,Act_76
+Mov_250,8/6/2012,English,120000000,USA,Fantastic FourÂ ,Action|Adventure|Sci-Fi,Dir_397,Act_142
+Mov_251,8/6/2015,English,110000000,USA,Night at the MuseumÂ ,Action|Adventure|Comedy|Family|Fantasy,Dir_140,Act_78
+Mov_252,4/19/2010,English,110000000,USA,San AndreasÂ ,Action|Adventure|Drama|Thriller,Dir_392,Act_36
+Mov_253,7/6/2016,English,110000000,UK,Tomorrow Never DiesÂ ,Action|Adventure|Thriller,Dir_115,Act_2
+Mov_254,1/16/2014,English,110000000,USA,The PatriotÂ ,Action|Drama|History|War,Dir_404,Act_2
+Mov_255,3/26/2016,English,110000000,USA,Ocean's TwelveÂ ,Crime|Thriller,Dir_353,Act_118
+Mov_256,1/22/2010,English,120000000,USA,Mr. & Mrs. SmithÂ ,Action|Comedy|Crime|Romance|Thriller,Dir_278,Act_9
+Mov_257,5/5/2016,English,110000000,USA,InsurgentÂ ,Adventure|Sci-Fi|Thriller,Dir_463,Act_116
+Mov_258,9/11/2016,English,110000000,USA,The AviatorÂ ,Biography|Drama,Dir_99,Act_30
+Mov_259,2/12/2014,English,112000000,USA,Gulliver's TravelsÂ ,Adventure|Comedy|Family|Fantasy,Dir_471,Act_75
+Mov_260,7/1/2014,English,120000000,USA,The Green HornetÂ ,Action|Comedy|Crime|Sci-Fi|Thriller,Dir_431,Act_1
+Mov_261,6/28/2011,English,17700000,USA,The A-TeamÂ             ,Action|Adventure|Crime,Dir_490,Act_8
+Mov_262,7/31/2013,English,110000000,USA,300: Rise of an EmpireÂ ,Action|Drama|Fantasy|War,Dir_173,Act_144
+Mov_263,3/31/2010,English,110000000,USA,The SmurfsÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_390,Act_64
+Mov_264,3/29/2013,English,110000000,USA,Home on the RangeÂ ,Animation|Comedy|Family|Music|Western,Dir_409,Act_20
+Mov_265,12/5/2014,English,110000000,USA,AllegiantÂ ,Action|Adventure|Mystery|Sci-Fi|Thriller,Dir_66,Act_67
+Mov_266,7/25/2014,English,110000000,USA,Real SteelÂ ,Action|Drama|Sci-Fi|Sport,Dir_88,Act_116
+Mov_267,6/9/2010,English,105000000,USA,The Smurfs 2Â ,Adventure|Animation|Comedy|Family|Fantasy,Dir_364,Act_68
+Mov_268,2/10/2016,English,160000000,USA,Speed 2: Cruise ControlÂ ,Action|Crime|Romance|Thriller,Dir_322,Act_128
+Mov_269,10/17/2011,English,110000000,USA,Ender's GameÂ ,Action|Sci-Fi,Dir_407,Act_67
+Mov_270,6/27/2015,English,110000000,USA,Live Free or Die HardÂ ,Action|Adventure|Thriller,Dir_26,Act_39
+Mov_271,2/21/2014,English,93000000,New Zealand,The Lord of the Rings: The Fellowship of the RingÂ ,Action|Adventure|Drama|Fantasy,Dir_327,Act_125
+Mov_272,8/10/2016,English,110000000,USA,Around the World in 80 DaysÂ ,Action|Adventure|Comedy,Dir_344,Act_129
+Mov_273,5/7/2011,English,107000000,USA,AliÂ ,Biography|Drama|Sport,Dir_392,Act_82
+Mov_274,11/28/2013,English,109000000,USA,The Cat in the HatÂ ,Adventure|Comedy|Family|Fantasy,Dir_410,Act_107
+Mov_275,7/18/2012,English,120000000,USA,"I, RobotÂ ",Action|Mystery|Sci-Fi|Thriller,Dir_416,Act_37
+Mov_276,11/23/2012,English,130000000,USA,Kingdom of HeavenÂ ,Action|Adventure|Drama|History|War,Dir_315,Act_47
+Mov_277,3/17/2011,English,133000000,Germany,Stuart LittleÂ ,Adventure|Comedy|Family|Fantasy,Dir_25,Act_42
+Mov_278,10/10/2010,English,105000000,USA,The Princess and the FrogÂ ,Animation|Family|Fantasy|Musical|Romance,Dir_364,Act_114
+Mov_279,11/23/2011,English,108000000,USA,The MartianÂ ,Adventure|Drama|Sci-Fi,Dir_356,Act_46
+Mov_280,2/26/2015,English,17700000,USA,"10,000 B.C.Â             ",Comedy,Dir_379,Act_88
+Mov_281,1/8/2011,English,126000000,USA,The IslandÂ ,Action|Adventure|Romance|Sci-Fi|Thriller,Dir_468,Act_25
+Mov_282,7/15/2014,English,90000000,New Line,Town & CountryÂ ,Comedy|Romance,Dir_459,Act_62
+Mov_283,9/21/2013,English,90000000,USA,Gone in Sixty SecondsÂ ,Action|Crime|Thriller,Dir_10,Act_9
+Mov_284,2/21/2012,English,103000000,USA,GladiatorÂ ,Action|Drama|Romance,Dir_171,Act_17
+Mov_285,2/4/2012,English,102000000,USA,Minority ReportÂ ,Action|Mystery|Sci-Fi|Thriller,Dir_231,Act_96
+Mov_286,10/18/2013,English,100000000,UK,Harry Potter and the Chamber of SecretsÂ ,Adventure|Family|Fantasy|Mystery,Dir_457,Act_6
+Mov_287,8/26/2011,English,150000000,UK,Casino RoyaleÂ ,Action|Adventure|Thriller,Dir_251,Act_150
+Mov_288,9/2/2014,English,100000000,USA,Planet of the ApesÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_278,Act_55
+Mov_289,11/2/2013,English,102000000,USA,Terminator 2: Judgment DayÂ ,Action|Sci-Fi,Dir_105,Act_32
+Mov_290,10/15/2011,English,100000000,USA,Public EnemiesÂ ,Biography|Crime|Drama|History|Romance,Dir_31,Act_97
+Mov_291,9/1/2011,English,100000000,USA,American GangsterÂ ,Biography|Crime|Drama,Dir_84,Act_99
+Mov_292,6/22/2016,English,115000000,USA,True LiesÂ ,Action|Comedy|Thriller,Dir_445,Act_94
+Mov_293,4/29/2016,English,100000000,USA,The Taking of Pelham 1 2 3Â ,Action|Crime|Thriller,Dir_235,Act_11
+Mov_294,4/6/2016,English,100000000,USA,Little FockersÂ ,Comedy|Romance,Dir_121,Act_81
+Mov_295,3/30/2016,English,100000000,USA,The Other GuysÂ ,Action|Comedy|Crime,Dir_251,Act_6
+Mov_296,12/29/2014,English,100000000,USA,EraserÂ ,Action|Drama|Mystery|Thriller,Dir_241,Act_130
+Mov_297,4/19/2012,English,100000000,USA,Django UnchainedÂ ,Drama|Western,Dir_393,Act_134
+Mov_298,5/22/2016,English,100000000,USA,The Hunchback of Notre DameÂ ,Animation|Drama|Family|Musical|Romance,Dir_273,Act_23
+Mov_299,11/3/2016,English,100000000,USA,The Emperor's New GrooveÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_346,Act_14
+Mov_300,5/3/2010,English,92000000,USA,The Expendables 2Â ,Action|Adventure|Thriller,Dir_189,Act_66
+Mov_301,4/21/2016,English,100000000,USA,National TreasureÂ ,Action|Adventure|Comedy|Family|Mystery,Dir_409,Act_32
+Mov_302,4/2/2012,English,100000000,USA,EragonÂ ,Action|Adventure|Family|Fantasy,Dir_263,Act_99
+Mov_303,2/9/2014,English,100000000,Germany,Where the Wild Things AreÂ ,Adventure|Drama|Family|Fantasy,Dir_492,Act_83
+Mov_304,1/7/2013,English,150000000,USA,PanÂ ,Adventure|Family|Fantasy,Dir_198,Act_145
+Mov_305,3/11/2016,English,100000000,USA,EpicÂ ,Adventure|Animation|Family|Fantasy,Dir_50,Act_134
+Mov_306,4/24/2012,English,100000000,USA,The TouristÂ ,Action|Romance|Thriller,Dir_90,Act_107
+Mov_307,6/23/2011,English,83000000,USA,End of DaysÂ ,Action|Fantasy|Horror|Mystery,Dir_263,Act_85
+Mov_308,7/4/2012,English,100000000,Germany,Blood DiamondÂ ,Adventure|Drama|Thriller,Dir_447,Act_80
+Mov_309,2/8/2010,English,100000000,USA,The Wolf of Wall StreetÂ ,Biography|Comedy|Crime|Drama,Dir_317,Act_118
+Mov_310,10/28/2014,English,100000000,USA,Batman ForeverÂ ,Action|Adventure|Fantasy,Dir_265,Act_103
+Mov_311,3/9/2012,English,105000000,USA,Starship TroopersÂ ,Action|Sci-Fi|War,Dir_86,Act_16
+Mov_312,2/2/2016,English,102000000,Germany,Cloud AtlasÂ ,Drama|Sci-Fi,Dir_384,Act_32
+Mov_313,2/17/2014,English,80000000,USA,Legend of the Guardians: The Owls of Ga'HooleÂ ,Action|Adventure|Animation|Family|Fantasy,Dir_350,Act_97
+Mov_314,7/17/2012,English,100000000,USA,CatwomanÂ ,Action|Crime|Fantasy|Romance|Thriller,Dir_341,Act_99
+Mov_315,3/19/2013,English,100000000,USA,HerculesÂ ,Action|Adventure,Dir_89,Act_135
+Mov_316,1/11/2010,English,140000000,USA,Treasure PlanetÂ ,Adventure|Animation|Family|Sci-Fi,Dir_128,Act_144
+Mov_317,10/17/2014,English,100000000,USA,Land of the LostÂ ,Adventure|Comedy|Sci-Fi,Dir_429,Act_131
+Mov_318,8/21/2010,English,90000000,USA,The Expendables 3Â ,Action|Adventure|Thriller,Dir_493,Act_80
+Mov_319,9/13/2015,English,105000000,USA,Point BreakÂ ,Action|Crime|Sport|Thriller,Dir_86,Act_17
+Mov_320,2/28/2010,English,84000000,USA,Son of the MaskÂ ,Comedy|Family|Fantasy,Dir_141,Act_112
+Mov_321,9/17/2013,English,100000000,USA,In the Heart of the SeaÂ ,Action|Adventure|Biography|Drama|History|Thriller,Dir_341,Act_43
+Mov_322,7/13/2012,English,100000000,USA,The Adventures of Pluto NashÂ ,Action|Comedy|Sci-Fi,Dir_327,Act_67
+Mov_323,11/25/2016,English,100000000,France,Green ZoneÂ ,Action|Drama|Thriller|War,Dir_487,Act_33
+Mov_324,10/28/2011,English,99000000,USA,The Peanuts MovieÂ ,Adventure|Animation|Comedy|Family,Dir_303,Act_48
+Mov_325,7/21/2011,English,10000000,USA,The Spanish PrisonerÂ ,Drama|Mystery|Thriller,Dir_66,Act_118
+Mov_326,8/7/2010,English,98000000,USA,The Mummy ReturnsÂ ,Action|Adventure|Fantasy|Thriller,Dir_31,Act_46
+Mov_327,2/14/2016,Mandarin,100000000,USA,Gangs of New YorkÂ ,Crime|Drama,Dir_60,Act_35
+Mov_328,6/9/2014,English,94000000,China,The Flowers of WarÂ ,Drama|History|Romance|War,Dir_8,Act_66
+Mov_329,4/21/2010,English,100000000,USA,Surf's UpÂ ,Animation|Comedy|Family|Sport,Dir_182,Act_136
+Mov_330,3/29/2015,English,90000000,USA,The Stepford WivesÂ ,Comedy|Sci-Fi|Thriller,Dir_302,Act_27
+Mov_331,5/12/2011,English,92000000,USA,Black Hawk DownÂ ,Drama|History|War,Dir_221,Act_121
+Mov_332,11/24/2011,English,95000000,USA,The CampaignÂ ,Comedy,Dir_133,Act_9
+Mov_333,5/30/2013,English,93000000,France,The Fifth ElementÂ ,Action|Adventure|Sci-Fi,Dir_139,Act_39
+Mov_334,6/26/2011,English,100000000,USA,Sex and the City 2Â ,Comedy|Drama|Romance,Dir_442,Act_65
+Mov_335,10/27/2013,English,95000000,USA,The Road to El DoradoÂ ,Adventure|Animation|Comedy|Family|Romance,Dir_88,Act_114
+Mov_336,9/27/2014,English,95000000,USA,Ice Age: Continental DriftÂ ,Adventure|Animation|Comedy|Family,Dir_21,Act_83
+Mov_337,3/11/2013,English,95000000,USA,CinderellaÂ ,Drama|Family|Fantasy|Romance,Dir_476,Act_11
+Mov_338,4/8/2011,English,65000000,USA,The Lovely BonesÂ ,Drama|Fantasy|Thriller,Dir_181,Act_100
+Mov_339,7/30/2012,English,94000000,USA,Finding NemoÂ ,Adventure|Animation|Comedy|Family,Dir_14,Act_147
+Mov_340,4/12/2015,English,94000000,USA,The Lord of the Rings: The Return of the KingÂ ,Action|Adventure|Drama|Fantasy,Dir_439,Act_39
+Mov_341,6/15/2016,English,94000000,USA,The Lord of the Rings: The Two TowersÂ ,Action|Adventure|Drama|Fantasy,Dir_258,Act_73
+Mov_342,7/11/2016,English,95000000,USA,Seventh SonÂ ,Action|Adventure|Fantasy,Dir_431,Act_91
+Mov_343,3/2/2016,English,115000000,USA,Lara Croft: Tomb RaiderÂ ,Action|Adventure|Fantasy|Thriller,Dir_156,Act_110
+Mov_344,1/13/2014,English,100000000,UK,TranscendenceÂ ,Drama|Mystery|Romance|Sci-Fi|Thriller,Dir_423,Act_113
+Mov_345,4/14/2010,English,93000000,USA,Jurassic Park IIIÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_41,Act_23
+Mov_346,11/7/2016,English,93000000,USA,Rise of the Planet of the ApesÂ ,Action|Drama|Sci-Fi|Thriller,Dir_254,Act_75
+Mov_347,3/9/2014,English,90000000,USA,The Spiderwick ChroniclesÂ ,Adventure|Family|Fantasy,Dir_311,Act_88
+Mov_348,12/26/2014,English,92000000,USA,A Good Day to Die HardÂ ,Action|Thriller,Dir_493,Act_95
+Mov_349,2/2/2010,English,107000000,USA,The AlamoÂ ,Drama|History|War|Western,Dir_317,Act_16
+Mov_350,3/3/2011,English,92000000,USA,The IncrediblesÂ ,Action|Adventure|Animation|Family,Dir_466,Act_16
+Mov_351,9/10/2010,English,98000000,USA,Cutthroat IslandÂ ,Action|Adventure|Comedy,Dir_200,Act_120
+Mov_352,2/29/2012,English,95000000,UK,Percy Jackson & the Olympians: The Lightning ThiefÂ ,Adventure|Family|Fantasy,Dir_260,Act_143
+Mov_353,8/24/2015,English,90000000,USA,Men in BlackÂ ,Adventure|Comedy|Family|Mystery|Sci-Fi,Dir_121,Act_150
+Mov_354,4/18/2016,English,90000000,USA,Toy Story 2Â ,Adventure|Animation|Comedy|Family|Fantasy,Dir_108,Act_58
+Mov_355,5/6/2014,English,100000000,USA,UnstoppableÂ ,Action|Thriller,Dir_221,Act_89
+Mov_356,6/1/2013,English,90000000,USA,Rush Hour 2Â ,Action|Comedy|Crime|Thriller,Dir_177,Act_101
+Mov_357,6/22/2013,English,100000000,USA,What Lies BeneathÂ ,Drama|Fantasy|Horror|Mystery|Thriller,Dir_463,Act_131
+Mov_358,8/26/2013,English,100000000,USA,Cloudy with a Chance of MeatballsÂ ,Animation|Comedy|Family|Sci-Fi,Dir_433,Act_55
+Mov_359,10/9/2016,English,90000000,USA,Ice Age: Dawn of the DinosaursÂ ,Action|Adventure|Animation|Comedy|Family,Dir_422,Act_67
+Mov_360,12/28/2014,English,90000000,USA,The Secret Life of Walter MittyÂ ,Adventure|Comedy|Drama|Fantasy|Romance,Dir_299,Act_82
+Mov_361,9/20/2010,English,92000000,USA,Charlie's AngelsÂ ,Action|Adventure|Comedy|Crime|Thriller,Dir_479,Act_95
+Mov_362,11/6/2014,English,90000000,USA,The DepartedÂ ,Crime|Drama|Thriller,Dir_232,Act_28
+Mov_363,9/6/2015,English,90000000,USA,MulanÂ ,Adventure|Animation|Family|Fantasy|Musical|War,Dir_379,Act_6
+Mov_364,1/13/2010,English,92000000,USA,Tropic ThunderÂ ,Action|Comedy,Dir_378,Act_121
+Mov_365,1/19/2012,English,90000000,USA,The Girl with the Dragon TattooÂ ,Crime|Drama|Mystery|Thriller,Dir_21,Act_89
+Mov_366,10/29/2014,English,90000000,USA,Die Hard with a VengeanceÂ ,Action|Adventure|Thriller,Dir_480,Act_23
+Mov_367,5/21/2015,English,90000000,USA,Sherlock HolmesÂ ,Action|Adventure|Crime|Mystery|Thriller,Dir_326,Act_63
+Mov_368,7/13/2016,English,17700000,USA,Ben-HurÂ ,Adventure|Drama|History,Dir_398,Act_93
+Mov_369,2/1/2011,English,120000000,USA,Atlantis: The Lost EmpireÂ ,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Dir_242,Act_107
+Mov_370,7/10/2013,English,90000000,USA,Alvin and the Chipmunks: The Road ChipÂ ,Adventure|Animation|Comedy|Family|Fantasy|Music,Dir_101,Act_55
+Mov_371,12/29/2012,English,75000000,USA,ValkyrieÂ ,Drama|History|Thriller|War,Dir_137,Act_126
+Mov_372,8/23/2015,English,90000000,USA,You Don't Mess with the ZohanÂ ,Action|Comedy,Dir_452,Act_114
+Mov_373,3/26/2015,English,88000000,USA,PixelsÂ ,Action|Animation|Comedy|Sci-Fi,Dir_121,Act_93
+Mov_374,8/3/2015,English,100000000,USA,A.I. Artificial IntelligenceÂ ,Adventure|Drama|Sci-Fi,Dir_386,Act_111
+Mov_375,9/11/2016,English,90000000,USA,The Haunted MansionÂ ,Comedy|Family|Fantasy|Horror|Mystery,Dir_22,Act_37
+Mov_376,1/15/2014,English,90000000,USA,ContactÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_276,Act_47
+Mov_377,7/13/2010,Aboriginal,95000000,USA,Hollow ManÂ ,Action|Horror|Sci-Fi|Thriller,Dir_222,Act_22
+Mov_378,6/3/2010,English,80000000,UK,The InterpreterÂ ,Crime|Mystery|Thriller,Dir_137,Act_138
+Mov_379,11/26/2014,English,90000000,USA,Percy Jackson: Sea of MonstersÂ ,Adventure|Family|Fantasy,Dir_387,Act_115
+Mov_380,12/23/2012,English,95000000,USA,Lara Croft Tomb Raider: The Cradle of LifeÂ ,Action|Adventure|Fantasy,Dir_323,Act_77
+Mov_381,6/1/2013,English,90000000,USA,Now You See Me 2Â ,Action|Adventure|Comedy|Crime|Mystery|Thriller,Dir_34,Act_130
+Mov_382,7/25/2013,English,68000000,USA,The SaintÂ ,Action|Adventure|Romance|Sci-Fi|Thriller,Dir_48,Act_16
+Mov_383,5/24/2015,English,92000000,Germany,Spy GameÂ ,Action|Crime|Thriller,Dir_274,Act_118
+Mov_384,1/20/2013,English,90000000,USA,Mission to MarsÂ ,Adventure|Sci-Fi|Thriller,Dir_388,Act_111
+Mov_385,9/29/2014,English,90000000,USA,RioÂ ,Adventure|Animation|Comedy|Family|Musical,Dir_312,Act_140
+Mov_386,11/28/2014,English,100000000,USA,Bicentennial ManÂ ,Comedy|Drama|Sci-Fi,Dir_256,Act_123
+Mov_387,7/29/2013,English,90000000,USA,VolcanoÂ ,Action|Drama|Sci-Fi|Thriller,Dir_31,Act_12
+Mov_388,1/19/2015,English,86000000,USA,The Devil's OwnÂ ,Action|Crime|Drama|Thriller,Dir_433,Act_13
+Mov_389,10/30/2016,English,100000000,UK,K-19: The WidowmakerÂ ,Drama|History|Thriller|War,Dir_205,Act_95
+Mov_390,10/11/2013,English,120000000,USA,Fantastic FourÂ ,Action|Adventure|Sci-Fi,Dir_413,Act_26
+Mov_391,6/2/2015,English,20000000,USA,Conan the BarbarianÂ ,Adventure|Fantasy,Dir_127,Act_32
+Mov_392,6/14/2011,English,88000000,USA,Cinderella ManÂ ,Biography|Drama|Sport,Dir_395,Act_120
+Mov_393,3/1/2016,English,90000000,UK,The Nutcracker in 3DÂ ,Action|Family|Fantasy|Musical,Dir_122,Act_49
+Mov_394,4/24/2012,English,87000000,USA,SeabiscuitÂ ,Drama|History|Sport,Dir_465,Act_31
+Mov_395,7/13/2013,English,92000000,USA,TwisterÂ ,Action|Adventure|Drama|Thriller,Dir_431,Act_17
+Mov_396,4/2/2014,English,38000000,USA,The Fast and the FuriousÂ ,Action|Crime|Thriller,Dir_328,Act_106
+Mov_397,7/16/2011,English,90000000,USA,Cast AwayÂ ,Adventure|Drama|Romance,Dir_266,Act_104
+Mov_398,12/15/2014,English,100000000,USA,Happy FeetÂ ,Animation|Comedy|Family|Music|Romance,Dir_89,Act_7
+Mov_399,6/22/2011,English,75000000,USA,The Bourne SupremacyÂ ,Action|Mystery|Thriller,Dir_457,Act_113
+Mov_400,12/10/2013,English,85000000,USA,Air Force OneÂ ,Action|Adventure|Drama|Thriller,Dir_443,Act_22
+Mov_401,8/6/2016,English,85000000,USA,Ocean's ElevenÂ ,Crime|Thriller,Dir_116,Act_42
+Mov_402,5/17/2010,English,75000000,Germany,The Three MusketeersÂ ,Action|Adventure|Romance,Dir_229,Act_119
+Mov_403,11/9/2011,English,85000000,USA,Hotel TransylvaniaÂ ,Animation|Comedy|Family|Fantasy,Dir_341,Act_41
+Mov_404,7/25/2016,English,85000000,USA,EnchantedÂ ,Animation|Comedy|Family|Fantasy|Musical|Romance,Dir_177,Act_146
+Mov_405,10/5/2010,English,17700000,USA,HannibalÂ             ,Crime|Drama|Horror|Mystery|Thriller,Dir_45,Act_137
+Mov_406,2/29/2012,English,85000000,USA,Safe HouseÂ ,Action|Crime|Mystery|Thriller,Dir_135,Act_149
+Mov_407,9/19/2014,English,85000000,USA,102 DalmatiansÂ ,Adventure|Comedy|Family,Dir_242,Act_145
+Mov_408,12/18/2014,English,75000000,USA,Tower HeistÂ ,Action|Comedy|Crime,Dir_305,Act_128
+Mov_409,5/16/2014,English,85000000,USA,The HolidayÂ ,Comedy|Romance,Dir_432,Act_140
+Mov_410,3/3/2010,English,90000000,USA,Enemy of the StateÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_398,Act_66
+Mov_411,2/27/2014,English,85000000,USA,It's ComplicatedÂ ,Comedy|Drama|Romance,Dir_3,Act_102
+Mov_412,4/28/2010,English,85000000,USA,Ocean's ThirteenÂ ,Crime|Thriller,Dir_201,Act_102
+Mov_413,5/5/2011,English,85000000,USA,Open SeasonÂ ,Adventure|Animation|Comedy|Family,Dir_243,Act_26
+Mov_414,10/16/2015,English,85000000,USA,DivergentÂ ,Adventure|Mystery|Sci-Fi,Dir_264,Act_46
+Mov_415,8/23/2011,English,68000000,USA,Enemy at the GatesÂ ,Drama|History|War,Dir_443,Act_104
+Mov_416,3/9/2011,English,85000000,USA,The RundownÂ ,Action|Adventure|Comedy|Thriller,Dir_450,Act_46
+Mov_417,7/29/2014,English,70000000,USA,Last Action HeroÂ ,Action|Adventure|Comedy|Fantasy,Dir_342,Act_12
+Mov_418,4/17/2014,English,85000000,USA,Memoirs of a GeishaÂ ,Drama|Romance,Dir_388,Act_88
+Mov_419,4/5/2011,English,85000000,USA,The Fast and the Furious: Tokyo DriftÂ ,Action|Crime|Thriller,Dir_207,Act_7
+Mov_420,3/29/2011,English,100000000,UK,Arthur ChristmasÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_179,Act_13
+Mov_421,12/25/2016,English,90000000,USA,Meet Joe BlackÂ ,Drama|Fantasy|Romance,Dir_107,Act_131
+Mov_422,7/2/2016,English,85000000,USA,Collateral DamageÂ ,Action|Drama|Thriller,Dir_340,Act_50
+Mov_423,2/20/2014,English,17700000,USA,All That JazzÂ ,Comedy|Drama|Music|Musical,Dir_343,Act_93
+Mov_424,6/11/2014,English,85000000,USA,Mirror MirrorÂ ,Adventure|Comedy|Drama|Family|Fantasy,Dir_289,Act_20
+Mov_425,5/23/2014,English,60000000,USA,Scott Pilgrim vs. the WorldÂ ,Action|Comedy|Fantasy|Romance,Dir_285,Act_114
+Mov_426,6/30/2016,English,60000000,USA,The CoreÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_471,Act_75
+Mov_427,11/1/2012,English,65000000,USA,Nutty Professor II: The KlumpsÂ ,Comedy|Romance|Sci-Fi,Dir_106,Act_52
+Mov_428,4/15/2012,English,84000000,USA,Scooby-DooÂ ,Adventure|Comedy|Mystery,Dir_292,Act_8
+Mov_429,4/23/2013,English,35000000,UK,DreddÂ ,Action|Sci-Fi,Dir_391,Act_124
+Mov_430,5/11/2011,English,70000000,USA,ClickÂ ,Comedy|Drama|Fantasy|Romance,Dir_240,Act_146
+Mov_431,7/13/2014,English,8000000,USA,CreepshowÂ ,Comedy|Fantasy|Horror,Dir_164,Act_40
+Mov_432,2/2/2016,English,85000000,USA,Cats & Dogs: The Revenge of Kitty GaloreÂ ,Action|Comedy|Family|Fantasy,Dir_328,Act_104
+Mov_433,4/2/2012,English,85000000,USA,JumperÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_110,Act_131
+Mov_434,12/16/2012,English,85000000,USA,Hellboy II: The Golden ArmyÂ ,Action|Adventure|Fantasy|Horror|Sci-Fi,Dir_377,Act_9
+Mov_435,4/23/2016,English,65000000,USA,ZodiacÂ ,Crime|Drama|History|Mystery|Thriller,Dir_327,Act_88
+Mov_436,4/28/2010,English,82000000,USA,The 6th DayÂ ,Action|Mystery|Sci-Fi|Thriller,Dir_417,Act_83
+Mov_437,4/24/2012,English,81000000,USA,Bruce AlmightyÂ ,Comedy|Drama,Dir_385,Act_52
+Mov_438,3/21/2010,English,80000000,USA,The ExpendablesÂ ,Action|Adventure|Thriller,Dir_468,Act_107
+Mov_439,2/28/2011,English,80000000,USA,Mission: ImpossibleÂ ,Action|Adventure|Thriller,Dir_495,Act_139
+Mov_440,7/29/2010,English,78000000,USA,The Hunger GamesÂ ,Adventure|Drama|Sci-Fi|Thriller,Dir_398,Act_55
+Mov_441,7/8/2012,English,80000000,USA,The Hangover Part IIÂ ,Comedy,Dir_331,Act_105
+Mov_442,7/31/2010,English,80000000,USA,Batman ReturnsÂ ,Action,Dir_420,Act_127
+Mov_443,6/19/2015,English,80000000,USA,Over the HedgeÂ ,Adventure|Animation|Comedy|Family,Dir_221,Act_140
+Mov_444,4/20/2013,English,80000000,USA,Lilo & StitchÂ ,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,Dir_247,Act_19
+Mov_445,5/31/2015,English,17700000,USA,Charlotte's WebÂ ,Comedy|Family|Fantasy,Dir_242,Act_81
+Mov_446,2/27/2015,English,75000000,USA,Deep ImpactÂ ,Action|Drama|Romance|Sci-Fi|Thriller,Dir_174,Act_27
+Mov_447,5/6/2014,English,84000000,USA,RED 2Â ,Action|Comedy|Crime|Thriller,Dir_341,Act_47
+Mov_448,6/21/2011,English,82000000,USA,The Longest YardÂ ,Comedy|Crime|Sport,Dir_70,Act_132
+Mov_449,3/27/2016,English,75000000,USA,Alvin and the Chipmunks: ChipwreckedÂ ,Adventure|Animation|Comedy|Family|Fantasy|Music,Dir_311,Act_135
+Mov_450,12/10/2014,English,80000000,USA,Grown Ups 2Â ,Comedy,Dir_470,Act_128
+Mov_451,1/15/2015,English,80000000,USA,Get SmartÂ ,Action|Adventure|Comedy,Dir_453,Act_15
+Mov_452,10/10/2012,English,80000000,USA,Something's Gotta GiveÂ ,Comedy|Drama|Romance,Dir_420,Act_99
+Mov_453,8/18/2015,English,80000000,USA,Shutter IslandÂ ,Mystery|Thriller,Dir_323,Act_69
+Mov_454,7/11/2014,English,80000000,Germany,Four ChristmasesÂ ,Comedy|Drama|Romance,Dir_91,Act_76
+Mov_455,1/4/2016,English,75000000,USA,RobotsÂ ,Adventure|Animation|Comedy|Family|Sci-Fi,Dir_121,Act_117
+Mov_456,3/6/2011,English,80000000,USA,Face/OffÂ ,Action|Crime|Sci-Fi|Thriller,Dir_442,Act_8
+Mov_457,10/6/2012,English,80000000,USA,Bedtime StoriesÂ ,Comedy|Family|Fantasy|Romance,Dir_414,Act_150
+Mov_458,6/23/2014,English,80000000,USA,Road to PerditionÂ ,Crime|Drama|Thriller,Dir_346,Act_93
+Mov_459,2/10/2013,English,80000000,USA,Just Go with ItÂ ,Comedy|Romance,Dir_211,Act_95
+Mov_460,7/3/2016,English,17700000,USA,DaredevilÂ             ,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Dir_127,Act_17
+Mov_461,7/5/2011,English,75000000,USA,Con AirÂ ,Action|Crime|Thriller,Dir_151,Act_59
+Mov_462,1/29/2013,English,80000000,USA,Eagle EyeÂ ,Action|Mystery|Thriller,Dir_100,Act_16
+Mov_463,6/27/2014,English,79000000,USA,Cold MountainÂ ,Adventure|Drama|History|Romance|War,Dir_497,Act_25
+Mov_464,5/13/2014,English,80000000,USA,The Book of EliÂ ,Action|Adventure|Drama|Thriller,Dir_13,Act_125
+Mov_465,1/21/2015,English,80000000,USA,FlubberÂ ,Comedy|Family|Sci-Fi,Dir_30,Act_53
+Mov_466,5/22/2014,English,80000000,USA,The HauntingÂ ,Fantasy|Horror|Mystery|Thriller,Dir_344,Act_93
+Mov_467,6/5/2014,English,80000000,USA,Space JamÂ ,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Dir_309,Act_103
+Mov_468,7/4/2010,English,65000000,USA,The Pink PantherÂ ,Adventure|Comedy|Crime|Family|Mystery,Dir_127,Act_43
+Mov_469,7/9/2014,English,80000000,USA,The Day the Earth Stood StillÂ ,Drama|Sci-Fi|Thriller,Dir_437,Act_40
+Mov_470,3/24/2011,English,75000000,USA,Conspiracy TheoryÂ ,Action|Crime|Mystery|Romance|Thriller,Dir_290,Act_83
+Mov_471,2/13/2011,English,68000000,USA,FuryÂ ,Action|Drama|War,Dir_403,Act_44
+Mov_472,1/4/2013,English,70000000,USA,Six Days Seven NightsÂ ,Action|Adventure|Comedy|Romance,Dir_294,Act_89
+Mov_473,6/27/2015,English,80000000,USA,Yogi BearÂ ,Adventure|Animation|Comedy|Family,Dir_422,Act_7
+Mov_474,1/12/2011,English,80000000,USA,Spirit: Stallion of the CimarronÂ ,Adventure|Animation|Family|Western,Dir_364,Act_127
+Mov_475,9/6/2011,English,80000000,USA,ZookeeperÂ ,Comedy|Family|Romance,Dir_484,Act_99
+Mov_476,4/1/2010,English,80000000,USA,Lost in SpaceÂ ,Action|Adventure|Family|Sci-Fi|Thriller,Dir_179,Act_41
+Mov_477,9/29/2014,English,80000000,USA,The Manchurian CandidateÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_81,Act_19
+Mov_478,9/4/2011,English,17700000,USA,DÃ©jÃ  VuÂ ,Drama|Romance,Dir_314,Act_90
+Mov_479,9/20/2015,English,80000000,USA,Hotel Transylvania 2Â ,Animation|Comedy|Family|Fantasy,Dir_333,Act_116
+Mov_480,7/22/2010,English,17700000,USA,BewitchedÂ             ,Comedy|Family|Fantasy,Dir_477,Act_1
+Mov_481,7/21/2015,English,80000000,USA,Fantasia 2000Â ,Animation|Family|Fantasy|Music,Dir_300,Act_84
+Mov_482,5/31/2016,English,80000000,USA,The Time MachineÂ ,Action|Adventure|Sci-Fi,Dir_466,Act_113
+Mov_483,9/14/2011,English,90000000,USA,Mighty Joe YoungÂ ,Action|Adventure|Family|Fantasy|Thriller,Dir_486,Act_127
+Mov_484,3/10/2014,Spanish,80000000,USA,SwordfishÂ ,Action|Crime|Thriller,Dir_111,Act_93
+Mov_485,8/21/2011,English,75000000,USA,The Legend of ZorroÂ ,Action|Adventure|Western,Dir_19,Act_75
+Mov_486,1/29/2014,English,85000000,USA,What Dreams May ComeÂ ,Drama|Fantasy|Romance,Dir_480,Act_87
+Mov_487,2/3/2013,English,80000000,USA,Little NickyÂ ,Comedy|Fantasy,Dir_120,Act_34
+Mov_488,3/5/2012,English,88000000,USA,The Brothers GrimmÂ ,Action|Adventure|Comedy|Fantasy|Thriller,Dir_280,Act_51
+Mov_489,3/25/2015,French,70000000,USA,Mars Attacks!Â ,Action|Comedy|Sci-Fi,Dir_129,Act_83
+Mov_490,9/15/2015,English,17700000,France,EvolutionÂ ,Drama|Horror|Mystery|Sci-Fi,Dir_189,Act_70
+Mov_491,1/4/2014,English,17700000,USA,The EdgeÂ ,Action|Adventure|Drama|Thriller,Dir_495,Act_103
+Mov_492,9/2/2014,English,80000000,USA,SurrogatesÂ ,Action|Sci-Fi|Thriller,Dir_35,Act_62
+Mov_493,2/11/2011,English,80000000,USA,Thirteen DaysÂ ,Drama|History|Thriller,Dir_487,Act_145
+Mov_494,4/30/2015,English,80000000,USA,DaylightÂ ,Action|Adventure|Drama|Thriller,Dir_44,Act_112
+Mov_495,9/21/2012,English,80000000,USA,Walking with Dinosaurs 3DÂ ,Adventure|Animation|Family,Dir_68,Act_82
+Mov_496,6/16/2015,English,44000000,USA,Battlefield EarthÂ ,Action|Adventure|Sci-Fi,Dir_303,Act_76
+Mov_497,8/26/2013,English,80000000,Germany,Looney Tunes: Back in ActionÂ ,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Dir_314,Act_58
+Mov_498,12/30/2011,English,80000000,USA,NineÂ ,Drama|Musical|Romance,Dir_75,Act_44
+Mov_499,8/9/2016,English,80000000,USA,TimelineÂ ,Action|Adventure|Sci-Fi,Dir_297,Act_33
+Mov_500,11/5/2012,English,80000000,USA,The PostmanÂ ,Action|Adventure|Drama|Sci-Fi,Dir_345,Act_43
+Mov_501,1/12/2012,English,80000000,Australia,Babe: Pig in the CityÂ ,Adventure|Comedy|Drama|Family|Fantasy,Dir_404,Act_105
+Mov_502,6/30/2012,English,90000000,USA,The Last Witch HunterÂ ,Action|Adventure|Fantasy,Dir_175,Act_68
+Mov_503,8/25/2011,English,70000000,USA,Red PlanetÂ ,Action|Sci-Fi|Thriller,Dir_285,Act_109
+Mov_504,1/2/2013,French,86000000,France,Arthur and the InvisiblesÂ ,Adventure|Animation|Family|Fantasy,Dir_377,Act_88
+Mov_505,3/16/2016,English,40000000,France,OceansÂ ,Documentary|Drama,Dir_232,Act_145
+Mov_506,4/23/2014,English,52000000,UK,A Sound of ThunderÂ ,Action|Adventure|Horror|Sci-Fi|Thriller,Dir_129,Act_49
+Mov_507,12/4/2011,Spanish,80000000,Canada,PompeiiÂ ,Action|Adventure|Drama|History|Romance,Dir_228,Act_130
+Mov_508,3/15/2015,English,8000000,Mexico,Top Cat BeginsÂ ,Animation|Family,Dir_5,Act_30
+Mov_509,8/20/2015,English,58000000,USA,A Beautiful MindÂ ,Biography|Drama,Dir_463,Act_27
+Mov_510,11/14/2013,English,45000000,USA,The Lion KingÂ ,Adventure|Animation|Drama|Family|Musical,Dir_497,Act_143
+Mov_511,4/10/2016,English,79000000,USA,Journey 2: The Mysterious IslandÂ ,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Dir_250,Act_17
+Mov_512,5/13/2014,English,78000000,USA,Cloudy with a Chance of Meatballs 2Â ,Animation|Comedy|Family|Fantasy|Sci-Fi,Dir_437,Act_21
+Mov_513,8/5/2015,English,78000000,Germany,Red DragonÂ ,Crime|Drama|Thriller,Dir_490,Act_26
+Mov_514,5/7/2012,English,100000000,USA,HidalgoÂ ,Action|Adventure|Western,Dir_139,Act_8
+Mov_515,7/10/2010,English,79000000,USA,Jack and JillÂ ,Comedy,Dir_302,Act_26
+Mov_516,6/27/2015,English,76000000,USA,2 Fast 2 FuriousÂ ,Action|Crime|Thriller,Dir_498,Act_97
+Mov_517,8/30/2016,English,81200000,France,The Little PrinceÂ ,Adventure|Animation|Drama|Family|Fantasy,Dir_425,Act_57
+Mov_518,5/10/2010,English,80000000,USA,The InvasionÂ ,Sci-Fi|Thriller,Dir_124,Act_85
+Mov_519,8/22/2012,English,76000000,USA,The Adventures of Rocky & BullwinkleÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_140,Act_95
+Mov_520,4/28/2010,English,75000000,Japan,The Secret Life of PetsÂ ,Animation|Comedy|Family,Dir_191,Act_40
+Mov_521,5/15/2010,English,78000000,USA,The League of Extraordinary GentlemenÂ ,Action|Adventure|Fantasy|Sci-Fi,Dir_170,Act_45
+Mov_522,3/22/2016,English,76000000,USA,Despicable Me 2Â ,Animation|Comedy|Family|Sci-Fi,Dir_357,Act_62
+Mov_523,9/21/2014,English,75000000,USA,Independence DayÂ ,Action|Adventure|Sci-Fi,Dir_129,Act_82
+Mov_524,5/30/2013,English,73000000,USA,The Lost World: Jurassic ParkÂ ,Action|Adventure|Sci-Fi,Dir_258,Act_115
+Mov_525,2/10/2010,English,75000000,USA,MadagascarÂ ,Adventure|Animation|Comedy|Family,Dir_416,Act_92
+Mov_526,10/19/2011,English,76000000,USA,Children of MenÂ ,Drama|Sci-Fi|Thriller,Dir_421,Act_102
+Mov_527,4/10/2013,English,75000000,USA,X-MenÂ ,Action|Adventure|Sci-Fi,Dir_403,Act_86
+Mov_528,11/28/2012,English,75000000,USA,WantedÂ ,Action|Crime|Fantasy|Thriller,Dir_191,Act_93
+Mov_529,3/11/2014,English,75000000,USA,The RockÂ ,Action|Adventure|Thriller,Dir_347,Act_22
+Mov_530,11/19/2013,English,80000000,USA,Ice Age: The MeltdownÂ ,Action|Adventure|Animation|Comedy|Family|Fantasy,Dir_456,Act_75
+Mov_531,12/13/2014,English,75000000,USA,50 First DatesÂ ,Comedy|Romance,Dir_330,Act_137
+Mov_532,8/21/2012,English,75000000,USA,HairsprayÂ ,Comedy|Drama|Family|Music|Musical|Romance,Dir_29,Act_50
+Mov_533,5/9/2013,English,50000000,USA,Exorcist: The BeginningÂ ,Horror|Mystery|Thriller,Dir_130,Act_131
+Mov_534,7/14/2016,English,75000000,USA,Inspector GadgetÂ ,Action|Adventure|Comedy|Family|Sci-Fi,Dir_436,Act_65
+Mov_535,12/26/2015,English,75000000,USA,Now You See MeÂ ,Crime|Mystery|Thriller,Dir_440,Act_69
+Mov_536,9/25/2015,English,80000000,USA,Grown UpsÂ ,Comedy,Dir_261,Act_84
+Mov_537,10/17/2012,English,60000000,USA,The TerminalÂ ,Comedy|Drama,Dir_499,Act_69
+Mov_538,8/4/2013,English,17700000,USA,ConstantineÂ             ,Drama|Fantasy|Horror|Thriller,Dir_169,Act_96
+Mov_539,7/19/2013,English,35000000,USA,Hotel for DogsÂ ,Comedy|Family,Dir_426,Act_104
+Mov_540,8/31/2013,English,75000000,USA,Vertical LimitÂ ,Action|Adventure|Drama|Thriller,Dir_457,Act_10
+Mov_541,3/17/2016,English,75000000,USA,Charlie Wilson's WarÂ ,Biography|Comedy|Drama|History,Dir_98,Act_32
+Mov_542,3/24/2016,English,75000000,USA,Shark TaleÂ ,Adventure|Animation|Comedy|Family,Dir_378,Act_14
+Mov_543,3/29/2014,English,70000000,USA,DreamgirlsÂ ,Drama|Music|Musical,Dir_196,Act_105
+Mov_544,10/15/2012,English,17700000,USA,LifeÂ             ,Crime|Drama|Mystery,Dir_138,Act_141
+Mov_545,5/4/2016,English,53000000,USA,Be CoolÂ ,Comedy|Crime|Music,Dir_47,Act_20
+Mov_546,11/26/2011,English,70000000,France,MunichÂ ,Drama|History|Thriller,Dir_354,Act_145
+Mov_547,11/6/2016,English,70000000,USA,Tears of the SunÂ ,Action|Drama|Thriller|War,Dir_294,Act_83
+Mov_548,7/31/2011,English,75000000,USA,KillersÂ ,Action|Comedy|Romance|Thriller,Dir_190,Act_135
+Mov_549,1/24/2015,English,75000000,USA,The Man from U.N.C.L.E.Â ,Action|Adventure|Comedy,Dir_43,Act_28
+Mov_550,5/3/2012,English,80000000,USA,SpanglishÂ ,Comedy|Drama|Romance,Dir_70,Act_118
+Mov_551,9/7/2012,English,75000000,USA,Monster HouseÂ ,Animation|Comedy|Family|Fantasy|Mystery,Dir_409,Act_124
+Mov_552,9/12/2011,English,80000000,USA,BanditsÂ ,Comedy|Crime|Drama|Romance,Dir_482,Act_118
+Mov_553,1/17/2013,English,55000000,USA,First KnightÂ ,Action|Adventure|Romance|Thriller,Dir_176,Act_26
+Mov_554,2/14/2015,English,75000000,USA,Anna and the KingÂ ,Drama|History|Romance,Dir_198,Act_46
+Mov_555,10/25/2014,English,75000000,USA,ImmortalsÂ ,Action|Drama|Fantasy|Romance,Dir_241,Act_14
+Mov_556,7/25/2013,English,52000000,USA,HostageÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_218,Act_88
+Mov_557,4/2/2016,English,75000000,USA,Titan A.E.Â ,Action|Adventure|Animation|Family|Sci-Fi,Dir_299,Act_104
+Mov_558,6/4/2010,English,75000000,USA,Hollywood HomicideÂ ,Action|Comedy|Crime|Thriller,Dir_346,Act_11
+Mov_559,6/20/2016,English,75000000,UK,SoldierÂ ,Action|Drama|Sci-Fi,Dir_329,Act_9
+Mov_560,3/1/2012,English,17700000,USA,CarriersÂ ,Drama|Horror|Sci-Fi|Thriller,Dir_274,Act_26
+Mov_561,12/22/2015,English,75000000,USA,MonkeyboneÂ ,Animation|Comedy|Fantasy,Dir_270,Act_128
+Mov_562,12/24/2011,English,45000000,USA,Flight of the PhoenixÂ ,Action|Adventure|Drama|Thriller,Dir_113,Act_97
+Mov_563,7/12/2011,English,75000000,USA,UnbreakableÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_383,Act_73
+Mov_564,3/26/2013,English,74000000,USA,MinionsÂ ,Action|Animation|Comedy|Family|Sci-Fi,Dir_397,Act_122
+Mov_565,8/16/2014,English,82000000,USA,Sucker PunchÂ ,Action|Fantasy,Dir_163,Act_142
+Mov_566,2/2/2011,English,69000000,USA,Snake EyesÂ ,Crime|Mystery|Thriller,Dir_262,Act_68
+Mov_567,3/21/2012,English,75000000,USA,SphereÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_464,Act_13
+Mov_568,6/5/2014,English,73000000,USA,The Angry Birds MovieÂ ,Action|Animation|Comedy|Family,Dir_218,Act_61
+Mov_569,9/4/2011,English,70000000,USA,Fool's GoldÂ ,Action|Adventure|Comedy|Romance|Thriller,Dir_205,Act_28
+Mov_570,8/11/2014,English,75000000,USA,Funny PeopleÂ ,Comedy|Drama,Dir_356,Act_88
+Mov_571,5/30/2011,English,70000000,USA,The KingdomÂ ,Action|Drama|Thriller,Dir_155,Act_128
+Mov_572,6/16/2011,English,73000000,USA,Talladega Nights: The Ballad of Ricky BobbyÂ ,Action|Comedy|Sport,Dir_382,Act_37
+Mov_573,11/30/2011,English,72000000,USA,Dr. Dolittle 2Â ,Comedy|Family|Fantasy,Dir_188,Act_145
+Mov_574,12/11/2011,English,72000000,USA,BraveheartÂ ,Biography|Drama|History|War,Dir_21,Act_89
+Mov_575,5/12/2013,English,70000000,Germany,JarheadÂ ,Action|Drama|War,Dir_314,Act_135
+Mov_576,5/16/2014,English,75000000,USA,The Simpsons MovieÂ ,Adventure|Animation|Comedy,Dir_452,Act_68
+Mov_577,7/18/2015,English,72000000,USA,The MajesticÂ ,Drama|Romance,Dir_306,Act_38
+Mov_578,7/30/2010,English,72000000,USA,DrivenÂ ,Action|Drama|Sport,Dir_211,Act_111
+Mov_579,12/31/2016,English,59660000,France,Two BrothersÂ ,Adventure|Drama|Family,Dir_69,Act_1
+Mov_580,4/11/2014,English,60000000,USA,The VillageÂ ,Drama|Mystery|Romance|Thriller,Dir_456,Act_107
+Mov_581,6/9/2013,English,71500000,USA,Doctor DolittleÂ ,Comedy|Family|Fantasy,Dir_444,Act_135
+Mov_582,3/20/2015,English,72000000,USA,SignsÂ ,Drama|Sci-Fi|Thriller,Dir_314,Act_128
+Mov_583,10/10/2012,English,150000000,USA,Shrek 2Â ,Adventure|Animation|Comedy|Family|Fantasy|Romance,Dir_127,Act_71
+Mov_584,6/25/2015,English,120000000,USA,CarsÂ ,Adventure|Animation|Comedy|Family|Sport,Dir_365,Act_7
+Mov_585,5/21/2010,English,70000000,USA,Runaway BrideÂ ,Comedy|Romance,Dir_275,Act_110
+Mov_586,3/8/2013,English,70000000,USA,xXxÂ ,Action|Adventure|Thriller,Dir_299,Act_42
+Mov_587,10/1/2015,English,74000000,USA,The SpongeBob Movie: Sponge Out of WaterÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_54,Act_139
+Mov_588,10/20/2013,English,80000000,USA,RansomÂ ,Crime|Thriller,Dir_173,Act_87
+Mov_589,12/2/2010,English,75000000,USA,Inglourious BasterdsÂ ,Adventure|Drama|War,Dir_153,Act_37
+Mov_590,8/11/2011,English,70000000,USA,HookÂ ,Adventure|Comedy|Family|Fantasy,Dir_60,Act_92
+Mov_591,9/19/2016,English,100000000,USA,HerculesÂ ,Action|Adventure,Dir_21,Act_135
+Mov_592,3/2/2012,English,70000000,USA,Die Hard 2Â ,Action|Thriller,Dir_343,Act_74
+Mov_593,8/13/2010,English,80000000,USA,S.W.A.T.Â ,Action|Adventure|Crime|Thriller,Dir_245,Act_148
+Mov_594,11/30/2013,English,17700000,USA,Sleepy HollowÂ             ,Adventure|Drama|Fantasy|Mystery|Thriller,Dir_487,Act_40
+Mov_595,10/18/2014,English,68000000,USA,Vanilla SkyÂ ,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Dir_309,Act_30
+Mov_596,4/26/2011,English,70000000,USA,Lady in the WaterÂ ,Drama|Fantasy|Mystery|Thriller,Dir_121,Act_101
+Mov_597,7/4/2016,English,60000000,USA,AVP: Alien vs. PredatorÂ ,Action|Horror|Sci-Fi|Thriller,Dir_137,Act_93
+Mov_598,6/23/2016,English,75000000,USA,Alvin and the Chipmunks: The SqueakquelÂ ,Animation|Comedy|Family|Fantasy|Music,Dir_493,Act_69
+Mov_599,5/1/2012,English,75000000,USA,We Were SoldiersÂ ,Action|Drama|History|War,Dir_252,Act_17
+Mov_600,11/2/2014,English,70000000,USA,Olympus Has FallenÂ ,Action|Thriller,Dir_119,Act_102
+Mov_601,4/1/2010,English,58000000,USA,Star Trek: InsurrectionÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_210,Act_8
+Mov_602,1/31/2014,English,70000000,USA,Battle Los AngelesÂ ,Action|Sci-Fi,Dir_97,Act_118
+Mov_603,7/11/2016,English,70000000,USA,Big FishÂ ,Adventure|Drama|Fantasy,Dir_76,Act_64
+Mov_604,11/3/2015,English,70000000,USA,WolfÂ ,Drama|Horror|Romance|Thriller,Dir_85,Act_29
+Mov_605,9/11/2016,English,66000000,USA,War HorseÂ ,Drama|War,Dir_443,Act_76
+Mov_606,2/18/2010,English,70000000,USA,The Monuments MenÂ ,Drama|War,Dir_23,Act_106
+Mov_607,1/27/2011,English,69500000,USA,The AbyssÂ ,Adventure|Drama|Sci-Fi|Thriller,Dir_308,Act_120
+Mov_608,1/13/2016,English,70000000,USA,Wall Street: Money Never SleepsÂ ,Drama,Dir_13,Act_142
+Mov_609,11/16/2010,English,70000000,USA,Dracula UntoldÂ ,Action|Drama|Fantasy|Horror|War,Dir_469,Act_119
+Mov_610,9/3/2015,English,70000000,USA,The SiegeÂ ,Action|Thriller,Dir_111,Act_47
+Mov_611,5/21/2015,English,70000000,UK,StardustÂ ,Adventure|Family|Fantasy|Romance,Dir_225,Act_102
+Mov_612,10/17/2016,English,70000000,USA,Seven Years in TibetÂ ,Adventure|Biography|Drama|History|War,Dir_476,Act_7
+Mov_613,9/2/2011,English,70000000,USA,The DilemmaÂ ,Comedy|Drama,Dir_82,Act_105
+Mov_614,12/22/2010,English,70000000,USA,Bad CompanyÂ ,Action|Adventure|Comedy|Thriller,Dir_396,Act_29
+Mov_615,11/25/2011,English,60000000,UK,DoomÂ ,Action|Adventure|Horror|Sci-Fi,Dir_291,Act_73
+Mov_616,6/26/2016,English,70000000,USA,I SpyÂ ,Action|Adventure|Comedy|Thriller,Dir_445,Act_52
+Mov_617,2/18/2016,English,70000000,USA,Underworld: AwakeningÂ ,Action|Fantasy|Horror,Dir_389,Act_7
+Mov_618,8/13/2011,English,75000000,USA,Rock of AgesÂ ,Comedy|Drama|Musical|Romance,Dir_313,Act_14
+Mov_619,2/25/2013,English,60000000,USA,Hart's WarÂ ,Drama|War,Dir_138,Act_144
+Mov_620,1/1/2016,English,35000000,UK,Killer EliteÂ ,Action|Crime|Thriller,Dir_260,Act_106
+Mov_621,2/7/2010,English,70000000,USA,RollerballÂ ,Action|Sci-Fi|Sport,Dir_13,Act_85
+Mov_622,4/2/2013,English,70000000,USA,Ballistic: Ecks vs. SeverÂ ,Action|Crime|Sci-Fi|Thriller,Dir_51,Act_144
+Mov_623,2/21/2014,English,70000000,USA,Hard RainÂ ,Action|Crime|Drama|Thriller,Dir_205,Act_69
+Mov_624,5/28/2012,English,70000000,USA,Osmosis JonesÂ ,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Dir_421,Act_10
+Mov_625,6/23/2013,English,70000000,USA,Legends of Oz: Dorothy's ReturnÂ ,Adventure|Animation|Family|Fantasy|Musical,Dir_483,Act_137
+Mov_626,7/22/2015,English,70000000,USA,BlackhatÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_217,Act_142
+Mov_627,6/16/2015,English,70000000,USA,Sky Captain and the World of TomorrowÂ ,Action|Adventure|Mystery|Sci-Fi|Thriller,Dir_188,Act_8
+Mov_628,9/21/2014,English,70000000,UK,Basic Instinct 2Â ,Crime|Mystery|Thriller,Dir_192,Act_21
+Mov_629,7/9/2013,English,50000000,USA,Escape PlanÂ ,Action|Crime|Mystery|Sci-Fi|Thriller,Dir_141,Act_31
+Mov_630,6/6/2012,English,70000000,USA,The Legend of HerculesÂ ,Action|Adventure|Fantasy,Dir_199,Act_7
+Mov_631,11/26/2016,English,68000000,USA,The Sum of All FearsÂ ,Action|Drama|Thriller,Dir_383,Act_92
+Mov_632,2/21/2014,English,68000000,USA,The Twilight Saga: EclipseÂ ,Adventure|Drama|Fantasy|Romance,Dir_251,Act_67
+Mov_633,5/5/2011,English,68000000,USA,The ScoreÂ ,Crime|Drama|Thriller,Dir_215,Act_32
+Mov_634,4/26/2012,English,69000000,USA,Despicable MeÂ ,Animation|Comedy|Family,Dir_395,Act_41
+Mov_635,5/5/2010,English,68000000,USA,Money TrainÂ ,Action|Comedy|Crime|Drama|Thriller,Dir_21,Act_95
+Mov_636,12/18/2012,English,68000000,USA,Ted 2Â ,Comedy,Dir_15,Act_78
+Mov_637,8/14/2013,English,70000000,Spain,AgoraÂ ,Adventure|Drama|History|Romance,Dir_247,Act_52
+Mov_638,1/17/2011,English,65000000,USA,Mystery MenÂ ,Action|Comedy|Fantasy|Sci-Fi,Dir_487,Act_44
+Mov_639,11/2/2016,English,36000000,USA,Hall PassÂ ,Comedy|Romance,Dir_52,Act_93
+Mov_640,6/23/2010,English,68000000,USA,The InsiderÂ ,Biography|Drama|Thriller,Dir_63,Act_98
+Mov_641,4/1/2015,English,17700000,USA,The Finest HoursÂ ,Action|Drama|History|Thriller,Dir_12,Act_44
+Mov_642,5/11/2013,English,70000000,USA,Body of LiesÂ ,Action|Drama|Thriller,Dir_40,Act_72
+Mov_643,9/20/2015,English,17700000,USA,Dinner for SchmucksÂ ,Comedy,Dir_278,Act_71
+Mov_644,3/13/2012,English,69000000,USA,Abraham Lincoln: Vampire HunterÂ ,Action|Fantasy|Horror,Dir_207,Act_65
+Mov_645,5/6/2016,English,66000000,USA,EntrapmentÂ ,Action|Crime|Romance|Thriller,Dir_296,Act_42
+Mov_646,2/25/2015,English,17700000,USA,Last Man StandingÂ             ,Comedy,Dir_209,Act_150
+Mov_647,3/13/2013,English,66000000,USA,The X FilesÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_489,Act_93
+Mov_648,1/11/2014,English,35000000,UK,The Last LegionÂ ,Action|Adventure|Fantasy|War,Dir_269,Act_57
+Mov_649,8/2/2014,English,70000000,USA,Saving Private RyanÂ ,Action|Drama|War,Dir_241,Act_49
+Mov_650,3/26/2014,English,66000000,USA,Need for SpeedÂ ,Action|Crime|Drama|Thriller,Dir_429,Act_25
+Mov_651,8/23/2013,English,70000000,USA,What Women WantÂ ,Comedy|Fantasy|Romance,Dir_254,Act_33
+Mov_652,10/18/2010,English,59000000,USA,Ice AgeÂ ,Adventure|Animation|Comedy|Family,Dir_57,Act_127
+Mov_653,8/14/2016,English,68000000,USA,DreamcatcherÂ ,Drama|Horror|Sci-Fi|Thriller,Dir_369,Act_85
+Mov_654,12/15/2013,English,65000000,USA,LincolnÂ ,Biography|Drama|History|War,Dir_365,Act_2
+Mov_655,2/22/2012,English,63000000,USA,The MatrixÂ ,Action|Sci-Fi,Dir_463,Act_130
+Mov_656,2/28/2012,English,62000000,USA,Apollo 13Â ,Adventure|Drama|History,Dir_207,Act_46
+Mov_657,10/21/2016,English,65000000,USA,Total RecallÂ ,Action|Sci-Fi,Dir_141,Act_40
+Mov_658,10/12/2010,English,60000000,USA,The Santa Clause 2Â ,Comedy|Family|Fantasy,Dir_110,Act_4
+Mov_659,12/5/2010,English,61000000,USA,Les MisÃ©rablesÂ ,Drama|Musical|Romance,Dir_284,Act_137
+Mov_660,7/20/2010,English,65000000,USA,You've Got MailÂ ,Comedy|Drama|Romance,Dir_488,Act_43
+Mov_661,2/7/2016,English,65000000,USA,Step BrothersÂ ,Comedy,Dir_339,Act_81
+Mov_662,1/7/2013,English,65000000,USA,The Mask of ZorroÂ ,Action|Adventure|Comedy|Romance|Thriller|Western,Dir_48,Act_79
+Mov_663,1/20/2016,English,65000000,USA,Due DateÂ ,Comedy|Drama,Dir_384,Act_10
+Mov_664,7/10/2011,English,65000000,USA,UnbrokenÂ ,Biography|Drama|Sport|War,Dir_496,Act_111
+Mov_665,11/5/2015,English,65000000,USA,Space CowboysÂ ,Action|Adventure|Thriller,Dir_113,Act_27
+Mov_666,7/12/2013,English,70000000,USA,CliffhangerÂ ,Action|Adventure|Thriller,Dir_360,Act_67
+Mov_667,1/18/2011,English,50000000,USA,Broken ArrowÂ ,Action|Crime|Thriller,Dir_410,Act_50
+Mov_668,7/8/2016,English,60000000,USA,The KidÂ ,Comedy|Family|Fantasy,Dir_386,Act_11
+Mov_669,4/25/2015,English,63000000,USA,World Trade CenterÂ ,Drama|History|Thriller,Dir_271,Act_89
+Mov_670,1/31/2013,English,65000000,USA,Mona Lisa SmileÂ ,Drama,Dir_300,Act_15
+Mov_671,4/14/2016,English,65000000,USA,The DictatorÂ ,Comedy|Romance,Dir_168,Act_49
+Mov_672,12/26/2013,English,65000000,UK,Eyes Wide ShutÂ ,Drama|Mystery|Thriller,Dir_334,Act_89
+Mov_673,5/31/2012,English,65000000,USA,AnnieÂ ,Comedy|Drama|Family|Musical,Dir_427,Act_53
+Mov_674,4/8/2013,English,50100000,USA,FocusÂ ,Comedy|Crime|Drama|Romance,Dir_17,Act_107
+Mov_675,9/6/2014,English,65000000,USA,This Means WarÂ ,Action|Comedy|Romance,Dir_364,Act_71
+Mov_676,5/19/2012,English,65000000,USA,Blade: TrinityÂ ,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Dir_330,Act_24
+Mov_677,2/19/2011,English,16900000,USA,Red DawnÂ ,Action|Drama|War,Dir_69,Act_29
+Mov_678,11/18/2014,English,65000000,France,Primary ColorsÂ ,Comedy|Drama,Dir_245,Act_139
+Mov_679,4/5/2010,English,65000000,Germany,Resident Evil: RetributionÂ ,Action|Horror|Sci-Fi|Thriller,Dir_184,Act_6
+Mov_680,10/12/2010,English,45000000,USA,Death RaceÂ ,Action|Sci-Fi|Thriller,Dir_130,Act_75
+Mov_681,1/8/2011,English,65000000,USA,The Long Kiss GoodnightÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_79,Act_64
+Mov_682,9/17/2011,English,65000000,USA,Proof of LifeÂ ,Action|Drama|Thriller,Dir_279,Act_130
+Mov_683,3/3/2010,English,65000000,USA,Zathura: A Space AdventureÂ ,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Dir_95,Act_24
+Mov_684,7/15/2013,English,63000000,USA,Fight ClubÂ ,Drama,Dir_421,Act_50
+Mov_685,2/6/2014,English,65000000,USA,We Are MarshallÂ ,Drama|Sport,Dir_137,Act_97
+Mov_686,11/21/2016,English,17700000,UK,The MissingÂ             ,Crime|Drama|Mystery,Dir_75,Act_123
+Mov_687,8/26/2013,English,70000000,USA,Hudson HawkÂ ,Action|Adventure|Comedy,Dir_382,Act_79
+Mov_688,6/4/2012,English,65000000,France,Lucky NumbersÂ ,Comedy|Crime,Dir_82,Act_113
+Mov_689,2/20/2016,English,65000000,Australia,"I, FrankensteinÂ ",Action|Fantasy|Sci-Fi|Thriller,Dir_111,Act_64
+Mov_690,11/3/2012,English,50000000,UK,Oliver TwistÂ ,Crime|Drama,Dir_171,Act_8
+Mov_691,8/17/2010,English,43000000,Canada,ElektraÂ ,Action|Crime|Fantasy|Thriller,Dir_428,Act_73
+Mov_692,5/2/2016,English,65000000,USA,Sin City: A Dame to Kill ForÂ ,Action|Crime|Thriller,Dir_459,Act_115
+Mov_693,4/15/2013,English,64000000,USA,Random HeartsÂ ,Drama|Mystery|Romance,Dir_375,Act_143
+Mov_694,3/20/2015,English,55000000,UK,EverestÂ ,Adventure|Biography|Drama|History|Sport|Thriller,Dir_81,Act_91
+Mov_695,4/22/2011,English,50000000,Germany,Perfume: The Story of a MurdererÂ ,Crime|Drama|Fantasy,Dir_411,Act_134
+Mov_696,12/30/2015,English,63000000,USA,Austin Powers in GoldmemberÂ ,Action|Comedy|Crime,Dir_242,Act_81
+Mov_697,11/21/2016,English,65000000,Hong Kong,Astro BoyÂ ,Action|Animation|Comedy|Family|Sci-Fi,Dir_234,Act_7
+Mov_698,7/19/2016,English,63000000,USA,Jurassic ParkÂ ,Adventure|Sci-Fi|Thriller,Dir_222,Act_49
+Mov_699,7/2/2011,English,63000000,USA,Wyatt EarpÂ ,Adventure|Biography|Crime|Drama|Western,Dir_415,Act_69
+Mov_700,8/29/2014,Mandarin,62000000,USA,Clear and Present DangerÂ ,Action|Crime|Drama|Thriller,Dir_44,Act_38
+Mov_701,7/19/2013,English,65000000,China,Dragon BladeÂ ,Action|Adventure|Drama|History,Dir_448,Act_106
+Mov_702,4/20/2015,English,64000000,USA,LittlemanÂ ,Comedy|Crime,Dir_232,Act_7
+Mov_703,11/7/2010,English,62000000,France,U-571Â ,Action|War,Dir_350,Act_133
+Mov_704,12/28/2010,English,62000000,USA,The American PresidentÂ ,Comedy|Drama|Romance,Dir_394,Act_137
+Mov_705,8/27/2012,English,62000000,USA,The Love GuruÂ ,Comedy|Romance|Sport,Dir_170,Act_39
+Mov_706,9/2/2014,English,42000000,USA,3000 Miles to GracelandÂ ,Action|Comedy|Crime|Thriller,Dir_30,Act_93
+Mov_707,7/22/2012,English,44000000,USA,The Hateful EightÂ ,Crime|Drama|Mystery|Thriller|Western,Dir_359,Act_90
+Mov_708,4/2/2014,English,61000000,USA,Blades of GloryÂ ,Comedy|Sport,Dir_10,Act_77
+Mov_709,2/24/2012,English,63000000,USA,HopÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_225,Act_134
+Mov_710,4/13/2015,English,65000000,USA,300Â ,Action|Drama|Fantasy|War,Dir_86,Act_65
+Mov_711,3/29/2015,English,80000000,USA,Meet the FockersÂ ,Comedy|Romance,Dir_467,Act_117
+Mov_712,10/14/2011,English,60000000,USA,Marley & MeÂ ,Comedy|Drama|Family,Dir_338,Act_12
+Mov_713,5/18/2013,English,60000000,USA,The Green MileÂ ,Crime|Drama|Fantasy|Mystery,Dir_361,Act_8
+Mov_714,7/19/2010,English,17700000,USA,Wild HogsÂ ,Action|Adventure|Comedy,Dir_135,Act_92
+Mov_715,11/2/2013,English,150000000,USA,Chicken LittleÂ ,Adventure|Animation|Comedy|Family|Sci-Fi,Dir_369,Act_97
+Mov_716,12/14/2016,English,61000000,USA,Gone GirlÂ ,Crime|Drama|Mystery|Thriller,Dir_189,Act_94
+Mov_717,11/13/2014,English,60000000,USA,The Bourne IdentityÂ ,Action|Mystery|Thriller,Dir_68,Act_103
+Mov_718,10/10/2016,English,58000000,UK,GoldenEyeÂ ,Action|Adventure|Thriller,Dir_53,Act_107
+Mov_719,5/24/2013,English,95000000,USA,The General's DaughterÂ ,Drama|Mystery|Thriller,Dir_113,Act_4
+Mov_720,6/11/2012,English,60000000,USA,The Truman ShowÂ ,Comedy|Drama|Sci-Fi,Dir_55,Act_25
+Mov_721,8/19/2014,English,70000000,USA,The Prince of EgyptÂ ,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,Dir_70,Act_135
+Mov_722,10/26/2010,English,60000000,USA,Daddy Day CareÂ ,Comedy|Family,Dir_393,Act_150
+Mov_723,6/27/2011,English,61000000,USA,2 GunsÂ ,Action|Comedy|Crime|Drama|Thriller,Dir_61,Act_148
+Mov_724,3/15/2012,English,60000000,USA,Cats & DogsÂ ,Action|Comedy|Family|Fantasy,Dir_339,Act_41
+Mov_725,8/12/2014,English,60000000,USA,The Italian JobÂ ,Action|Crime|Thriller,Dir_28,Act_130
+Mov_726,8/2/2012,English,60000000,USA,Two Weeks NoticeÂ ,Comedy|Romance,Dir_377,Act_89
+Mov_727,5/12/2011,English,105000000,USA,AntzÂ ,Adventure|Animation|Comedy|Family,Dir_355,Act_31
+Mov_728,6/10/2015,English,60000000,USA,Couples RetreatÂ ,Comedy,Dir_192,Act_47
+Mov_729,10/26/2012,English,60000000,USA,Days of ThunderÂ ,Action|Drama|Sport,Dir_104,Act_99
+Mov_730,7/10/2011,English,60000000,USA,Cheaper by the Dozen 2Â ,Adventure|Comedy|Family,Dir_454,Act_45
+Mov_731,10/30/2016,English,61000000,USA,The Scorch TrialsÂ ,Action|Sci-Fi|Thriller,Dir_376,Act_138
+Mov_732,1/29/2010,English,60000000,USA,Eat Pray LoveÂ ,Drama|Romance,Dir_241,Act_26
+Mov_733,5/25/2012,English,60000000,USA,The Family ManÂ ,Comedy|Drama|Fantasy|Romance,Dir_156,Act_143
+Mov_734,11/3/2013,English,58000000,USA,REDÂ ,Action|Comedy|Crime|Thriller,Dir_343,Act_46
+Mov_735,4/22/2010,English,55000000,USA,Any Given SundayÂ ,Drama|Sport,Dir_158,Act_50
+Mov_736,1/16/2011,English,60000000,USA,The Horse WhispererÂ ,Drama|Romance|Western,Dir_84,Act_138
+Mov_737,5/20/2011,English,65000000,USA,CollateralÂ ,Crime|Drama|Thriller,Dir_96,Act_82
+Mov_738,2/23/2012,English,60000000,USA,The Scorpion KingÂ ,Action|Adventure|Fantasy|Thriller,Dir_171,Act_28
+Mov_739,12/8/2010,English,55000000,USA,Ladder 49Â ,Action|Drama|Thriller,Dir_34,Act_108
+Mov_740,10/10/2010,English,60000000,USA,Jack ReacherÂ ,Action|Crime|Mystery|Thriller,Dir_313,Act_117
+Mov_741,1/15/2014,English,60000000,USA,Deep Blue SeaÂ ,Action|Sci-Fi|Thriller,Dir_246,Act_100
+Mov_742,1/21/2013,English,60000000,USA,This Is ItÂ ,Documentary|Music,Dir_362,Act_126
+Mov_743,7/21/2012,English,60000000,USA,ContagionÂ ,Drama|Thriller,Dir_107,Act_12
+Mov_744,11/3/2012,English,60000000,USA,Kangaroo JackÂ ,Action|Adventure|Comedy|Crime,Dir_448,Act_2
+Mov_745,11/30/2013,English,60000000,USA,CoralineÂ ,Animation|Family|Fantasy,Dir_54,Act_63
+Mov_746,3/3/2015,English,48000000,USA,The HappeningÂ ,Sci-Fi|Thriller,Dir_191,Act_150
+Mov_747,10/25/2015,English,70000000,USA,Man on FireÂ ,Action|Crime|Drama|Thriller,Dir_419,Act_118
+Mov_748,10/9/2010,English,50000000,USA,The Shaggy DogÂ ,Comedy|Family|Fantasy,Dir_160,Act_31
+Mov_749,1/23/2014,English,60000000,USA,Starsky & HutchÂ ,Comedy|Crime,Dir_43,Act_91
+Mov_750,8/20/2014,English,60000000,USA,Jingle All the WayÂ ,Comedy|Family,Dir_321,Act_133
+Mov_751,3/14/2010,English,66000000,USA,HellboyÂ ,Action|Fantasy|Horror|Sci-Fi,Dir_318,Act_30
+Mov_752,12/2/2010,English,60000000,USA,A Civil ActionÂ ,Drama,Dir_75,Act_80
+Mov_753,5/6/2014,English,60000000,USA,ParaNormanÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_244,Act_87
+Mov_754,10/5/2012,English,60000000,USA,The JackalÂ ,Action|Adventure|Crime|Thriller,Dir_325,Act_67
+Mov_755,11/13/2014,English,60000000,USA,PaycheckÂ ,Action|Mystery|Sci-Fi|Thriller,Dir_335,Act_135
+Mov_756,6/24/2012,English,60000000,USA,Up Close & PersonalÂ ,Drama|Romance,Dir_453,Act_50
+Mov_757,9/28/2013,English,60000000,UK,The Tale of DespereauxÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_251,Act_5
+Mov_758,12/28/2015,English,17700000,USA,Rules of EngagementÂ             ,Comedy|Romance,Dir_210,Act_57
+Mov_759,3/7/2015,English,60000000,USA,The TuxedoÂ ,Action|Comedy|Sci-Fi,Dir_327,Act_77
+Mov_760,9/16/2010,English,60000000,USA,Under Siege 2: Dark TerritoryÂ ,Action|Thriller,Dir_82,Act_5
+Mov_761,7/12/2014,English,60000000,USA,Jack Ryan: Shadow RecruitÂ ,Action|Drama|Thriller,Dir_169,Act_61
+Mov_762,10/31/2011,English,60000000,USA,JoyÂ ,Biography|Comedy|Drama,Dir_481,Act_115
+Mov_763,2/19/2010,English,60000000,UK,London Has FallenÂ ,Action|Crime|Drama|Thriller,Dir_173,Act_115
+Mov_764,1/30/2013,English,75000000,USA,Alien: ResurrectionÂ ,Action|Horror|Sci-Fi,Dir_25,Act_32
+Mov_765,7/26/2016,English,61000000,USA,ShooterÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_3,Act_130
+Mov_766,9/25/2011,English,60000000,USA,The BoxtrollsÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_328,Act_127
+Mov_767,4/23/2012,English,48000000,USA,Practical MagicÂ ,Comedy|Drama|Fantasy|Romance,Dir_89,Act_107
+Mov_768,2/26/2010,English,60000000,Australia,The Lego MovieÂ ,Action|Adventure|Animation|Comedy|Family|Fantasy,Dir_99,Act_100
+Mov_769,2/1/2010,English,45000000,USA,Miss Congeniality 2: Armed and FabulousÂ ,Action|Comedy|Crime,Dir_496,Act_32
+Mov_770,5/24/2013,English,60000000,USA,Reign of FireÂ ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Dir_134,Act_36
+Mov_771,12/16/2015,English,60000000,USA,Gangster SquadÂ ,Action|Crime|Drama|Thriller,Dir_268,Act_97
+Mov_772,4/29/2012,English,60000000,USA,Year OneÂ ,Adventure|Comedy,Dir_397,Act_44
+Mov_773,2/1/2011,English,60000000,USA,InvictusÂ ,Biography|Drama|History|Sport,Dir_384,Act_101
+Mov_774,6/29/2015,English,17700000,USA,State of PlayÂ ,Crime|Drama|Mystery|Thriller,Dir_321,Act_104
+Mov_775,6/8/2012,English,60000000,USA,DuplicityÂ ,Comedy|Crime|Romance|Thriller,Dir_372,Act_88
+Mov_776,7/30/2010,English,65000000,USA,My Favorite MartianÂ ,Comedy|Family|Sci-Fi,Dir_121,Act_45
+Mov_777,10/29/2016,English,60000000,USA,The SentinelÂ ,Action|Crime|Thriller,Dir_96,Act_113
+Mov_778,7/1/2011,English,70000000,Spain,Planet 51Â ,Adventure|Animation|Comedy|Family|Sci-Fi,Dir_160,Act_128
+Mov_779,6/17/2016,English,60000000,USA,Star Trek: NemesisÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_46,Act_85
+Mov_780,9/20/2013,English,60000000,USA,Intolerable CrueltyÂ ,Comedy|Crime|Romance,Dir_440,Act_77
+Mov_781,1/12/2016,English,17700000,USA,Trouble with the CurveÂ ,Drama|Sport,Dir_103,Act_96
+Mov_782,7/19/2012,English,80000000,UK,Edge of DarknessÂ ,Crime|Drama|Mystery|Thriller,Dir_229,Act_117
+Mov_783,8/25/2011,English,40000000,UK,The RelicÂ ,Horror|Mystery|Sci-Fi|Thriller,Dir_458,Act_149
+Mov_784,9/3/2012,English,60000000,USA,Analyze ThatÂ ,Comedy|Crime,Dir_319,Act_1
+Mov_785,2/18/2011,English,60000000,USA,Righteous KillÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_130,Act_79
+Mov_786,5/28/2012,English,60000000,USA,Mercury RisingÂ ,Action|Crime|Drama|Thriller,Dir_60,Act_59
+Mov_787,4/10/2014,English,60000000,UK,The SoloistÂ ,Biography|Drama|Music,Dir_127,Act_93
+Mov_788,11/8/2011,English,60000000,USA,The Legend of Bagger VanceÂ ,Drama|Fantasy|Sport,Dir_233,Act_105
+Mov_789,5/8/2015,English,60000000,USA,Almost FamousÂ ,Adventure|Comedy|Drama|Music,Dir_40,Act_4
+Mov_790,5/26/2010,English,17700000,UK,Garfield 2Â ,Animation|Comedy|Family|Fantasy,Dir_182,Act_122
+Mov_791,6/12/2012,English,87000000,USA,xXx: State of the UnionÂ ,Action|Adventure|Crime|Thriller,Dir_4,Act_22
+Mov_792,9/27/2014,English,60000000,USA,PriestÂ ,Action|Fantasy|Horror|Sci-Fi|Thriller,Dir_197,Act_90
+Mov_793,4/29/2013,English,60000000,USA,Sinbad: Legend of the Seven SeasÂ ,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,Dir_169,Act_4
+Mov_794,10/30/2012,English,60000000,UK,Event HorizonÂ ,Horror|Sci-Fi|Thriller,Dir_487,Act_24
+Mov_795,6/19/2015,English,220000000,USA,The AvengersÂ ,Action|Adventure|Sci-Fi,Dir_405,Act_8
+Mov_796,3/28/2015,English,60000000,USA,DragonflyÂ ,Drama|Fantasy|Mystery|Romance|Thriller,Dir_319,Act_7
+Mov_797,5/9/2016,English,50000000,Germany,The Black DahliaÂ ,Crime|Drama|Mystery|Thriller,Dir_361,Act_140
+Mov_798,8/16/2014,English,60000000,UK,FlyboysÂ ,Action|Adventure|Drama|History|Romance|War,Dir_487,Act_64
+Mov_799,3/9/2010,English,60000000,USA,The Last CastleÂ ,Action|Drama|Thriller,Dir_131,Act_136
+Mov_800,7/27/2010,English,65000000,USA,SupernovaÂ ,Horror|Sci-Fi|Thriller,Dir_140,Act_27
+Mov_801,7/23/2016,English,60000000,USA,Winter's TaleÂ ,Drama|Fantasy|Mystery|Romance,Dir_16,Act_95
+Mov_802,6/23/2013,English,60000000,USA,The Mortal Instruments: City of BonesÂ ,Fantasy|Horror|Mystery|Romance,Dir_109,Act_127
+Mov_803,3/25/2015,English,60000000,USA,Meet DaveÂ ,Adventure|Comedy|Family|Romance|Sci-Fi,Dir_166,Act_30
+Mov_804,5/25/2010,English,30000000,USA,Dark WaterÂ ,Drama|Horror|Thriller,Dir_382,Act_143
+Mov_805,12/30/2015,English,55000000,USA,EdtvÂ ,Comedy|Drama,Dir_8,Act_64
+Mov_806,8/12/2016,English,60000000,Germany,InkheartÂ ,Adventure|Family|Fantasy,Dir_109,Act_15
+Mov_807,8/9/2013,English,60000000,USA,The SpiritÂ ,Action|Crime|Fantasy|Thriller,Dir_241,Act_147
+Mov_808,12/8/2011,English,60000000,UK,MortdecaiÂ ,Action|Comedy|Mystery|Romance,Dir_456,Act_17
+Mov_809,1/26/2010,English,60000000,Germany,In the Name of the King: A Dungeon Siege TaleÂ ,Action|Adventure|Fantasy|Thriller,Dir_17,Act_136
+Mov_810,1/31/2014,English,35000000,USA,Beyond BordersÂ ,Adventure|Drama|Romance|War,Dir_50,Act_105
+Mov_811,12/25/2016,Filipino,68005000,China,Xi you ji zhi: Sun Wukong san da Baigu JingÂ ,Action|Adventure|Fantasy,Dir_52,Act_91
+Mov_812,1/10/2012,English,80000000,USA,The Great RaidÂ ,Action|Drama|War,Dir_191,Act_147
+Mov_813,2/14/2014,English,58000000,USA,DeadpoolÂ ,Action|Adventure|Comedy|Romance|Sci-Fi,Dir_53,Act_69
+Mov_814,1/9/2012,English,60000000,USA,Holy ManÂ ,Comedy|Drama,Dir_17,Act_76
+Mov_815,1/24/2013,English,58800000,USA,American SniperÂ ,Action|Biography|Drama|History|Thriller|War,Dir_133,Act_81
+Mov_816,6/6/2015,English,58000000,USA,GoosebumpsÂ ,Adventure|Comedy|Family|Fantasy|Horror,Dir_47,Act_76
+Mov_817,5/18/2015,English,3000000,USA,"Sabrina, the Teenage WitchÂ             ",Comedy|Family|Fantasy,Dir_226,Act_78
+Mov_818,5/30/2014,English,58000000,USA,Just Like HeavenÂ ,Comedy|Fantasy|Romance,Dir_480,Act_52
+Mov_819,1/21/2011,English,60000000,USA,The Flintstones in Viva Rock VegasÂ ,Comedy|Family|Romance|Sci-Fi,Dir_480,Act_29
+Mov_820,4/13/2011,English,63000000,USA,Rambo IIIÂ ,Action|Adventure|Thriller|War,Dir_130,Act_83
+Mov_821,1/5/2014,English,58000000,USA,LeatherheadsÂ ,Comedy|Drama|Romance|Sport,Dir_44,Act_125
+Mov_822,9/26/2011,English,17700000,USA,The Ridiculous 6Â ,Comedy|Western,Dir_101,Act_72
+Mov_823,3/31/2011,English,58000000,USA,Did You Hear About the Morgans?Â ,Comedy|Drama|Romance,Dir_144,Act_71
+Mov_824,9/9/2011,English,58000000,USA,The InternshipÂ ,Comedy,Dir_467,Act_3
+Mov_825,11/10/2014,English,60000000,Germany,Resident Evil: AfterlifeÂ ,Action|Adventure|Horror|Sci-Fi,Dir_109,Act_19
+Mov_826,10/7/2012,English,58000000,USA,Red TailsÂ ,Action|Adventure|Drama|History|War,Dir_83,Act_130
+Mov_827,1/5/2010,English,17700000,USA,Sex and the CityÂ             ,Comedy|Romance,Dir_141,Act_60
+Mov_828,9/15/2013,English,57000000,USA,The Devil's AdvocateÂ ,Drama|Mystery|Thriller,Dir_175,Act_18
+Mov_829,6/3/2015,English,70000000,USA,That's My BoyÂ ,Comedy,Dir_323,Act_108
+Mov_830,3/18/2011,English,57000000,USA,DragonHeartÂ ,Action|Adventure|Fantasy,Dir_316,Act_145
+Mov_831,11/3/2012,English,58000000,USA,After the SunsetÂ ,Action|Comedy|Crime|Drama,Dir_85,Act_12
+Mov_832,11/6/2010,English,57000000,USA,Ghost Rider: Spirit of VengeanceÂ ,Action|Fantasy|Thriller,Dir_455,Act_135
+Mov_833,11/27/2010,English,57000000,UK,Captain Corelli's MandolinÂ ,Drama|Music|Romance|War,Dir_390,Act_50
+Mov_834,3/4/2014,English,17700000,USA,Anger ManagementÂ             ,Comedy|Romance,Dir_388,Act_45
+Mov_835,6/9/2012,English,56000000,Canada,The PacifierÂ ,Action|Comedy|Drama|Family|Thriller,Dir_111,Act_68
+Mov_836,9/27/2010,English,56000000,USA,Walking TallÂ ,Action|Crime,Dir_388,Act_82
+Mov_837,7/15/2016,English,55000000,USA,Forrest GumpÂ ,Comedy|Drama,Dir_296,Act_63
+Mov_838,3/30/2012,English,60000000,USA,Alvin and the ChipmunksÂ ,Animation|Comedy|Family|Fantasy|Music,Dir_159,Act_73
+Mov_839,5/4/2013,English,55000000,USA,Meet the ParentsÂ ,Comedy,Dir_18,Act_82
+Mov_840,11/20/2010,English,55000000,USA,PocahontasÂ ,Adventure|Animation|Drama|Family|History|Musical|Romance,Dir_101,Act_26
+Mov_841,7/16/2014,English,55000000,USA,SupermanÂ ,Action|Adventure|Drama|Romance|Sci-Fi,Dir_321,Act_51
+Mov_842,7/9/2012,English,54000000,USA,The Nutty ProfessorÂ ,Comedy|Romance|Sci-Fi,Dir_436,Act_101
+Mov_843,5/4/2012,English,70000000,USA,HitchÂ ,Comedy|Romance,Dir_223,Act_109
+Mov_844,2/23/2010,English,55000000,USA,George of the JungleÂ ,Action|Adventure|Comedy|Family|Romance,Dir_472,Act_47
+Mov_845,7/6/2016,English,55000000,USA,American WeddingÂ ,Comedy|Romance,Dir_79,Act_45
+Mov_846,8/11/2012,English,55000000,USA,Captain PhillipsÂ ,Biography|Drama|Thriller,Dir_274,Act_115
+Mov_847,5/21/2010,English,55000000,USA,Date NightÂ ,Comedy|Crime|Romance|Thriller,Dir_31,Act_31
+Mov_848,9/22/2014,English,50000000,USA,CasperÂ ,Comedy|Family|Fantasy,Dir_201,Act_79
+Mov_849,4/3/2015,English,55000000,USA,The EqualizerÂ ,Action|Crime|Thriller,Dir_467,Act_14
+Mov_850,3/2/2010,English,55000000,USA,Maid in ManhattanÂ ,Comedy|Drama|Romance,Dir_36,Act_80
+Mov_851,8/17/2012,English,53000000,USA,Crimson TideÂ ,Action|Drama|Thriller|War,Dir_414,Act_11
+Mov_852,4/22/2014,English,55000000,USA,The Pursuit of HappynessÂ ,Biography|Drama,Dir_490,Act_148
+Mov_853,4/29/2014,English,55000000,USA,FlightplanÂ ,Drama|Mystery|Thriller,Dir_94,Act_113
+Mov_854,3/20/2014,English,55000000,USA,DisclosureÂ ,Drama|Thriller,Dir_229,Act_141
+Mov_855,4/25/2012,English,55000000,Germany,City of AngelsÂ ,Drama|Fantasy|Romance,Dir_471,Act_34
+Mov_856,3/25/2016,English,30000000,USA,Kill Bill: Vol. 1Â ,Action,Dir_334,Act_18
+Mov_857,9/20/2013,English,55000000,USA,BowfingerÂ ,Comedy,Dir_339,Act_115
+Mov_858,6/20/2011,English,1400000,USA,Stargate SG-1Â             ,Action|Adventure|Drama|Sci-Fi,Dir_346,Act_35
+Mov_859,9/14/2014,English,30000000,USA,Kill Bill: Vol. 2Â ,Action|Crime|Drama|Thriller,Dir_498,Act_113
+Mov_860,2/16/2011,English,55000000,USA,Tango & CashÂ ,Action|Comedy|Crime|Thriller,Dir_172,Act_65
+Mov_861,6/3/2011,English,55000000,USA,Death Becomes HerÂ ,Comedy|Fantasy|Horror,Dir_86,Act_47
+Mov_862,12/21/2011,English,55000000,USA,Shanghai NoonÂ ,Action|Adventure|Comedy|Western,Dir_104,Act_98
+Mov_863,3/9/2015,English,55000000,USA,Executive DecisionÂ ,Action|Adventure|Thriller,Dir_470,Act_106
+Mov_864,9/1/2014,English,55000000,USA,Mr. Popper's PenguinsÂ ,Comedy|Family|Fantasy,Dir_405,Act_21
+Mov_865,3/25/2014,English,55000000,USA,The Forbidden KingdomÂ ,Action|Adventure|Fantasy,Dir_88,Act_147
+Mov_866,6/2/2013,English,55000000,USA,Free BirdsÂ ,Adventure|Animation|Comedy|Family,Dir_353,Act_50
+Mov_867,3/27/2010,English,50000000,USA,Alien 3Â ,Action|Horror|Sci-Fi,Dir_438,Act_114
+Mov_868,10/14/2013,English,55000000,USA,EvitaÂ ,Biography|Drama|History|Musical,Dir_474,Act_22
+Mov_869,4/25/2016,English,55000000,UK,RoninÂ ,Action|Adventure|Crime|Thriller,Dir_387,Act_124
+Mov_870,11/13/2015,English,55000000,USA,The Ghost and the DarknessÂ ,Adventure|Drama|Horror|Thriller,Dir_410,Act_33
+Mov_871,8/31/2013,English,55000000,UK,PaddingtonÂ ,Animation|Comedy|Family|Fantasy,Dir_127,Act_72
+Mov_872,12/21/2013,English,68000000,USA,The WatchÂ ,Action|Comedy|Sci-Fi,Dir_271,Act_145
+Mov_873,10/16/2010,English,55000000,USA,The HuntedÂ ,Action|Crime|Drama|Thriller,Dir_91,Act_41
+Mov_874,1/1/2014,English,55000000,USA,InstinctÂ ,Drama|Thriller,Dir_288,Act_63
+Mov_875,1/24/2016,English,55000000,USA,Stuck on YouÂ ,Comedy,Dir_365,Act_86
+Mov_876,6/4/2012,English,55000000,USA,Semi-ProÂ ,Comedy|Sport,Dir_150,Act_57
+Mov_877,7/21/2015,English,55000000,UK,The Pirates! Band of MisfitsÂ ,Adventure|Animation|Comedy|Family,Dir_387,Act_117
+Mov_878,12/19/2010,English,55000000,USA,ChangelingÂ ,Crime|Drama|Mystery|Thriller,Dir_56,Act_25
+Mov_879,8/1/2013,English,50000000,USA,Chain ReactionÂ ,Action|Drama|Sci-Fi|Thriller,Dir_470,Act_109
+Mov_880,9/2/2015,English,55000000,USA,The FanÂ ,Action|Drama|Sport|Thriller,Dir_312,Act_64
+Mov_881,4/2/2014,English,70000000,UK,The Phantom of the OperaÂ ,Drama|Musical|Romance|Thriller,Dir_439,Act_100
+Mov_882,12/28/2016,English,55000000,UK,Elizabeth: The Golden AgeÂ ,Biography|Drama|History|War,Dir_177,Act_122
+Mov_883,5/16/2012,English,62000000,USA,Ã†on FluxÂ ,Action|Sci-Fi,Dir_228,Act_97
+Mov_884,2/7/2016,English,56000000,USA,Gods and GeneralsÂ ,Drama|History|War,Dir_445,Act_55
+Mov_885,6/7/2015,English,71000000,USA,TurbulenceÂ ,Action|Thriller,Dir_80,Act_63
+Mov_886,6/16/2014,English,55000000,USA,Imagine ThatÂ ,Comedy|Drama|Family|Fantasy,Dir_135,Act_94
+Mov_887,2/1/2010,English,50000000,USA,Muppets Most WantedÂ ,Adventure|Comedy|Crime|Family|Musical,Dir_145,Act_7
+Mov_888,4/30/2010,English,57000000,UK,ThunderbirdsÂ ,Action|Adventure|Comedy|Family|Sci-Fi,Dir_294,Act_81
+Mov_889,4/23/2013,French,55000000,USA,BurlesqueÂ ,Drama|Music|Musical|Romance,Dir_17,Act_130
+Mov_890,8/27/2015,English,47000000,France,A Very Long EngagementÂ ,Drama|Mystery|Romance|War,Dir_294,Act_123
+Mov_891,8/11/2015,English,2000000,UK,LolitaÂ ,Crime|Drama|Romance,Dir_478,Act_124
+Mov_892,6/12/2014,English,55000000,USA,Eye See YouÂ ,Crime|Horror|Mystery|Thriller,Dir_139,Act_100
+Mov_893,1/8/2012,English,54000000,USA,Blade IIÂ ,Action|Horror|Sci-Fi|Thriller,Dir_89,Act_43
+Mov_894,6/18/2013,English,55000000,USA,Seven PoundsÂ ,Drama|Romance,Dir_263,Act_51
+Mov_895,7/21/2014,English,55000000,USA,Bullet to the HeadÂ ,Action|Thriller,Dir_320,Act_9
+Mov_896,10/21/2015,English,54000000,USA,The Godfather: Part IIIÂ ,Crime|Drama,Dir_163,Act_46
+Mov_897,2/28/2014,English,57000000,USA,ElizabethtownÂ ,Comedy|Drama|Romance,Dir_430,Act_2
+Mov_898,1/7/2011,English,54000000,USA,"You, Me and DupreeÂ ",Comedy|Romance,Dir_303,Act_98
+Mov_899,2/26/2010,English,54000000,USA,Superman IIÂ ,Action|Adventure|Romance|Sci-Fi,Dir_144,Act_145
+Mov_900,6/14/2014,English,54000000,USA,GigliÂ ,Comedy|Crime|Romance,Dir_46,Act_104
+Mov_901,1/3/2015,English,55000000,Germany,All the King's MenÂ ,Drama|Thriller,Dir_493,Act_12
+Mov_902,11/3/2014,English,46000000,Germany,ShaftÂ ,Action|Crime|Thriller,Dir_36,Act_100
+Mov_903,11/4/2011,English,50000000,USA,AnastasiaÂ ,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,Dir_106,Act_55
+Mov_904,3/18/2014,English,52500000,USA,Moulin Rouge!Â ,Drama|Musical|Romance,Dir_362,Act_92
+Mov_905,3/6/2013,English,53000000,USA,Domestic DisturbanceÂ ,Crime|Mystery|Thriller,Dir_105,Act_125
+Mov_906,9/29/2012,English,53000000,USA,Black MassÂ ,Biography|Crime|Drama,Dir_204,Act_32
+Mov_907,10/15/2015,English,90000000,USA,Flags of Our FathersÂ ,Drama|History|War,Dir_116,Act_74
+Mov_908,3/29/2010,English,50000000,USA,Law Abiding CitizenÂ ,Crime|Drama|Thriller,Dir_417,Act_69
+Mov_909,8/30/2014,English,53000000,USA,GrindhouseÂ ,Action|Horror|Thriller,Dir_271,Act_22
+Mov_910,11/4/2014,English,55000000,USA,BelovedÂ ,Drama|History|Horror,Dir_51,Act_132
+Mov_911,12/19/2015,English,55000000,USA,Lucky YouÂ ,Drama|Romance|Sport,Dir_59,Act_80
+Mov_912,6/16/2016,English,52000000,USA,Catch Me If You CanÂ ,Biography|Crime|Drama,Dir_56,Act_127
+Mov_913,10/18/2012,English,40000000,USA,Zero Dark ThirtyÂ ,Drama|History|Thriller,Dir_46,Act_38
+Mov_914,10/20/2015,English,52000000,USA,The Break-UpÂ ,Comedy|Drama|Romance,Dir_126,Act_7
+Mov_915,5/2/2016,English,52000000,USA,Mamma Mia!Â ,Comedy|Family|Musical|Romance,Dir_426,Act_103
+Mov_916,8/1/2012,English,52000000,USA,Valentine's DayÂ ,Comedy|Romance,Dir_494,Act_11
+Mov_917,6/7/2011,English,50000000,USA,The Dukes of HazzardÂ ,Action|Adventure|Comedy,Dir_11,Act_66
+Mov_918,6/12/2014,English,52000000,USA,The Thin Red LineÂ ,Drama|War,Dir_127,Act_78
+Mov_919,11/1/2016,English,52000000,USA,The Change-UpÂ ,Comedy|Fantasy,Dir_484,Act_56
+Mov_920,12/16/2016,English,52000000,UK,Man on the MoonÂ ,Biography|Comedy|Drama,Dir_390,Act_113
+Mov_921,8/31/2011,English,52000000,USA,CasinoÂ ,Biography|Crime|Drama,Dir_313,Act_50
+Mov_922,11/7/2013,English,52000000,France,From Paris with LoveÂ ,Action|Thriller,Dir_151,Act_114
+Mov_923,6/26/2016,English,52000000,USA,Bulletproof MonkÂ ,Action|Comedy|Fantasy,Dir_387,Act_37
+Mov_924,2/23/2011,English,51000000,USA,"Me, Myself & IreneÂ ",Comedy,Dir_162,Act_68
+Mov_925,4/8/2011,English,51000000,Germany,BarnyardÂ ,Animation|Comedy|Family,Dir_338,Act_69
+Mov_926,1/2/2014,English,17700000,USA,Deck the HallsÂ ,Comedy|Family,Dir_169,Act_50
+Mov_927,6/24/2013,English,50000000,USA,The Twilight Saga: New MoonÂ ,Adventure|Drama|Fantasy|Romance,Dir_333,Act_54
+Mov_928,11/10/2012,English,60000000,USA,ShrekÂ ,Adventure|Animation|Comedy|Family|Fantasy,Dir_455,Act_119
+Mov_929,5/12/2013,English,50200000,USA,The Adjustment BureauÂ ,Romance|Sci-Fi|Thriller,Dir_420,Act_8
+Mov_930,6/26/2012,English,48000000,USA,Robin Hood: Prince of ThievesÂ ,Action|Adventure|Drama|Romance,Dir_134,Act_98
+Mov_931,7/4/2010,English,50000000,USA,Jerry MaguireÂ ,Comedy|Drama|Romance|Sport,Dir_461,Act_95
+Mov_932,5/18/2012,English,50000000,USA,TedÂ ,Comedy|Fantasy,Dir_164,Act_86
+Mov_933,4/23/2010,English,50000000,USA,As Good as It GetsÂ ,Comedy|Drama|Romance,Dir_408,Act_48
+Mov_934,3/27/2011,English,50000000,USA,Patch AdamsÂ ,Biography|Comedy|Drama|Romance,Dir_59,Act_45
+Mov_935,2/4/2015,English,50000000,USA,Anchorman 2: The Legend ContinuesÂ ,Comedy,Dir_39,Act_71
+Mov_936,8/28/2011,English,50000000,USA,Mr. DeedsÂ ,Comedy|Romance,Dir_456,Act_138
+Mov_937,7/29/2015,English,50000000,USA,Super 8Â ,Mystery|Sci-Fi|Thriller,Dir_334,Act_118
+Mov_938,6/9/2010,English,52000000,USA,Erin BrockovichÂ ,Biography|Drama,Dir_251,Act_120
+Mov_939,9/8/2011,English,50000000,USA,How to Lose a Guy in 10 DaysÂ ,Comedy|Romance,Dir_110,Act_38
+Mov_940,5/16/2016,English,50000000,USA,22 Jump StreetÂ ,Action|Comedy|Crime,Dir_137,Act_59
+Mov_941,9/17/2014,English,60000000,USA,Interview with the Vampire: The Vampire ChroniclesÂ ,Drama|Fantasy|Horror,Dir_388,Act_57
+Mov_942,10/26/2013,English,70000000,USA,Yes ManÂ ,Comedy|Romance,Dir_30,Act_30
+Mov_943,1/31/2014,English,50000000,USA,Central IntelligenceÂ ,Action|Comedy|Crime,Dir_318,Act_55
+Mov_944,1/1/2011,English,50000000,USA,StepmomÂ ,Comedy|Drama,Dir_392,Act_137
+Mov_945,12/22/2013,English,50000000,USA,Daddy's HomeÂ ,Comedy|Family,Dir_22,Act_138
+Mov_946,4/8/2011,English,50000000,USA,Into the WoodsÂ ,Adventure|Comedy|Drama|Fantasy|Musical,Dir_32,Act_142
+Mov_947,7/4/2012,English,45000000,USA,Inside ManÂ ,Crime|Drama|Mystery|Thriller,Dir_443,Act_98
+Mov_948,7/28/2013,English,50000000,USA,PaybackÂ ,Action|Crime|Drama|Thriller,Dir_410,Act_128
+Mov_949,10/23/2016,English,50000000,USA,CongoÂ ,Action|Adventure|Mystery|Sci-Fi,Dir_279,Act_124
+Mov_950,2/5/2015,English,17700000,USA,We Bought a ZooÂ ,Comedy|Drama|Family,Dir_247,Act_80
+Mov_951,9/16/2012,English,50000000,USA,KnowingÂ ,Drama|Mystery|Sci-Fi|Thriller,Dir_389,Act_112
+Mov_952,2/9/2015,English,50000000,USA,Failure to LaunchÂ ,Comedy|Romance,Dir_195,Act_2
+Mov_953,11/17/2015,English,17700000,USA,The Ring TwoÂ ,Horror|Mystery,Dir_199,Act_10
+Mov_954,9/29/2012,English,50000000,USA,"Crazy, Stupid, Love.Â ",Comedy|Drama|Romance,Dir_53,Act_124
+Mov_955,7/24/2015,English,35000000,USA,GarfieldÂ ,Animation|Comedy|Family|Fantasy,Dir_73,Act_51
+Mov_956,10/17/2011,English,60000000,USA,Christmas with the KranksÂ ,Comedy|Family,Dir_185,Act_6
+Mov_957,8/26/2012,English,50000000,USA,MoneyballÂ ,Biography|Drama|Sport,Dir_281,Act_108
+Mov_958,5/1/2010,English,50000000,USA,OutbreakÂ ,Action|Drama|Thriller,Dir_281,Act_135
+Mov_959,6/22/2012,English,50000000,UK,Non-StopÂ ,Action|Mystery|Thriller,Dir_381,Act_83
+Mov_960,10/30/2013,English,65000000,USA,Race to Witch MountainÂ ,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,Dir_437,Act_116
+Mov_961,4/2/2014,English,54000000,USA,V for VendettaÂ ,Action|Drama|Thriller,Dir_130,Act_119
+Mov_962,3/6/2012,English,50000000,USA,Shanghai KnightsÂ ,Action|Adventure|Comedy,Dir_500,Act_20
+Mov_963,3/9/2011,English,17700000,UK,UnforgottenÂ             ,Crime|Drama,Dir_145,Act_124
+Mov_964,2/22/2015,English,50000000,USA,Curious GeorgeÂ ,Adventure|Animation|Comedy|Family,Dir_320,Act_54
+Mov_965,9/10/2016,English,50000000,USA,Herbie Fully LoadedÂ ,Adventure|Comedy|Family|Fantasy|Romance|Sport,Dir_45,Act_76
+Mov_966,7/21/2016,English,50000000,USA,Don't Say a WordÂ ,Crime|Drama|Mystery|Thriller,Dir_114,Act_71
+Mov_967,1/19/2010,English,50000000,Germany,Hansel & Gretel: Witch HuntersÂ ,Action|Fantasy|Horror,Dir_263,Act_54
+Mov_968,6/11/2010,English,50000000,USA,UnfaithfulÂ ,Drama|Thriller,Dir_55,Act_43
+Mov_969,10/8/2014,English,60000000,USA,I Am Number FourÂ ,Action|Adventure|Sci-Fi|Thriller,Dir_260,Act_19
+Mov_970,3/21/2016,English,50000000,USA,SyrianaÂ ,Drama|Thriller,Dir_22,Act_75
+Mov_971,7/11/2014,English,50000000,USA,13 HoursÂ ,Action|Drama|Thriller|War,Dir_224,Act_81
+Mov_972,11/2/2015,English,50000000,USA,The Book of LifeÂ ,Adventure|Animation|Comedy|Family|Fantasy|Romance,Dir_80,Act_5
+Mov_973,7/6/2011,English,50000000,USA,FirewallÂ ,Crime|Thriller,Dir_22,Act_1
+Mov_974,4/15/2016,English,50000000,USA,Absolute PowerÂ ,Action|Crime|Drama|Thriller,Dir_29,Act_83
+Mov_975,11/9/2011,English,50000000,USA,G.I. JaneÂ ,Action|Drama|War,Dir_72,Act_62
+Mov_976,9/9/2011,English,50000000,USA,The GameÂ ,Drama|Mystery|Thriller,Dir_399,Act_107
+Mov_977,4/14/2013,English,50000000,Canada,Silent HillÂ ,Adventure|Horror|Mystery,Dir_347,Act_125
+Mov_978,5/16/2010,English,50000000,USA,The ReplacementsÂ ,Comedy|Sport,Dir_41,Act_146
+Mov_979,3/1/2014,English,50000000,USA,American ReunionÂ ,Comedy,Dir_78,Act_51
+Mov_980,7/4/2010,English,50000000,Germany,The NegotiatorÂ ,Action|Crime|Drama|Mystery|Thriller,Dir_499,Act_94
+Mov_981,8/25/2010,English,50000000,USA,Into the StormÂ ,Action|Thriller,Dir_15,Act_149
+Mov_982,1/15/2016,English,55000000,USA,Beverly Hills Cop IIIÂ ,Action|Comedy|Crime|Thriller,Dir_133,Act_97
+Mov_983,9/4/2010,English,50000000,USA,Gremlins 2: The New BatchÂ ,Comedy|Fantasy|Horror,Dir_238,Act_18
+Mov_984,5/31/2014,English,50000000,USA,The JudgeÂ ,Crime|Drama,Dir_246,Act_38
+Mov_985,9/8/2014,English,50000000,USA,The PeacemakerÂ ,Action|Thriller,Dir_440,Act_82
+Mov_986,4/2/2012,English,45000000,Germany,Resident Evil: ApocalypseÂ ,Action|Horror|Sci-Fi|Thriller,Dir_380,Act_55
+Mov_987,1/29/2010,English,40000000,UK,Bridget Jones: The Edge of ReasonÂ ,Comedy|Drama|Romance,Dir_464,Act_53
+Mov_988,4/1/2011,English,50000000,USA,Out of TimeÂ ,Crime|Drama|Romance|Thriller,Dir_131,Act_106
+Mov_989,11/30/2016,English,50000000,USA,On Deadly GroundÂ ,Action|Adventure|Thriller,Dir_384,Act_6
+Mov_990,6/18/2010,English,50000000,USA,The Adventures of Sharkboy and Lavagirl 3-DÂ ,Action|Adventure|Family|Fantasy,Dir_349,Act_21
+Mov_991,9/10/2013,English,50000000,USA,The BeachÂ ,Adventure|Drama|Thriller,Dir_3,Act_137
+Mov_992,7/31/2011,English,50000000,USA,Raising HelenÂ ,Comedy|Drama|Romance,Dir_18,Act_83
+Mov_993,9/14/2011,English,40000000,USA,Ninja AssassinÂ ,Action|Crime|Thriller,Dir_323,Act_46
+Mov_994,10/12/2016,English,50000000,USA,For Love of the GameÂ ,Drama|Romance|Sport,Dir_61,Act_122
+Mov_995,5/18/2011,English,17700000,UK,A Touch of FrostÂ             ,Crime|Drama|Mystery,Dir_78,Act_112
+Mov_996,5/1/2015,English,40000000,USA,StripteaseÂ ,Comedy|Crime|Drama|Thriller,Dir_76,Act_60
+Mov_997,8/6/2012,English,50000000,USA,MarmadukeÂ ,Comedy|Family,Dir_239,Act_68
+Mov_998,9/24/2011,English,50000000,USA,HereafterÂ ,Drama|Fantasy,Dir_78,Act_45
+Mov_999,7/10/2013,English,50000000,USA,Murder by NumbersÂ ,Crime|Mystery|Thriller,Dir_361,Act_60
+Mov_1000,2/22/2014,English,50000000,France,AssassinsÂ ,Action|Crime|Thriller,Dir_411,Act_48
