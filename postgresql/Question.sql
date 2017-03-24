@@ -178,7 +178,7 @@ crosstab ('select temp.gender as gender,temp.custage as Age, temp.agegroup as ag
             from temp, transaction as t
             where temp.transaction_id = t.transaction_id
             group by cube(temp.gender),rollup(Age,agegroup)','VALUES (''Children''),(''Teenager''), (''Adult''), (''Older Adult'') ')as ct(gender TEXT,Age TEXT, "Children" TEXT, "Teenager" TEXT, "Adult" TEXT, "Older Adult" TEXT) ; 
-       
+
 -- Question 11 --
 select cin.cinema_id,addr.state_name, SUM(tr.total_price) as TotalSale, RANK() OVER (ORDER BY SUM(tr.total_price) DESC) as Cinema_Rank
 from cinema as cin, total_sales_ft as f, address as addr, transaction as tr
@@ -228,13 +228,13 @@ FROM transaction as tr, total_sales_ft as f
 WHERE tr.transaction_id = f.transaction_id AND EXTRACT(YEAR FROM tr.transaction_date::DATE) = 2016
 GROUP BY EXTRACT(WEEK FROM tr.transaction_date);
                                                                                       
+                                                                                      
 -- Question 17 --
-
 SELECT * 
 FROM (
     SELECT EXTRACT(WEEK FROM tr.transaction_date) AS week,EXTRACT(YEAR FROM tr.transaction_date::DATE)as year, SUM(tr.total_price) AS weekly_total, 
-    TRUNC( AVG(SUM(tr.total_price)) OVER ( ORDER BY EXTRACT(WEEK FROM tr.transaction_date) 
-    ROWS BETWEEN 3 PRECEDING AND CURRENT ROW ),2) AS moving_average_weekly
+    AVG(SUM(tr.total_price)) OVER ( ORDER BY EXTRACT(WEEK FROM tr.transaction_date) 
+    ROWS BETWEEN 3 PRECEDING AND CURRENT ROW ) AS moving_average_weekly
     FROM transaction as tr, total_sales_ft as f
     WHERE tr.transaction_id = f.transaction_id AND EXTRACT(YEAR FROM tr.transaction_date::DATE) = 2016
     GROUP BY EXTRACT(WEEK FROM tr.transaction_date),EXTRACT(YEAR FROM tr.transaction_date::DATE)
@@ -247,8 +247,8 @@ CREATE OR REPLACE VIEW largest_moving_sale_in_5_years AS(
 SELECT *, RANK() OVER( PARTITION BY temp.state ORDER BY moving_average_weekly desc) as largest_moving_sale_rank
 FROM (
     SELECT addr.state_name as state, EXTRACT(WEEK FROM tr.transaction_date) AS week,EXTRACT(YEAR FROM tr.transaction_date::DATE) as year, SUM(tr.total_price) AS weekly_total, 
-    TRUNC(AVG(SUM(tr.total_price)) OVER (PARTITION BY addr.state_name ORDER BY EXTRACT(WEEK FROM tr.transaction_date) 
-    ROWS BETWEEN 3 PRECEDING AND CURRENT ROW ),2) AS moving_average_weekly
+    AVG(SUM(tr.total_price)) OVER (PARTITION BY addr.state_name ORDER BY EXTRACT(WEEK FROM tr.transaction_date) 
+    ROWS BETWEEN 3 PRECEDING AND CURRENT ROW ) AS moving_average_weekly
 
     FROM transaction as tr, total_sales_ft as f, address as addr, cinema as cin
     WHERE tr.transaction_id = f.transaction_id AND EXTRACT(YEAR FROM tr.transaction_date::DATE) <= 2016 AND EXTRACT(YEAR FROM tr.transaction_date::DATE) >= 2011
