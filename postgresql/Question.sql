@@ -11,13 +11,17 @@ AS final_result(row_name TEXT, Female NUMERIC, Male NUMERIC);
 
 --Question 2
 SELECT * 
-FROM crosstab('SELECT DATE_TRUNC(''month'', t.transaction_date) AS Month, 
-                t.transaction_method AS Transaction_Method,
-                TRUNC(SUM(t.total_price), 2) AS Total_Sales
-     FROM total_sales_ft AS ft, transaction AS t, customer AS c
+FROM crosstab('WITH t AS (
+                    SELECT *, to_char(transaction_date, ''YYYY'') AS Year,
+                        to_char(transaction_date, ''MM'') AS Month
+                    FROM transaction )
+     SELECT (t.Year || coalesce (''-'' || t.Month, ''''))::TEXT AS Time, 
+        t.transaction_method AS Transaction_Method,
+        TRUNC(SUM(t.total_price), 2) AS Total_Sales
+     FROM total_sales_ft AS ft, t, customer AS c
      WHERE ft.transaction_id = t.transaction_id 
         AND ft.customer_id = c.customer_id
-     GROUP BY ROLLUP(EXTRACT(year FROM DATE_TRUNC(''month'', t.transaction_date))), Transaction_Method') 
+     GROUP BY ROLLUP(t.Year, t.Month), Transaction_Method ORDER BY Time, Transaction_Method;') 
 AS final_result(Month TEXT, OfflineTransaction NUMERIC, OnlineTransaction NUMERIC);
 
 --Question 3
@@ -159,7 +163,7 @@ AS final_result(State TEXT, LargeSizeHall NUMERIC, MidSizeHall NUMERIC, SmallSiz
 select cin.cinema_id,addr.state_name, SUM(tr.total_price) as TotalSale, RANK() OVER (ORDER BY SUM(tr.total_price) DESC) as Cinema_Rank
 from cinema as cin, total_sales_ft as f, address as addr, transaction as tr
 where cin.address_id = addr.address_id AND f.cinema_id = cin.cinema_id AND tr.transaction_id = f.transaction_id
-GROUP BY cin.cinema_id,addr.state_name
+GROUP BY cin.cinema_id,addr.state_name;
 
 -- Question 12 -- 
 SELECT Dir.director_name,mov.movie_title, SUM(tr.total_price) as TotalSale, RANK() OVER (ORDER BY SUM(tr.total_price) DESC) as Movie_rank 
@@ -194,14 +198,14 @@ WHERE EXTRACT(YEAR FROM tr.transaction_date::DATE) >= 2011 and EXTRACT(YEAR FROM
 AND tr.transaction_id = f.transaction_id AND t.transaction_id = f.transaction_id
 GROUP BY cin.cinema_id
 ORDER BY total_ticket DESC
-LIMIT 5
+LIMIT 5;
 
 -- Question 16 -- 
 SELECT EXTRACT(WEEK FROM tr.transaction_date) AS week, SUM(tr.total_price) AS weekly_total, AVG(SUM(tr.total_price)) OVER ( ORDER BY EXTRACT(WEEK FROM tr.transaction_date)
     																					ROWS BETWEEN 3 PRECEDING AND CURRENT ROW ) AS moving_average_weekly
 FROM transaction as tr, total_sales_ft as f
 WHERE tr.transaction_id = f.transaction_id AND EXTRACT(YEAR FROM tr.transaction_date::DATE) = 2016
-GROUP BY EXTRACT(WEEK FROM tr.transaction_date)
+GROUP BY EXTRACT(WEEK FROM tr.transaction_date);
                                                                                       
 -- Question 17 --
 SELECT * 
@@ -217,7 +221,7 @@ ORDER BY temp.moving_average_weekly DESC
 LIMIT 3; 
                                                   
 -- Question 18 -- 
-CREATE VIEW largest_moving_sale_in_5_years AS(
+CREATE OR REPLACE VIEW largest_moving_sale_in_5_years AS(
 SELECT *, RANK() OVER( PARTITION BY temp.state ORDER BY moving_average_weekly desc) as largest_moving_sale_rank
 FROM (
     SELECT addr.state_name as state, EXTRACT(WEEK FROM tr.transaction_date) AS week,EXTRACT(YEAR FROM tr.transaction_date::DATE) as year, SUM(tr.total_price) AS weekly_total, 
@@ -229,7 +233,7 @@ FROM (
     AND cin.address_id = addr.address_id AND cin.cinema_id = f.cinema_id
     GROUP BY  addr.state_name,EXTRACT(WEEK FROM tr.transaction_date),EXTRACT(YEAR FROM tr.transaction_date::DATE)
     ) AS temp
-)
+);
 SELECT *
 FROM largest_moving_sale_in_5_years
 WHERE largest_moving_sale_rank = 1; 
