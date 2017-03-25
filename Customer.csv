@@ -2,7 +2,11 @@ Customer_id,,Name,Dob,gender
 C_1,Addr_38,Margaret Anderson,1995/06/14,Female
 C_2,Addr_40,Anna Marshall,1976/03/16,Female
 C_3,Addr_33,Christina Young,1961/07/05,Female
+<<<<<<< HEAD
 C_4,Addr_45,Michelle Ray,2007/01/14,Female
+=======
+C_4,Addr_44,Michelle Ray,2007/01/14,Female
+>>>>>>> origin/master
 C_5,Addr_32,Kathleen Reed,2010/02/25,Female
 C_6,Addr_17,Debra Brooks,1997/07/24,Female
 C_7,Addr_4,Bonnie Jacobs,1963/11/23,Female
@@ -70,7 +74,11 @@ C_68,Addr_23,Anne Larson,1991/08/16,Female
 C_69,Addr_21,Arthur Rivera,1968/08/17,Male
 C_70,Addr_31,Roger West,2004/07/12,Male
 C_71,Addr_43,Louis Greene,1960/08/17,Male
+<<<<<<< HEAD
 C_72,Addr_45,Steve Larson,1953/04/15,Male
+=======
+C_72,Addr_44,Steve Larson,1953/04/15,Male
+>>>>>>> origin/master
 C_73,Addr_22,Wayne Reynolds,1966/10/01,Male
 C_74,Addr_38,Lawrence Hernandez,1953/10/15,Male
 C_75,Addr_30,Patricia Diaz,1978/04/15,Female
@@ -88,7 +96,11 @@ C_86,Addr_31,Anne Foster,1982/07/03,Female
 C_87,Addr_17,Michael Tucker,2010/04/29,Male
 C_88,Addr_23,Andrew Hernandez,2004/05/13,Male
 C_89,Addr_9,Kevin Nichols,1969/04/08,Male
+<<<<<<< HEAD
 C_90,Addr_45,Joyce Palmer,1990/05/21,Female
+=======
+C_90,Addr_44,Joyce Palmer,1990/05/21,Female
+>>>>>>> origin/master
 C_91,Addr_31,Gregory Armstrong,2001/12/23,Male
 C_92,Addr_37,Dennis Reynolds,1970/10/19,Male
 C_93,Addr_27,Ruby Cook,1952/02/05,Female
@@ -127,7 +139,11 @@ C_125,Addr_8,Barbara Ross,1956/12/28,Female
 C_126,Addr_24,Harry Bryant,2005/01/07,Male
 C_127,Addr_14,Eugene Coleman,1952/02/03,Male
 C_128,Addr_44,Lillian Russell,1994/10/29,Female
+<<<<<<< HEAD
 C_129,Addr_45,Katherine Ramirez,1961/05/05,Female
+=======
+C_129,Addr_44,Katherine Ramirez,1961/05/05,Female
+>>>>>>> origin/master
 C_130,Addr_12,Mildred Boyd,1953/10/18,Female
 C_131,Addr_17,Louis Daniels,2007/11/17,Male
 C_132,Addr_11,Billy Ford,1991/01/25,Male
@@ -163,7 +179,11 @@ C_161,Addr_16,Annie Stone,1971/05/17,Female
 C_162,Addr_14,Matthew Lee,1953/12/13,Male
 C_163,Addr_13,Henry Young,1991/07/18,Male
 C_164,Addr_37,Nicholas Alvarez,1963/12/06,Male
+<<<<<<< HEAD
 C_165,Addr_45,Stephanie Campbell,1962/09/20,Female
+=======
+C_165,Addr_44,Stephanie Campbell,1962/09/20,Female
+>>>>>>> origin/master
 C_166,Addr_16,Alice Murphy,1993/02/18,Female
 C_167,Addr_26,Wanda Scott,2004/05/25,Female
 C_168,Addr_34,Anthony Howard,1951/05/04,Male
@@ -229,7 +249,11 @@ C_227,Addr_24,Louis Williamson,1950/05/16,Male
 C_228,Addr_3,Nicholas Lawson,2002/07/04,Male
 C_229,Addr_40,Andrea Stewart,1984/06/01,Female
 C_230,Addr_8,Thomas Watkins,1968/03/21,Male
+<<<<<<< HEAD
 C_231,Addr_45,Dennis Young,1989/04/19,Male
+=======
+C_231,Addr_44,Dennis Young,1989/04/19,Male
+>>>>>>> origin/master
 C_232,Addr_27,Jessica Ross,1973/06/08,Female
 C_233,Addr_20,Ruth Torres,1982/09/26,Female
 C_234,Addr_43,Bruce Ray,2010/05/17,Male
@@ -294,7 +318,11 @@ C_292,Addr_10,Julia Franklin,1951/11/25,Female
 C_293,Addr_35,Rachel Cunningham,1970/07/07,Female
 C_294,Addr_22,Deborah Simpson,1963/02/19,Female
 C_295,Addr_16,Catherine Moore,2001/04/29,Female
+<<<<<<< HEAD
 C_296,Addr_45,Steve Collins,1984/08/19,Male
+=======
+C_296,Addr_44,Steve Collins,1984/08/19,Male
+>>>>>>> origin/master
 C_297,Addr_21,Bobby Nelson,1957/11/07,Male
 C_298,Addr_26,Jacqueline Burns,1960/05/13,Female
 C_299,Addr_12,Shawn Vasquez,1956/04/29,Male
@@ -328,7 +356,11 @@ C_326,Addr_15,Albert Murray,1969/03/19,Male
 C_327,Addr_15,Phillip Williams,2006/09/08,Male
 C_328,Addr_30,Laura Morris,1973/12/08,Female
 C_329,Addr_35,Sean Hunt,1984/04/22,Male
+<<<<<<< HEAD
 C_330,Addr_45,Betty Ray,2009/12/28,Female
+=======
+C_330,Addr_44,Betty Ray,2009/12/28,Female
+>>>>>>> origin/master
 C_331,Addr_3,Teresa Fisher,2001/01/24,Female
 C_332,Addr_21,Joan Rice,1971/09/14,Female
 C_333,Addr_9,Thomas Carr,1993/11/28,Male
@@ -420,7 +452,11 @@ C_418,Addr_29,Harry Perez,2006/09/09,Male
 C_419,Addr_39,Ann Snyder,1998/08/02,Female
 C_420,Addr_32,Arthur Collins,1971/12/28,Male
 C_421,Addr_36,Gerald Austin,1951/09/15,Male
+<<<<<<< HEAD
 C_422,Addr_45,Daniel Ferguson,1992/01/25,Male
+=======
+C_422,Addr_44,Daniel Ferguson,1992/01/25,Male
+>>>>>>> origin/master
 C_423,Addr_17,Anthony Russell,1961/09/15,Male
 C_424,Addr_9,Bobby Greene,1961/03/21,Male
 C_425,Addr_27,Teresa Wells,1990/01/31,Female
@@ -445,7 +481,11 @@ C_443,Addr_41,Jason Coleman,1955/05/28,Male
 C_444,Addr_4,Jeremy Berry,1983/05/20,Male
 C_445,Addr_18,Andrea Harrison,1968/05/17,Female
 C_446,Addr_27,Howard Morrison,1959/07/08,Male
+<<<<<<< HEAD
 C_447,Addr_45,Patricia Snyder,1980/05/17,Female
+=======
+C_447,Addr_44,Patricia Snyder,1980/05/17,Female
+>>>>>>> origin/master
 C_448,Addr_9,Emily Burns,1981/11/22,Female
 C_449,Addr_23,Ronald Mccoy,1996/03/11,Male
 C_450,Addr_10,Nicholas Peters,1953/03/19,Male
@@ -458,7 +498,11 @@ C_456,Addr_33,Martin Myers,1976/01/28,Male
 C_457,Addr_28,Adam Boyd,1968/11/27,Male
 C_458,Addr_27,Ruby Banks,1971/10/07,Female
 C_459,Addr_7,Michelle Thomas,2008/02/11,Female
+<<<<<<< HEAD
 C_460,Addr_45,Stephanie Gilbert,1961/04/22,Female
+=======
+C_460,Addr_44,Stephanie Gilbert,1961/04/22,Female
+>>>>>>> origin/master
 C_461,Addr_14,Benjamin Banks,1983/06/12,Male
 C_462,Addr_40,Kathleen Welch,2000/04/13,Female
 C_463,Addr_17,Steve Smith,1990/09/19,Male
@@ -476,7 +520,11 @@ C_474,Addr_43,Adam Duncan,1991/02/14,Male
 C_475,Addr_39,Kimberly Collins,2000/01/25,Female
 C_476,Addr_4,Rachel Ferguson,2006/11/15,Female
 C_477,Addr_16,Jeremy Weaver,1957/01/17,Male
+<<<<<<< HEAD
 C_478,Addr_45,Sean Diaz,1951/05/01,Male
+=======
+C_478,Addr_44,Sean Diaz,1951/05/01,Male
+>>>>>>> origin/master
 C_479,Addr_31,Michelle Chavez,2002/05/02,Female
 C_480,Addr_39,Tina Banks,1959/10/14,Female
 C_481,Addr_14,Johnny Ford,1956/02/20,Male
@@ -491,7 +539,11 @@ C_489,Addr_21,Denise Grant,1994/09/23,Female
 C_490,Addr_4,Phillip Carr,1990/05/01,Male
 C_491,Addr_26,Maria Morgan,1985/02/25,Female
 C_492,Addr_37,Ralph Davis,2000/11/17,Male
+<<<<<<< HEAD
 C_493,Addr_45,Mildred Wells,1975/02/26,Female
+=======
+C_493,Addr_44,Mildred Wells,1975/02/26,Female
+>>>>>>> origin/master
 C_494,Addr_21,Beverly Dixon,1951/08/25,Female
 C_495,Addr_40,Debra Hayes,1972/05/08,Female
 C_496,Addr_16,Susan Wright,1968/07/22,Female
@@ -508,7 +560,11 @@ C_506,Addr_4,Howard Freeman,1988/05/11,Male
 C_507,Addr_12,Russell Jenkins,1954/01/11,Male
 C_508,Addr_27,Kelly Johnson,1984/11/03,Female
 C_509,Addr_34,Ralph Stevens,2002/04/05,Male
+<<<<<<< HEAD
 C_510,Addr_45,Daniel Lane,1975/01/31,Male
+=======
+C_510,Addr_44,Daniel Lane,1975/01/31,Male
+>>>>>>> origin/master
 C_511,Addr_9,Alice Morris,1965/05/31,Female
 C_512,Addr_29,Christopher Sanchez,1972/08/18,Male
 C_513,Addr_35,Henry Powell,1952/06/20,Male
@@ -572,18 +628,30 @@ C_570,Addr_21,Michelle Gonzales,1975/01/23,Female
 C_571,Addr_6,Timothy Turner,1990/08/22,Male
 C_572,Addr_15,Antonio Peterson,1978/06/11,Male
 C_573,Addr_28,Rebecca Nelson,1972/11/13,Female
+<<<<<<< HEAD
 C_574,Addr_45,Ryan Hanson,1994/08/17,Male
+=======
+C_574,Addr_44,Ryan Hanson,1994/08/17,Male
+>>>>>>> origin/master
 C_575,Addr_16,Irene Frazier,1980/09/09,Female
 C_576,Addr_14,Jennifer Long,1953/10/23,Female
 C_577,Addr_42,Lawrence Welch,2002/03/11,Male
 C_578,Addr_20,Justin Boyd,1958/06/16,Male
 C_579,Addr_10,Richard Wagner,2000/12/16,Male
+<<<<<<< HEAD
 C_580,Addr_45,Scott Duncan,1952/01/03,Male
+=======
+C_580,Addr_44,Scott Duncan,1952/01/03,Male
+>>>>>>> origin/master
 C_581,Addr_22,Earl Diaz,1951/03/19,Male
 C_582,Addr_42,Anthony Hamilton,1955/03/18,Male
 C_583,Addr_4,Jason Jordan,1979/05/02,Male
 C_584,Addr_40,Wanda Crawford,1990/09/18,Female
+<<<<<<< HEAD
 C_585,Addr_45,Ann Ray,2010/08/27,Female
+=======
+C_585,Addr_44,Ann Ray,2010/08/27,Female
+>>>>>>> origin/master
 C_586,Addr_6,Jonathan Ward,1969/11/27,Male
 C_587,Addr_41,Ruth Gilbert,2007/09/16,Female
 C_588,Addr_16,Clarence Alexander,1998/09/06,Male
@@ -724,7 +792,11 @@ C_722,Addr_1,Janet Hughes,1959/02/14,Female
 C_723,Addr_31,Gloria Phillips,1954/03/20,Female
 C_724,Addr_12,Christopher Powell,1960/09/11,Male
 C_725,Addr_44,Steve Wright,1975/12/16,Male
+<<<<<<< HEAD
 C_726,Addr_45,Rachel Webb,1989/12/24,Female
+=======
+C_726,Addr_44,Rachel Webb,1989/12/24,Female
+>>>>>>> origin/master
 C_727,Addr_14,Elizabeth Andrews,1963/10/19,Female
 C_728,Addr_15,Paula Wells,1963/12/11,Female
 C_729,Addr_41,Alan Arnold,1960/01/02,Male
@@ -768,7 +840,11 @@ C_766,Addr_3,Andrea Mccoy,1960/07/14,Female
 C_767,Addr_15,Clarence Ward,1962/11/04,Male
 C_768,Addr_7,Howard Harvey,1964/12/04,Male
 C_769,Addr_25,Eugene Barnes,1977/02/26,Male
+<<<<<<< HEAD
 C_770,Addr_45,Melissa Robertson,1950/08/27,Female
+=======
+C_770,Addr_44,Melissa Robertson,1950/08/27,Female
+>>>>>>> origin/master
 C_771,Addr_26,Louis Jenkins,1963/03/16,Male
 C_772,Addr_32,Terry Hunter,2005/10/28,Male
 C_773,Addr_13,Todd Alexander,1992/08/23,Male
@@ -817,7 +893,11 @@ C_815,Addr_30,Gregory Ryan,1998/03/26,Male
 C_816,Addr_37,Barbara Kennedy,2005/06/26,Female
 C_817,Addr_6,Frank Burke,2010/02/17,Male
 C_818,Addr_2,Denise Rose,2003/12/13,Female
+<<<<<<< HEAD
 C_819,Addr_45,Steve Foster,1983/08/27,Male
+=======
+C_819,Addr_44,Steve Foster,1983/08/27,Male
+>>>>>>> origin/master
 C_820,Addr_42,Ann Reynolds,1978/04/29,Female
 C_821,Addr_3,John Simmons,2000/06/10,Male
 C_822,Addr_24,Benjamin Hill,1979/07/27,Male
@@ -924,12 +1004,21 @@ C_922,Addr_41,Raymond Gray,1982/12/23,Male
 C_923,Addr_18,Wanda Graham,1974/04/19,Female
 C_924,Addr_35,Fred Miller,1952/05/06,Male
 C_925,Addr_37,Judy Sims,1967/01/03,Female
+<<<<<<< HEAD
 C_926,Addr_45,Raymond Ryan,1983/03/03,Male
 C_927,Addr_45,Heather Stephens,1953/02/21,Female
 C_928,Addr_37,Martin Palmer,1965/10/15,Male
 C_929,Addr_24,James Marshall,1963/11/09,Male
 C_930,Addr_12,Patrick Arnold,1981/07/30,Male
 C_931,Addr_45,Ruby Hunter,1955/08/22,Female
+=======
+C_926,Addr_44,Raymond Ryan,1983/03/03,Male
+C_927,Addr_44,Heather Stephens,1953/02/21,Female
+C_928,Addr_37,Martin Palmer,1965/10/15,Male
+C_929,Addr_24,James Marshall,1963/11/09,Male
+C_930,Addr_12,Patrick Arnold,1981/07/30,Male
+C_931,Addr_44,Ruby Hunter,1955/08/22,Female
+>>>>>>> origin/master
 C_932,Addr_7,Rebecca Hunter,1959/10/27,Female
 C_933,Addr_34,Jose George,1970/10/11,Male
 C_934,Addr_37,Sandra Larson,1984/08/13,Female
@@ -967,7 +1056,11 @@ C_965,Addr_13,Larry Graham,1952/03/14,Male
 C_966,Addr_19,Nicole Arnold,2003/03/04,Female
 C_967,Addr_7,Carol Holmes,1989/05/08,Female
 C_968,Addr_12,Louise Foster,1974/07/13,Female
+<<<<<<< HEAD
 C_969,Addr_45,Mark Ruiz,1960/05/07,Male
+=======
+C_969,Addr_44,Mark Ruiz,1960/05/07,Male
+>>>>>>> origin/master
 C_970,Addr_5,Arthur Wright,1956/05/23,Male
 C_971,Addr_36,Brenda White,1954/05/27,Female
 C_972,Addr_17,Tina Hamilton,1998/02/16,Female
@@ -998,4 +1091,8 @@ C_996,Addr_30,Raymond Gonzalez,1996/02/19,Male
 C_997,Addr_40,Nicholas Woods,1985/06/23,Male
 C_998,Addr_43,Amy Perry,1996/01/14,Female
 C_999,Addr_34,Richard Bell,1956/12/20,Male
+<<<<<<< HEAD
 C_1000,Addr_45,Chris Richards,1958/08/03,Male
+=======
+C_1000,Addr_44,Chris Richards,1958/08/03,Male
+>>>>>>> origin/master
